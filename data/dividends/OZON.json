@@ -1,0 +1,21 @@
+{
+  "ticker": "OZON",
+  "scrapedAt": "2026-03-31T14:21:05Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-22",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-12-22",
+      "declaredDate": "2025-11-07",
+      "amount": 143.55,
+      "year": 2025,
+      "isForecast": false
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ticker": "MDMG",
+  "scrapedAt": "2026-03-31T14:20:20Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-11-27",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-20",
+      "declaredDate": null,
+      "amount": 48.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-05-19",
+      "declaredDate": null,
+      "amount": 40.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-10-20",
+      "declaredDate": "2025-10-01",
+      "amount": 42.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-05-19",
+      "declaredDate": "2025-03-31",
+      "amount": 22.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-11-29",
+      "declaredDate": "2024-11-19",
+      "amount": 20.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-09-09",
+      "declaredDate": "2024-08-29",
+      "amount": 22.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-20",
+      "declaredDate": "2024-06-10",
+      "amount": 141.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-11-07",
+      "declaredDate": "2022-10-31",
+      "amount": 8.51,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-09-24",
+      "declaredDate": "2021-09-10",
+      "amount": 18.06,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-05",
+      "declaredDate": "2021-04-26",
+      "amount": 19.33,
+      "year": 2021,
+      "isForecast": false
+    }
+  ]
+}

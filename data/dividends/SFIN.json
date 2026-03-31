@@ -1,0 +1,77 @@
+{
+  "ticker": "SFIN",
+  "scrapedAt": "2026-03-31T14:21:36Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-25",
+      "declaredDate": null,
+      "amount": 49.73,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-09",
+      "declaredDate": null,
+      "amount": 26.84,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-12-25",
+      "declaredDate": "2025-11-21",
+      "amount": 902.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-06-09",
+      "declaredDate": "2025-04-28",
+      "amount": 83.5,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-12-23",
+      "declaredDate": "2024-11-06",
+      "amount": 227.6,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-17",
+      "declaredDate": "2024-05-02",
+      "amount": 20.6,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-14",
+      "declaredDate": "2023-10-27",
+      "amount": 39.42,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-08",
+      "declaredDate": "2019-04-26",
+      "amount": 14.5,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-08",
+      "declaredDate": "2018-04-27",
+      "amount": 17.25,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-12-26",
+      "declaredDate": "2017-11-24",
+      "amount": 13.0,
+      "year": 2017,
+      "isForecast": false
+    }
+  ]
+}

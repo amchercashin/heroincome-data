@@ -1,0 +1,133 @@
+{
+  "ticker": "GAZP",
+  "scrapedAt": "2026-03-31T14:19:35Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-11",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-10-11",
+      "declaredDate": "2022-08-30",
+      "amount": 51.03,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-15",
+      "declaredDate": "2021-05-20",
+      "amount": 12.55,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-16",
+      "declaredDate": "2020-05-22",
+      "amount": 15.24,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-18",
+      "declaredDate": "2019-04-11",
+      "amount": 16.61,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-19",
+      "declaredDate": "2018-05-16",
+      "amount": 8.04,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-20",
+      "declaredDate": "2017-04-13",
+      "amount": 8.04,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-20",
+      "declaredDate": "2016-04-14",
+      "amount": 7.89,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-16",
+      "declaredDate": "2015-05-15",
+      "amount": 7.2,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-17",
+      "declaredDate": "2014-05-15",
+      "amount": 7.2,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-13",
+      "declaredDate": "2013-02-05",
+      "amount": 5.99,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-10",
+      "declaredDate": "2012-02-06",
+      "amount": 8.97,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-12",
+      "declaredDate": "2011-02-04",
+      "amount": 3.85,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-07",
+      "declaredDate": "2010-04-16",
+      "amount": 2.39,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-08",
+      "declaredDate": "2009-04-23",
+      "amount": 0.36,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-08",
+      "declaredDate": "2008-04-15",
+      "amount": 2.66,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-11",
+      "declaredDate": "2007-05-22",
+      "amount": 2.54,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-05-12",
+      "declaredDate": "2006-04-20",
+      "amount": 1.5,
+      "year": 2006,
+      "isForecast": false
+    }
+  ]
+}

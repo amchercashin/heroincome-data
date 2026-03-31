@@ -1,0 +1,91 @@
+{
+  "ticker": "FEES",
+  "scrapedAt": "2026-03-31T14:19:30Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-30",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-07-16",
+      "declaredDate": "2021-05-27",
+      "amount": 0.0161,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-05-29",
+      "declaredDate": "2020-04-10",
+      "amount": 0.0094943,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-01-13",
+      "declaredDate": "2019-11-27",
+      "amount": 0.0088096,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-16",
+      "declaredDate": "2019-05-24",
+      "amount": 0.016,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-18",
+      "declaredDate": "2018-05-25",
+      "amount": 0.0148,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-19",
+      "declaredDate": "2017-05-30",
+      "amount": 0.0011165,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-19",
+      "declaredDate": "2017-05-30",
+      "amount": 0.0143,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-11",
+      "declaredDate": "2016-05-30",
+      "amount": 0.0133,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-16",
+      "declaredDate": "2015-05-29",
+      "amount": 0.0006648,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-16",
+      "declaredDate": "2014-05-22",
+      "amount": 0.0003427,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-16",
+      "declaredDate": "2011-05-13",
+      "amount": 0.0020524,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "ticker": "VSMO",
+  "scrapedAt": "2026-03-31T14:22:10Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-09",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2024-06-03",
+      "declaredDate": "2024-05-17",
+      "amount": 564.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-05",
+      "declaredDate": "2023-05-03",
+      "amount": 563.8,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-05",
+      "declaredDate": "2023-05-17",
+      "amount": 563.77,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-05-27",
+      "amount": 563.76,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-10-11",
+      "declaredDate": "2019-08-27",
+      "amount": 884.6,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-03",
+      "declaredDate": "2019-04-16",
+      "amount": 873.42,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-10-12",
+      "declaredDate": "2018-08-24",
+      "amount": 756.0,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-06",
+      "declaredDate": "2018-04-16",
+      "amount": 890.45,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-10-19",
+      "declaredDate": "2017-08-25",
+      "amount": 762.68,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-05",
+      "declaredDate": "2017-04-14",
+      "amount": 1300.0,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-10-03",
+      "declaredDate": "2016-08-19",
+      "amount": 816.0,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-27",
+      "declaredDate": "2016-04-15",
+      "amount": 458.22,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-10-09",
+      "declaredDate": "2015-08-12",
+      "amount": 788.0,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-28",
+      "declaredDate": "2015-04-20",
+      "amount": 831.07,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-17",
+      "declaredDate": "2014-05-07",
+      "amount": 533.91,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-24",
+      "declaredDate": "2013-05-24",
+      "amount": 279.83,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-24",
+      "declaredDate": "2012-05-25",
+      "amount": 26.52,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-06",
+      "declaredDate": "2011-05-06",
+      "amount": 5.1,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-21",
+      "declaredDate": "2010-05-24",
+      "amount": 1.5,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-25",
+      "declaredDate": "2009-05-27",
+      "amount": 23.14,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-15",
+      "declaredDate": "2008-06-30",
+      "amount": 53.92,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-21",
+      "declaredDate": "2007-05-22",
+      "amount": 50.83,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-05-12",
+      "declaredDate": "2006-05-15",
+      "amount": 37.88,
+      "year": 2006,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2005-04-28",
+      "declaredDate": "2005-05-03",
+      "amount": 29.0,
+      "year": 2005,
+      "isForecast": false
+    }
+  ]
+}

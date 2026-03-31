@@ -1,0 +1,105 @@
+{
+  "ticker": "KRKNP",
+  "scrapedAt": "2026-03-31T14:19:56Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": null,
+      "amount": 380.41,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-08",
+      "declaredDate": "2025-05-30",
+      "amount": 447.54,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-08",
+      "declaredDate": "2024-05-22",
+      "amount": 240.67,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-12",
+      "declaredDate": "2023-05-25",
+      "amount": 391.54,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-07",
+      "declaredDate": "2021-05-13",
+      "amount": 1132.93,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-09",
+      "declaredDate": "2020-04-24",
+      "amount": 1766.52,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-09",
+      "declaredDate": "2019-05-16",
+      "amount": 1490.13,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-11",
+      "declaredDate": "2018-05-17",
+      "amount": 1035.34,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-13",
+      "declaredDate": "2017-05-19",
+      "amount": 1051.46,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-13",
+      "declaredDate": "2016-05-13",
+      "amount": 1734.32,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-08",
+      "declaredDate": "2015-05-08",
+      "amount": 1713.22,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-08",
+      "declaredDate": "2014-05-19",
+      "amount": 998.77,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-07",
+      "declaredDate": "2013-04-30",
+      "amount": 804.96,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-05",
+      "declaredDate": "2012-05-05",
+      "amount": 471.64,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

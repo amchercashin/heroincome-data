@@ -1,0 +1,105 @@
+{
+  "ticker": "CNTLP",
+  "scrapedAt": "2026-03-31T14:19:13Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 0.2514,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-11",
+      "declaredDate": "2025-06-02",
+      "amount": 0.224,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-01",
+      "declaredDate": "2024-06-24",
+      "amount": 0.189,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-04",
+      "declaredDate": "2022-06-02",
+      "amount": 1.52,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-18",
+      "declaredDate": "2021-04-30",
+      "amount": 0.25,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-08-10",
+      "declaredDate": "2020-06-29",
+      "amount": 11.83,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-19",
+      "declaredDate": "2019-04-26",
+      "amount": 7.41,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-18",
+      "declaredDate": "2018-04-27",
+      "amount": 0.0301,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-07",
+      "declaredDate": "2017-05-15",
+      "amount": 0.0164,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-08",
+      "declaredDate": "2016-05-19",
+      "amount": 0.0242,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-03",
+      "declaredDate": "2015-04-30",
+      "amount": 0.5813,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-24",
+      "declaredDate": "2014-04-29",
+      "amount": 0.5235,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-29",
+      "declaredDate": "2013-03-29",
+      "amount": 0.0951,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-27",
+      "declaredDate": "2012-03-28",
+      "amount": 0.2,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

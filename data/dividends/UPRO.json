@@ -1,0 +1,147 @@
+{
+  "ticker": "UPRO",
+  "scrapedAt": "2026-03-31T14:22:07Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-13",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-12-17",
+      "declaredDate": "2021-11-02",
+      "amount": 0.1903,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-22",
+      "declaredDate": "2021-05-06",
+      "amount": 0.1269,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-12-20",
+      "declaredDate": "2020-11-03",
+      "amount": 0.111,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-22",
+      "declaredDate": "2020-05-07",
+      "amount": 0.111,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-12-15",
+      "declaredDate": "2019-11-08",
+      "amount": 0.111,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-25",
+      "declaredDate": "2019-05-13",
+      "amount": 0.111,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-12-18",
+      "declaredDate": "2018-11-02",
+      "amount": 0.111,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-03",
+      "declaredDate": "2018-05-11",
+      "amount": 0.111,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-12-18",
+      "declaredDate": "2017-11-09",
+      "amount": 0.111,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-04",
+      "declaredDate": "2017-05-19",
+      "amount": 0.0173,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-04",
+      "declaredDate": "2017-05-19",
+      "amount": 0.0937,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-12-19",
+      "declaredDate": "2016-11-03",
+      "amount": 0.0431,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-12-19",
+      "declaredDate": "2016-11-03",
+      "amount": 0.0727,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-04",
+      "declaredDate": "2016-04-22",
+      "amount": 0.1973,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-07",
+      "declaredDate": "2015-05-05",
+      "amount": 0.2776,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-07",
+      "declaredDate": "2014-05-12",
+      "amount": 0.3002,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-07",
+      "declaredDate": "2014-05-12",
+      "amount": 0.0793,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-17",
+      "declaredDate": "2013-05-07",
+      "amount": 0.2895,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-14",
+      "declaredDate": "2012-05-04",
+      "amount": 0.0579,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

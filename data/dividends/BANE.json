@@ -1,0 +1,112 @@
+{
+  "ticker": "BANE",
+  "scrapedAt": "2026-03-31T14:18:56Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-14",
+      "declaredDate": null,
+      "amount": 16.04,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-14",
+      "declaredDate": "2025-05-27",
+      "amount": 147.31,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-12",
+      "declaredDate": "2024-05-28",
+      "amount": 249.69,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-07",
+      "declaredDate": "2023-05-18",
+      "amount": 199.89,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-06-07",
+      "amount": 117.29,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-06",
+      "declaredDate": "2020-05-15",
+      "amount": 107.81,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-24",
+      "declaredDate": "2019-05-07",
+      "amount": 158.95,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-09",
+      "declaredDate": "2018-05-23",
+      "amount": 158.95,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-12-12",
+      "declaredDate": "2017-10-27",
+      "amount": 148.31,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-15",
+      "declaredDate": "2016-06-23",
+      "amount": 164.0,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-17",
+      "declaredDate": "2015-05-28",
+      "amount": 113.0,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-23",
+      "declaredDate": "2014-04-23",
+      "amount": 211.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-11-05",
+      "declaredDate": "2013-10-23",
+      "amount": 199.0,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-15",
+      "declaredDate": "2013-04-30",
+      "amount": 24.0,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-15",
+      "declaredDate": "2012-04-24",
+      "amount": 99.0,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

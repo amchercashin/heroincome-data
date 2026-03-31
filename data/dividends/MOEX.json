@@ -1,0 +1,105 @@
+{
+  "ticker": "MOEX",
+  "scrapedAt": "2026-03-31T14:20:27Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 19.57,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-10",
+      "declaredDate": "2025-04-04",
+      "amount": 26.11,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-05-13",
+      "declaredDate": "2024-03-06",
+      "amount": 17.35,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-16",
+      "declaredDate": "2023-06-02",
+      "amount": 4.84,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-14",
+      "declaredDate": "2021-03-26",
+      "amount": 9.45,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-05-15",
+      "declaredDate": "2020-03-06",
+      "amount": 7.93,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-14",
+      "declaredDate": "2019-03-25",
+      "amount": 7.7,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-05-15",
+      "declaredDate": "2018-03-02",
+      "amount": 5.47,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-09-29",
+      "declaredDate": "2017-08-09",
+      "amount": 2.49,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-05-16",
+      "declaredDate": "2017-03-02",
+      "amount": 7.68,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-16",
+      "declaredDate": "2016-03-07",
+      "amount": 7.11,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-12",
+      "declaredDate": "2015-03-06",
+      "amount": 3.87,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-11",
+      "declaredDate": "2014-04-23",
+      "amount": 2.38,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-20",
+      "declaredDate": "2013-05-14",
+      "amount": 1.22,
+      "year": 2013,
+      "isForecast": false
+    }
+  ]
+}

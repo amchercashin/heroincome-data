@@ -1,0 +1,126 @@
+{
+  "ticker": "BELU",
+  "scrapedAt": "2026-03-31T14:18:59Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-27",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-16",
+      "declaredDate": null,
+      "amount": 24.75,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-09",
+      "declaredDate": null,
+      "amount": 22.15,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-10-18",
+      "declaredDate": "2025-09-02",
+      "amount": 20.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-06-09",
+      "declaredDate": "2025-03-27",
+      "amount": 25.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-10-11",
+      "declaredDate": "2024-08-26",
+      "amount": 12.5,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-05-13",
+      "declaredDate": "2024-03-18",
+      "amount": 28.12,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-27",
+      "declaredDate": "2023-11-13",
+      "amount": 16.88,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-09-29",
+      "declaredDate": "2023-08-14",
+      "amount": 40.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-04-26",
+      "declaredDate": "2023-03-13",
+      "amount": 50.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-01-23",
+      "declaredDate": "2022-12-05",
+      "amount": 9.38,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-10-13",
+      "declaredDate": "2022-08-30",
+      "amount": 18.75,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-17",
+      "declaredDate": "2022-04-11",
+      "amount": 5.91,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-10-04",
+      "declaredDate": "2021-08-18",
+      "amount": 9.1,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-06",
+      "declaredDate": "2021-03-11",
+      "amount": 11.25,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-26",
+      "declaredDate": "2020-09-15",
+      "amount": 1.25,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-12",
+      "declaredDate": "2020-04-29",
+      "amount": 4.0,
+      "year": 2020,
+      "isForecast": false
+    }
+  ]
+}

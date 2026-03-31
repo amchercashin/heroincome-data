@@ -1,0 +1,28 @@
+{
+  "ticker": "GEMC",
+  "scrapedAt": "2026-03-31T14:19:39Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-27",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-12-15",
+      "declaredDate": "2021-11-30",
+      "amount": 35.56,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-09-27",
+      "declaredDate": "2021-08-27",
+      "amount": 72.22,
+      "year": 2021,
+      "isForecast": false
+    }
+  ]
+}

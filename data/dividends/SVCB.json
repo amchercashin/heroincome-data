@@ -1,0 +1,35 @@
+{
+  "ticker": "SVCB",
+  "scrapedAt": "2026-03-31T14:21:50Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-08",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": null,
+      "amount": 0.59,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-08",
+      "declaredDate": "2025-05-23",
+      "amount": 0.35,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-08",
+      "declaredDate": "2024-05-23",
+      "amount": 1.14,
+      "year": 2024,
+      "isForecast": false
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ticker": "IRAO",
+  "scrapedAt": "2026-03-31T14:19:49Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-09",
+      "declaredDate": null,
+      "amount": 0.3214,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-06-09",
+      "declaredDate": "2025-03-18",
+      "amount": 0.3538,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-03",
+      "declaredDate": "2024-03-20",
+      "amount": 0.326,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-05-30",
+      "declaredDate": "2023-03-20",
+      "amount": 0.2837,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-10",
+      "declaredDate": "2022-03-30",
+      "amount": 0.2366,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-07",
+      "declaredDate": "2021-03-17",
+      "amount": 0.1807,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-01",
+      "declaredDate": "2020-03-18",
+      "amount": 0.1962,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-31",
+      "declaredDate": "2019-03-15",
+      "amount": 0.1716,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-01",
+      "declaredDate": "2018-03-16",
+      "amount": 0.1304,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-20",
+      "declaredDate": "2017-04-07",
+      "amount": 0.1468,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-21",
+      "declaredDate": "2016-04-07",
+      "amount": 0.0178,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-09",
+      "declaredDate": "2015-04-09",
+      "amount": 0.0010397,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-17",
+      "declaredDate": "2011-05-05",
+      "amount": 0.001544,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

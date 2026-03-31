@@ -1,0 +1,77 @@
+{
+  "ticker": "SVAV",
+  "scrapedAt": "2026-03-31T14:21:48Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-11",
+      "declaredDate": null,
+      "amount": 10.17,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-06-11",
+      "declaredDate": "2025-04-24",
+      "amount": 70.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-05",
+      "declaredDate": "2024-05-06",
+      "amount": 89.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-10",
+      "declaredDate": "2023-05-03",
+      "amount": 45.39,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-11",
+      "declaredDate": "2014-04-07",
+      "amount": 52.52,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-08",
+      "declaredDate": "2013-03-11",
+      "amount": 52.52,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-09-05",
+      "declaredDate": "2008-09-17",
+      "amount": 16.0,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-04-11",
+      "declaredDate": "2008-04-16",
+      "amount": 29.18,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-04-01",
+      "declaredDate": "2007-04-24",
+      "amount": 19.7,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-04-21",
+      "declaredDate": "2006-04-24",
+      "amount": 14.0,
+      "year": 2006,
+      "isForecast": false
+    }
+  ]
+}

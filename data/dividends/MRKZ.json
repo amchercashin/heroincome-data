@@ -1,0 +1,63 @@
+{
+  "ticker": "MRKZ",
+  "scrapedAt": "2026-03-31T14:20:39Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-09",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2020-06-09",
+      "declaredDate": "2020-04-30",
+      "amount": 0.0012724,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-01-14",
+      "declaredDate": "2019-11-28",
+      "amount": 0.002,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-25",
+      "declaredDate": "2019-05-08",
+      "amount": 0.003985,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-26",
+      "declaredDate": "2017-05-23",
+      "amount": 0.0011608,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-27",
+      "declaredDate": "2016-05-05",
+      "amount": 0.004254,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-09",
+      "declaredDate": "2014-04-24",
+      "amount": 0.0008,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-14",
+      "declaredDate": "2013-04-22",
+      "amount": 0.0001614,
+      "year": 2013,
+      "isForecast": false
+    }
+  ]
+}

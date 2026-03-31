@@ -1,0 +1,147 @@
+{
+  "ticker": "TTLK",
+  "scrapedAt": "2026-03-31T14:22:03Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-05",
+      "declaredDate": null,
+      "amount": 0.0573,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-05-12",
+      "declaredDate": "2025-03-28",
+      "amount": 0.0377,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-05-27",
+      "declaredDate": "2024-03-26",
+      "amount": 0.0489,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-04-18",
+      "declaredDate": "2023-03-07",
+      "amount": 0.0508,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-05-18",
+      "declaredDate": "2022-03-28",
+      "amount": 0.0428,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-01",
+      "declaredDate": "2021-04-09",
+      "amount": 0.0393,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-05-13",
+      "declaredDate": "2020-03-17",
+      "amount": 0.0202,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-14",
+      "declaredDate": "2019-03-19",
+      "amount": 0.0193,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-05-15",
+      "declaredDate": "2018-05-03",
+      "amount": 0.0192,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-05-16",
+      "declaredDate": "2017-03-21",
+      "amount": 0.0091,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-10",
+      "declaredDate": "2016-03-17",
+      "amount": 0.0114,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-12",
+      "declaredDate": "2015-03-17",
+      "amount": 0.005,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-05-19",
+      "declaredDate": "2014-03-18",
+      "amount": 0.0107,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-03-11",
+      "declaredDate": "2013-02-21",
+      "amount": 0.0106,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-03-12",
+      "declaredDate": "2012-02-21",
+      "amount": 0.0102,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-03-14",
+      "declaredDate": "2011-03-09",
+      "amount": 0.00944,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-03-11",
+      "declaredDate": "2010-03-23",
+      "amount": 0.005554,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-03-11",
+      "declaredDate": "2009-03-20",
+      "amount": 0.0101,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-07",
+      "declaredDate": "2008-05-16",
+      "amount": 0.0126,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-07",
+      "declaredDate": "2007-04-19",
+      "amount": 0.0101,
+      "year": 2007,
+      "isForecast": false
+    }
+  ]
+}

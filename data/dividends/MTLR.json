@@ -1,0 +1,42 @@
+{
+  "ticker": "MTLR",
+  "scrapedAt": "2026-03-31T14:20:44Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2012-05-22",
+      "declaredDate": "2012-05-10",
+      "amount": 8.06,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-04-20",
+      "declaredDate": "2011-04-11",
+      "amount": 8.73,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-24",
+      "declaredDate": "2010-05-28",
+      "amount": 1.09,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-06-04",
+      "declaredDate": "2009-05-28",
+      "amount": 5.53,
+      "year": 2009,
+      "isForecast": false
+    }
+  ]
+}

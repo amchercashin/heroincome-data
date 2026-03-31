@@ -1,0 +1,161 @@
+{
+  "ticker": "GCHE",
+  "scrapedAt": "2026-03-31T14:19:37Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-09-29",
+      "declaredDate": null,
+      "amount": 161.15,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-04-07",
+      "declaredDate": null,
+      "amount": 229.37,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-04-07",
+      "declaredDate": "2025-02-13",
+      "amount": 98.92,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-09-29",
+      "declaredDate": "2024-08-14",
+      "amount": 142.11,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-04-07",
+      "declaredDate": "2024-02-19",
+      "amount": 205.38,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-10-01",
+      "declaredDate": "2023-08-17",
+      "amount": 118.43,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-12-12",
+      "declaredDate": "2022-11-17",
+      "amount": 148.05,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-10-03",
+      "declaredDate": "2021-08-17",
+      "amount": 85.27,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-04-05",
+      "declaredDate": "2021-02-11",
+      "amount": 120.42,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-04-05",
+      "declaredDate": "2021-03-03",
+      "amount": 13.58,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-05",
+      "declaredDate": "2020-08-19",
+      "amount": 48.79,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-04-07",
+      "declaredDate": "2020-02-13",
+      "amount": 60.92,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-10-07",
+      "declaredDate": "2019-08-21",
+      "amount": 48.79,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-04-07",
+      "declaredDate": "2019-02-14",
+      "amount": 101.63,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-10-08",
+      "declaredDate": "2018-08-22",
+      "amount": 20.48,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-04-03",
+      "declaredDate": "2018-02-15",
+      "amount": 75.07,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-10-07",
+      "declaredDate": "2017-10-02",
+      "amount": 59.82,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-05-01",
+      "declaredDate": "2017-04-12",
+      "amount": 13.65,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-03",
+      "declaredDate": "2016-04-27",
+      "amount": 22.75,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-10-09",
+      "declaredDate": "2015-08-20",
+      "amount": 22.75,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-04-17",
+      "declaredDate": "2015-04-09",
+      "amount": 54.6,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-11-21",
+      "declaredDate": "2014-09-15",
+      "amount": 34.44,
+      "year": 2014,
+      "isForecast": false
+    }
+  ]
+}

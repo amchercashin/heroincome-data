@@ -1,0 +1,119 @@
+{
+  "ticker": "LSRG",
+  "scrapedAt": "2026-03-31T14:20:13Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-04-29",
+      "declaredDate": null,
+      "amount": 78.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-04-29",
+      "declaredDate": "2025-03-14",
+      "amount": 78.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-05-02",
+      "declaredDate": "2024-03-15",
+      "amount": 100.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-07",
+      "declaredDate": "2023-05-18",
+      "amount": 78.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-11",
+      "declaredDate": "2021-03-26",
+      "amount": 39.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-12",
+      "declaredDate": "2020-08-28",
+      "amount": 20.0,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-05-12",
+      "declaredDate": "2020-03-26",
+      "amount": 30.0,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-10",
+      "declaredDate": "2019-05-15",
+      "amount": 78.0,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-10",
+      "declaredDate": "2018-05-28",
+      "amount": 78.0,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-20",
+      "declaredDate": "2017-05-05",
+      "amount": 78.0,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-04-18",
+      "declaredDate": "2016-03-03",
+      "amount": 78.0,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-04-18",
+      "declaredDate": "2015-03-05",
+      "amount": 78.0,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-01",
+      "declaredDate": "2014-04-24",
+      "amount": 40.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-02-18",
+      "declaredDate": "2013-02-04",
+      "amount": 20.0,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-02-17",
+      "declaredDate": "2012-02-07",
+      "amount": 20.0,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-03-03",
+      "declaredDate": "2011-03-03",
+      "amount": 15.0,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

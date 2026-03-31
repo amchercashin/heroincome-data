@@ -1,0 +1,217 @@
+{
+  "ticker": "RTKMP",
+  "scrapedAt": "2026-03-31T14:21:27Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-01",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-08-13",
+      "declaredDate": null,
+      "amount": 1.62,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-08-13",
+      "declaredDate": "2025-06-23",
+      "amount": 6.25,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-09-27",
+      "declaredDate": "2024-08-13",
+      "amount": 6.06,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-01",
+      "declaredDate": "2023-10-17",
+      "amount": 5.45,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-20",
+      "declaredDate": "2022-05-31",
+      "amount": 4.56,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-12",
+      "declaredDate": "2021-05-26",
+      "amount": 5.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-08-21",
+      "declaredDate": "2020-07-03",
+      "amount": 5.0,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-04",
+      "declaredDate": "2019-05-16",
+      "amount": 2.5,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-01-13",
+      "declaredDate": "2018-11-29",
+      "amount": 2.5,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-08",
+      "declaredDate": "2018-05-18",
+      "amount": 5.05,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-07",
+      "declaredDate": "2017-05-16",
+      "amount": 5.39,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-08",
+      "declaredDate": "2016-05-24",
+      "amount": 5.92,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-03",
+      "declaredDate": "2015-05-18",
+      "amount": 4.05,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-14",
+      "declaredDate": "2014-05-20",
+      "amount": 4.85,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-30",
+      "declaredDate": "2013-04-26",
+      "amount": 4.1,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-28",
+      "declaredDate": "2012-04-24",
+      "amount": 4.7,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-10",
+      "declaredDate": "2011-05-10",
+      "amount": 0.4344,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-09-21",
+      "declaredDate": "2010-08-30",
+      "amount": 1.67,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-07",
+      "declaredDate": "2010-05-13",
+      "amount": 2.1,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-04-14",
+      "declaredDate": "2009-04-21",
+      "amount": 2.91,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-04-22",
+      "declaredDate": "2008-04-24",
+      "amount": 3.88,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-04-27",
+      "declaredDate": "2007-04-16",
+      "amount": 2.96,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-05-05",
+      "declaredDate": "2006-04-24",
+      "amount": 3.72,
+      "year": 2006,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2005-05-06",
+      "declaredDate": "2005-04-20",
+      "amount": 2.97,
+      "year": 2005,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2004-05-11",
+      "declaredDate": "2004-04-29",
+      "amount": 3.25,
+      "year": 2004,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2003-06-15",
+      "declaredDate": "2003-04-17",
+      "amount": 1.27,
+      "year": 2003,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2002-04-14",
+      "declaredDate": "2002-04-12",
+      "amount": 0.9195,
+      "year": 2002,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2001-05-09",
+      "declaredDate": "2001-05-22",
+      "amount": 0.4243,
+      "year": 2001,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2000-05-08",
+      "declaredDate": "2000-05-03",
+      "amount": 0.8093,
+      "year": 2000,
+      "isForecast": false
+    }
+  ]
+}

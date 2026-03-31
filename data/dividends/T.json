@@ -1,0 +1,105 @@
+{
+  "ticker": "T",
+  "scrapedAt": "2026-03-31T14:21:51Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2027-01-08",
+      "declaredDate": null,
+      "amount": 52.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-06",
+      "declaredDate": null,
+      "amount": 50.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-17",
+      "declaredDate": null,
+      "amount": 48.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-05-25",
+      "declaredDate": null,
+      "amount": 45.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-01-08",
+      "declaredDate": "2025-11-20",
+      "amount": 36.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-10-06",
+      "declaredDate": "2025-08-21",
+      "amount": 35.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-07-17",
+      "declaredDate": "2025-05-22",
+      "amount": 33.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-05-16",
+      "declaredDate": "2025-03-20",
+      "amount": 32.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-11-25",
+      "declaredDate": "2024-11-14",
+      "amount": 92.5,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-03-26",
+      "declaredDate": "2021-03-12",
+      "amount": 17.51,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-11-27",
+      "declaredDate": "2020-11-13",
+      "amount": 19.29,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-08-21",
+      "declaredDate": "2020-08-07",
+      "amount": 14.72,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-05-29",
+      "declaredDate": "2020-05-13",
+      "amount": 10.35,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-03-27",
+      "declaredDate": "2020-03-12",
+      "amount": 15.73,
+      "year": 2020,
+      "isForecast": false
+    }
+  ]
+}

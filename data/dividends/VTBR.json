@@ -1,0 +1,133 @@
+{
+  "ticker": "VTBR",
+  "scrapedAt": "2026-03-31T14:22:12Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 13.17,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-11",
+      "declaredDate": "2025-04-28",
+      "amount": 25.58,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-15",
+      "declaredDate": "2021-04-23",
+      "amount": 0.087,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-15",
+      "declaredDate": "2021-04-23",
+      "amount": 6.91,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-05",
+      "declaredDate": "2020-08-21",
+      "amount": 3.87,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-24",
+      "declaredDate": "2019-04-23",
+      "amount": 5.49,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-04",
+      "declaredDate": "2018-04-16",
+      "amount": 17.27,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-05-10",
+      "declaredDate": "2017-03-23",
+      "amount": 5.85,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-04",
+      "declaredDate": "2016-05-13",
+      "amount": 5.85,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-06",
+      "declaredDate": "2015-05-15",
+      "amount": 5.85,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-01",
+      "declaredDate": "2014-05-15",
+      "amount": 5.8,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-13",
+      "declaredDate": "2013-04-26",
+      "amount": 7.15,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-26",
+      "declaredDate": "2012-04-25",
+      "amount": 4.4,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-04-21",
+      "declaredDate": "2011-04-19",
+      "amount": 2.9,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-04-16",
+      "declaredDate": "2010-04-14",
+      "amount": 2.9,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-13",
+      "declaredDate": "2009-05-14",
+      "amount": 2.23,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-07",
+      "declaredDate": "2008-04-28",
+      "amount": 6.7,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-07",
+      "declaredDate": "2007-06-25",
+      "amount": 3.3,
+      "year": 2007,
+      "isForecast": false
+    }
+  ]
+}

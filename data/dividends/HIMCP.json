@@ -1,0 +1,161 @@
+{
+  "ticker": "HIMCP",
+  "scrapedAt": "2026-03-31T14:19:44Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-12",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-11",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-05-27",
+      "amount": 0.3748,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-11",
+      "declaredDate": "2021-06-08",
+      "amount": 0.3689,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-11",
+      "declaredDate": "2020-09-03",
+      "amount": 0.4942,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-12-10",
+      "declaredDate": "2019-10-29",
+      "amount": 0.0882,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-08-17",
+      "declaredDate": "2019-07-08",
+      "amount": 0.0882,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-16",
+      "declaredDate": "2019-04-30",
+      "amount": 0.142,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-03-17",
+      "declaredDate": "2019-02-04",
+      "amount": 0.154,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-12-11",
+      "declaredDate": "2018-10-24",
+      "amount": 0.1381,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-08-01",
+      "declaredDate": "2018-06-04",
+      "amount": 0.1379,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-26",
+      "declaredDate": "2018-05-15",
+      "amount": 0.2095,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-03-25",
+      "declaredDate": "2018-03-16",
+      "amount": 0.119,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-12-11",
+      "declaredDate": "2017-10-27",
+      "amount": 0.202,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-09-10",
+      "declaredDate": "2017-07-31",
+      "amount": 0.1198,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-11",
+      "declaredDate": "2017-05-29",
+      "amount": 0.1634,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-12-04",
+      "declaredDate": "2016-10-25",
+      "amount": 0.4758,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-18",
+      "declaredDate": "2016-05-27",
+      "amount": 0.105,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-15",
+      "declaredDate": "2015-05-18",
+      "amount": 0.00053,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-20",
+      "declaredDate": "2014-05-26",
+      "amount": 0.0175,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-24",
+      "declaredDate": "2013-05-20",
+      "amount": 0.1022,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-23",
+      "declaredDate": "2012-05-25",
+      "amount": 0.1388,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

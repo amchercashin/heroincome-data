@@ -1,0 +1,189 @@
+{
+  "ticker": "PLZL",
+  "scrapedAt": "2026-03-31T14:21:12Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-22",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-13",
+      "declaredDate": null,
+      "amount": 84.41,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-05-15",
+      "declaredDate": null,
+      "amount": 40.41,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-12-22",
+      "declaredDate": "2025-11-05",
+      "amount": 36.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-10-13",
+      "declaredDate": "2025-08-27",
+      "amount": 70.85,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-04-25",
+      "declaredDate": "2025-03-10",
+      "amount": 73.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-12-13",
+      "declaredDate": "2024-10-23",
+      "amount": 130.18,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-10-11",
+      "declaredDate": "2021-08-24",
+      "amount": 26.75,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-07",
+      "declaredDate": "2021-04-22",
+      "amount": 38.72,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-20",
+      "declaredDate": "2020-09-07",
+      "amount": 24.02,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-08-28",
+      "declaredDate": "2020-07-15",
+      "amount": 24.48,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-10-10",
+      "declaredDate": "2019-08-22",
+      "amount": 16.3,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-16",
+      "declaredDate": "2019-04-01",
+      "amount": 14.36,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-10-18",
+      "declaredDate": "2018-08-24",
+      "amount": 13.11,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-10",
+      "declaredDate": "2018-04-27",
+      "amount": 14.71,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-09-25",
+      "declaredDate": "2017-08-14",
+      "amount": 10.43,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-17",
+      "declaredDate": "2017-06-07",
+      "amount": 15.24,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-11-14",
+      "declaredDate": "2013-10-21",
+      "amount": 2.62,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-10-15",
+      "declaredDate": "2012-10-03",
+      "amount": 6.29,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-10-06",
+      "declaredDate": "2011-09-29",
+      "amount": 2.62,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-04-12",
+      "declaredDate": "2011-04-04",
+      "amount": 1.12,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-07-19",
+      "declaredDate": "2010-07-19",
+      "amount": 0.852,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-04-13",
+      "declaredDate": "2010-04-19",
+      "amount": 0.928,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-08-07",
+      "declaredDate": "2009-07-30",
+      "amount": 0.655,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-21",
+      "declaredDate": "2008-05-21",
+      "amount": 0.295,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-11",
+      "declaredDate": "2007-04-28",
+      "amount": 0.323,
+      "year": 2007,
+      "isForecast": false
+    }
+  ]
+}

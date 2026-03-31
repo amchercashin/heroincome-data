@@ -1,0 +1,28 @@
+{
+  "ticker": "ENPG",
+  "scrapedAt": "2026-03-31T14:19:25Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-05",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2018-03-21",
+      "declaredDate": "2018-03-16",
+      "amount": 6.84,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-11-30",
+      "declaredDate": "2017-11-21",
+      "amount": 12.93,
+      "year": 2017,
+      "isForecast": false
+    }
+  ]
+}

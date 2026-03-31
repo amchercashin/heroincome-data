@@ -1,0 +1,119 @@
+{
+  "ticker": "RAGR",
+  "scrapedAt": "2026-03-31T14:21:17Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-09-10",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-18",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-09-10",
+      "declaredDate": "2021-08-27",
+      "amount": 9.32,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-04-16",
+      "declaredDate": "2021-03-24",
+      "amount": 11.35,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-09-18",
+      "declaredDate": "2020-09-11",
+      "amount": 2.03,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-04-17",
+      "declaredDate": "2020-04-06",
+      "amount": 3.46,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-09-13",
+      "declaredDate": "2019-09-02",
+      "amount": 1.81,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-01",
+      "declaredDate": "2019-04-29",
+      "amount": 3.58,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-09-14",
+      "declaredDate": "2018-08-29",
+      "amount": 1.16,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-04-13",
+      "declaredDate": "2018-04-03",
+      "amount": 2.38,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-09-14",
+      "declaredDate": "2017-08-18",
+      "amount": 1.93,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-04-13",
+      "declaredDate": "2017-03-24",
+      "amount": 4.71,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-09-23",
+      "declaredDate": "2016-08-26",
+      "amount": 2.12,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-27",
+      "declaredDate": "2016-03-29",
+      "amount": 5.65,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-10-02",
+      "declaredDate": "2015-09-01",
+      "amount": 2.17,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-22",
+      "declaredDate": "2015-04-14",
+      "amount": 3.41,
+      "year": 2015,
+      "isForecast": false
+    }
+  ]
+}

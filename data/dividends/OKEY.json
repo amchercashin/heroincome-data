@@ -1,0 +1,98 @@
+{
+  "ticker": "OKEY",
+  "scrapedAt": "2026-03-31T14:21:03Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-22",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-08-01",
+      "declaredDate": "2022-07-29",
+      "amount": 1.87,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-11-04",
+      "declaredDate": "2020-11-02",
+      "amount": 2.27,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-10-03",
+      "declaredDate": "2019-09-18",
+      "amount": 3.61,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-01-25",
+      "declaredDate": "2018-01-23",
+      "amount": 6.97,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-01-20",
+      "declaredDate": "2017-01-17",
+      "amount": 5.44,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-08",
+      "declaredDate": "2016-07-04",
+      "amount": 5.46,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-09-11",
+      "declaredDate": "2015-09-09",
+      "amount": 6.11,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-10-17",
+      "declaredDate": "2014-10-15",
+      "amount": 3.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-02-18",
+      "declaredDate": "2014-02-17",
+      "amount": 7.98,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-02-15",
+      "declaredDate": "2013-02-13",
+      "amount": 5.69,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-02-23",
+      "declaredDate": "2012-02-20",
+      "amount": 3.05,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-09-12",
+      "declaredDate": "2011-09-05",
+      "amount": 2.93,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

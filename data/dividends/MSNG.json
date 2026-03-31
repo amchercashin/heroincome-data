@@ -1,0 +1,161 @@
+{
+  "ticker": "MSNG",
+  "scrapedAt": "2026-03-31T14:20:41Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": null,
+      "amount": 0.1952,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-03-03",
+      "declaredDate": "2026-01-15",
+      "amount": 0.2261,
+      "year": 2026,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-09",
+      "declaredDate": "2024-06-04",
+      "amount": 0.1604,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-04",
+      "declaredDate": "2023-05-26",
+      "amount": 0.1865,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-06-02",
+      "amount": 0.2231,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-05",
+      "declaredDate": "2021-05-26",
+      "amount": 0.1794,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-08",
+      "declaredDate": "2020-05-28",
+      "amount": 0.1207,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-02",
+      "declaredDate": "2019-05-07",
+      "amount": 0.21,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-18",
+      "declaredDate": "2018-05-04",
+      "amount": 0.1659,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-14",
+      "declaredDate": "2017-05-05",
+      "amount": 0.0848,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-17",
+      "declaredDate": "2016-04-29",
+      "amount": 0.0566,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-24",
+      "declaredDate": "2015-05-08",
+      "amount": 0.01,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-16",
+      "declaredDate": "2014-04-30",
+      "amount": 0.04,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-23",
+      "declaredDate": "2013-04-23",
+      "amount": 0.03,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-12",
+      "declaredDate": "2012-05-12",
+      "amount": 0.03,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-12",
+      "declaredDate": "2011-04-26",
+      "amount": 0.02,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-06",
+      "declaredDate": "2010-05-05",
+      "amount": 0.0126,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-10",
+      "declaredDate": "2007-06-22",
+      "amount": 0.0104,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-03-30",
+      "declaredDate": "2007-03-27",
+      "amount": 0.0212,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-04-11",
+      "declaredDate": "2005-11-22",
+      "amount": 0.0161,
+      "year": 2005,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2005-05-14",
+      "declaredDate": "2005-05-23",
+      "amount": 0.0221,
+      "year": 2005,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2004-05-13",
+      "declaredDate": "2004-04-28",
+      "amount": 0.0217,
+      "year": 2004,
+      "isForecast": false
+    }
+  ]
+}

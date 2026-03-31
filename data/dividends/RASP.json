@@ -1,0 +1,105 @@
+{
+  "ticker": "RASP",
+  "scrapedAt": "2026-03-31T14:21:18Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-06",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-07",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-01-18",
+      "declaredDate": "2021-11-24",
+      "amount": 28.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-10-04",
+      "declaredDate": "2021-08-20",
+      "amount": 23.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-07",
+      "declaredDate": "2021-03-30",
+      "amount": 5.7,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-15",
+      "declaredDate": "2020-08-21",
+      "amount": 2.7,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-08",
+      "declaredDate": "2020-03-19",
+      "amount": 2.83,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-10-20",
+      "declaredDate": "2019-08-28",
+      "amount": 2.5,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-07-13",
+      "declaredDate": "2011-07-05",
+      "amount": 5.0,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-04-22",
+      "declaredDate": "2010-04-14",
+      "amount": 5.0,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-11-14",
+      "declaredDate": "2008-09-19",
+      "amount": 1.5,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-04-24",
+      "declaredDate": "2008-04-18",
+      "amount": 3.75,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-10-25",
+      "declaredDate": "2007-10-26",
+      "amount": 1.25,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-04-27",
+      "declaredDate": "2007-04-27",
+      "amount": 1.94,
+      "year": 2007,
+      "isForecast": false
+    }
+  ]
+}

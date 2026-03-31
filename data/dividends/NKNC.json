@@ -1,0 +1,126 @@
+{
+  "ticker": "NKNC",
+  "scrapedAt": "2026-03-31T14:20:53Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-01",
+      "declaredDate": null,
+      "amount": 3.95,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-01",
+      "declaredDate": "2025-05-19",
+      "amount": 2.93,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-09",
+      "declaredDate": "2024-05-24",
+      "amount": 2.94,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-11",
+      "declaredDate": "2023-05-26",
+      "amount": 1.49,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-05-23",
+      "amount": 0.744,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-09-20",
+      "declaredDate": "2021-08-06",
+      "amount": 9.54,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-04-27",
+      "declaredDate": "2021-03-16",
+      "amount": 0.73,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-10",
+      "declaredDate": "2020-03-10",
+      "amount": 9.07,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-04-22",
+      "declaredDate": "2019-03-11",
+      "amount": 19.94,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-04",
+      "declaredDate": "2016-03-16",
+      "amount": 4.34,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-09",
+      "declaredDate": "2015-03-23",
+      "amount": 1.52,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-05-03",
+      "declaredDate": "2014-03-17",
+      "amount": 1.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-03-02",
+      "declaredDate": "2013-02-22",
+      "amount": 2.78,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-26",
+      "declaredDate": "2012-04-25",
+      "amount": 2.36,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-02-25",
+      "declaredDate": "2011-02-15",
+      "amount": 1.18,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-02-25",
+      "declaredDate": "2010-03-12",
+      "amount": 0.07,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-04-23",
+      "declaredDate": "2009-04-27",
+      "amount": 0.3098,
+      "year": 2009,
+      "isForecast": false
+    }
+  ]
+}

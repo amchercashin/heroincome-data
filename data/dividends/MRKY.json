@@ -1,0 +1,42 @@
+{
+  "ticker": "MRKY",
+  "scrapedAt": "2026-03-31T14:20:37Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-19",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2019-06-19",
+      "declaredDate": "2019-05-07",
+      "amount": 0.0068417,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-20",
+      "declaredDate": "2018-05-10",
+      "amount": 0.0054644,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-24",
+      "declaredDate": "2016-05-05",
+      "amount": 0.0028527,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-14",
+      "declaredDate": "2014-05-23",
+      "amount": 0.00014,
+      "year": 2014,
+      "isForecast": false
+    }
+  ]
+}

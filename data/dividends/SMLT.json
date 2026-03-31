@@ -1,0 +1,49 @@
+{
+  "ticker": "SMLT",
+  "scrapedAt": "2026-03-31T14:21:41Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-12",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-10-12",
+      "declaredDate": "2022-08-29",
+      "amount": 41.0,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-06-07",
+      "amount": 41.0,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-10-15",
+      "declaredDate": "2021-08-31",
+      "amount": 41.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-10",
+      "declaredDate": "2021-05-26",
+      "amount": 41.0,
+      "year": 2021,
+      "isForecast": false
+    }
+  ]
+}

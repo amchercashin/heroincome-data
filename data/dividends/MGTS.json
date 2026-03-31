@@ -1,0 +1,98 @@
+{
+  "ticker": "MGTS",
+  "scrapedAt": "2026-03-31T14:20:24Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-15",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2019-07-11",
+      "declaredDate": "2019-05-13",
+      "amount": 232.0,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-12",
+      "declaredDate": "2018-05-14",
+      "amount": 231.0,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-13",
+      "declaredDate": "2017-05-15",
+      "amount": 233.0,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-18",
+      "declaredDate": "2016-05-13",
+      "amount": 222.0,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-08",
+      "declaredDate": "2015-05-13",
+      "amount": 10.99,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-09",
+      "declaredDate": "2014-05-14",
+      "amount": 15.26,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-03-31",
+      "declaredDate": "2011-04-04",
+      "amount": 197.94,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-08",
+      "declaredDate": "2009-05-20",
+      "amount": 2.02,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-10",
+      "declaredDate": "2008-05-21",
+      "amount": 4.7,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-12",
+      "declaredDate": "2007-05-24",
+      "amount": 8.75,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2005-05-02",
+      "declaredDate": "2005-05-17",
+      "amount": 1.82,
+      "year": 2005,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2004-05-03",
+      "declaredDate": "2004-05-19",
+      "amount": 1.21,
+      "year": 2004,
+      "isForecast": false
+    }
+  ]
+}

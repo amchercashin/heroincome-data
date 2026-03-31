@@ -1,0 +1,42 @@
+{
+  "ticker": "RUAL",
+  "scrapedAt": "2026-03-31T14:21:29Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-05-20",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2022-10-20",
+      "declaredDate": "2022-08-30",
+      "amount": 1.18,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-09-07",
+      "declaredDate": "2017-08-25",
+      "amount": 1.15,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-09-30",
+      "declaredDate": "2016-09-30",
+      "amount": 1.03,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-10-28",
+      "declaredDate": "2015-10-16",
+      "amount": 1.0,
+      "year": 2015,
+      "isForecast": false
+    }
+  ]
+}

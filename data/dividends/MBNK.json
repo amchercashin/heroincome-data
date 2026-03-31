@@ -1,0 +1,21 @@
+{
+  "ticker": "MBNK",
+  "scrapedAt": "2026-03-31T14:20:18Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 96.14,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-11",
+      "declaredDate": "2025-05-20",
+      "amount": 89.31,
+      "year": 2025,
+      "isForecast": false
+    }
+  ]
+}

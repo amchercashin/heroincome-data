@@ -1,0 +1,105 @@
+{
+  "ticker": "MVID",
+  "scrapedAt": "2026-03-31T14:20:49Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-04-28",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-12-16",
+      "declaredDate": "2021-11-01",
+      "amount": 35.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-18",
+      "declaredDate": "2021-04-05",
+      "amount": 38.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-11-20",
+      "declaredDate": "2020-10-06",
+      "amount": 30.0,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-12-16",
+      "declaredDate": "2019-10-31",
+      "amount": 33.37,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-01",
+      "declaredDate": "2016-05-02",
+      "amount": 20.0,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-29",
+      "declaredDate": "2015-04-30",
+      "amount": 27.0,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-12-16",
+      "declaredDate": "2014-10-27",
+      "amount": 25.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-04",
+      "declaredDate": "2014-05-06",
+      "amount": 20.0,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-11-01",
+      "declaredDate": "2013-09-16",
+      "amount": 13.8,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-10-23",
+      "declaredDate": "2012-10-19",
+      "amount": 30.0,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-16",
+      "declaredDate": "2012-04-26",
+      "amount": 5.8,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-12",
+      "declaredDate": "2011-04-28",
+      "amount": 3.9,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-12",
+      "declaredDate": "2010-05-17",
+      "amount": 2.3,
+      "year": 2010,
+      "isForecast": false
+    }
+  ]
+}

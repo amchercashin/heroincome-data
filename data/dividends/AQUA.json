@@ -1,0 +1,154 @@
+{
+  "ticker": "AQUA",
+  "scrapedAt": "2026-03-31T14:18:50Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-18",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-06",
+      "declaredDate": null,
+      "amount": 20.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 10.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-07",
+      "declaredDate": null,
+      "amount": 20.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-07",
+      "declaredDate": "2025-05-26",
+      "amount": 10.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-12-02",
+      "declaredDate": "2024-10-21",
+      "amount": 20.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-10-06",
+      "declaredDate": "2024-08-22",
+      "amount": 10.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-08",
+      "declaredDate": "2024-05-27",
+      "amount": 10.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-08",
+      "declaredDate": "2024-04-22",
+      "amount": 10.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-09",
+      "declaredDate": "2023-10-30",
+      "amount": 19.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-09-22",
+      "declaredDate": "2023-08-08",
+      "amount": 16.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-11",
+      "declaredDate": "2023-06-06",
+      "amount": 10.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-12-18",
+      "declaredDate": "2022-11-01",
+      "amount": 15.0,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-09-11",
+      "declaredDate": "2022-08-08",
+      "amount": 15.0,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-07-06",
+      "amount": 8.0,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-12-20",
+      "declaredDate": "2021-11-03",
+      "amount": 4.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-09-21",
+      "declaredDate": "2021-08-18",
+      "amount": 4.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-11",
+      "declaredDate": "2021-04-23",
+      "amount": 5.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-11",
+      "declaredDate": "2021-05-31",
+      "amount": 4.0,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-09-11",
+      "declaredDate": "2020-07-16",
+      "amount": 5.0,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-06-21",
+      "declaredDate": "2010-06-11",
+      "amount": 3.77,
+      "year": 2010,
+      "isForecast": false
+    }
+  ]
+}

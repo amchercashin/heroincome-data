@@ -1,0 +1,119 @@
+{
+  "ticker": "KRSBP",
+  "scrapedAt": "2026-03-31T14:19:59Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-06-18",
+      "declaredDate": null,
+      "amount": 2.42,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-06-18",
+      "declaredDate": "2025-05-05",
+      "amount": 2.25,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-10",
+      "declaredDate": "2024-04-25",
+      "amount": 1.33,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-02",
+      "declaredDate": "2023-04-17",
+      "amount": 1.13,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-02",
+      "declaredDate": "2022-04-15",
+      "amount": 0.8466,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-08",
+      "declaredDate": "2021-04-26",
+      "amount": 0.6471,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-17",
+      "declaredDate": "2020-04-28",
+      "amount": 0.6065,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-10",
+      "declaredDate": "2019-05-22",
+      "amount": 0.455,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-03",
+      "declaredDate": "2018-05-21",
+      "amount": 0.5072,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-13",
+      "declaredDate": "2017-04-21",
+      "amount": 0.4443,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-15",
+      "declaredDate": "2016-05-04",
+      "amount": 0.7667,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-10-09",
+      "declaredDate": "2015-08-12",
+      "amount": 0.2772,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-16",
+      "declaredDate": "2013-04-19",
+      "amount": 0.5841,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-04-29",
+      "declaredDate": "2011-04-19",
+      "amount": 0.5113,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-18",
+      "declaredDate": "2010-05-19",
+      "amount": 0.3471,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-13",
+      "declaredDate": "2009-05-15",
+      "amount": 0.6722,
+      "year": 2009,
+      "isForecast": false
+    }
+  ]
+}

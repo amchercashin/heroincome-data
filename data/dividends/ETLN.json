@@ -1,0 +1,28 @@
+{
+  "ticker": "ETLN",
+  "scrapedAt": "2026-03-31T14:19:27Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-12-10",
+      "declaredDate": "2021-11-18",
+      "amount": 9.31,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-11-20",
+      "declaredDate": "2020-10-19",
+      "amount": 12.61,
+      "year": 2020,
+      "isForecast": false
+    }
+  ]
+}

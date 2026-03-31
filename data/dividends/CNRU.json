@@ -1,0 +1,28 @@
+{
+  "ticker": "CNRU",
+  "scrapedAt": "2026-03-31T14:19:09Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-12",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-03",
+      "declaredDate": null,
+      "amount": 50.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-12-12",
+      "declaredDate": "2025-10-28",
+      "amount": 104.0,
+      "year": 2025,
+      "isForecast": false
+    }
+  ]
+}

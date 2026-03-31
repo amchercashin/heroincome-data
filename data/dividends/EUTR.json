@@ -1,0 +1,98 @@
+{
+  "ticker": "EUTR",
+  "scrapedAt": "2026-03-31T14:19:28Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2027-01-14",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-10-20",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-17",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-17",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-01-14",
+      "declaredDate": "2025-11-19",
+      "amount": 9.17,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-10-20",
+      "declaredDate": "2025-09-01",
+      "amount": 8.18,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-07-17",
+      "declaredDate": "2025-05-23",
+      "amount": 14.19,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-07-17",
+      "declaredDate": "2025-05-30",
+      "amount": 3.0,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-01-15",
+      "declaredDate": "2024-11-22",
+      "amount": 6.48,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-10-19",
+      "declaredDate": "2024-08-26",
+      "amount": 4.32,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-09",
+      "declaredDate": "2024-05-27",
+      "amount": 16.72,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-09",
+      "declaredDate": "2024-05-27",
+      "amount": 2.5,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-10",
+      "declaredDate": "2023-11-24",
+      "amount": 8.88,
+      "year": 2023,
+      "isForecast": false
+    }
+  ]
+}

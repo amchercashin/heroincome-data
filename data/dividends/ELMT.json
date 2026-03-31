@@ -1,0 +1,28 @@
+{
+  "ticker": "ELMT",
+  "scrapedAt": "2026-03-31T14:19:23Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-14",
+      "declaredDate": null,
+      "amount": 0.0021087,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-14",
+      "declaredDate": "2025-05-23",
+      "amount": 0.003535,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-11",
+      "declaredDate": "2024-05-29",
+      "amount": 0.0018,
+      "year": 2024,
+      "isForecast": false
+    }
+  ]
+}

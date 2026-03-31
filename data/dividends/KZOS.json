@@ -1,0 +1,126 @@
+{
+  "ticker": "KZOS",
+  "scrapedAt": "2026-03-31T14:20:01Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-15",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 3.18,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-10",
+      "declaredDate": "2025-05-27",
+      "amount": 4.15,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-09",
+      "declaredDate": "2024-05-24",
+      "amount": 6.22,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-11",
+      "declaredDate": "2023-05-26",
+      "amount": 9.1,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-05-24",
+      "amount": 3.97,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-09-20",
+      "declaredDate": "2021-08-06",
+      "amount": 5.75,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-06",
+      "declaredDate": "2021-03-22",
+      "amount": 3.36,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-10",
+      "declaredDate": "2020-03-16",
+      "amount": 4.55,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-05-06",
+      "declaredDate": "2019-03-19",
+      "amount": 7.79,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-18",
+      "declaredDate": "2018-05-03",
+      "amount": 4.25,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-04-24",
+      "declaredDate": "2017-03-10",
+      "amount": 5.07,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-05-12",
+      "declaredDate": "2016-03-22",
+      "amount": 3.23,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-05-19",
+      "declaredDate": "2015-03-26",
+      "amount": 1.01,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-05-13",
+      "declaredDate": "2014-03-25",
+      "amount": 0.3458,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-03-15",
+      "declaredDate": "2013-03-19",
+      "amount": 0.5353,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-03",
+      "declaredDate": "2012-05-02",
+      "amount": 0.06,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ticker": "CNTL",
+  "scrapedAt": "2026-03-31T14:19:11Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "declaredDate": null,
+      "amount": 0.2514,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2024-07-01",
+      "declaredDate": "2024-06-24",
+      "amount": 0.189,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-04",
+      "declaredDate": "2022-06-02",
+      "amount": 1.52,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-08-10",
+      "declaredDate": "2020-06-29",
+      "amount": 11.83,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-19",
+      "declaredDate": "2019-04-26",
+      "amount": 7.41,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-18",
+      "declaredDate": "2018-04-27",
+      "amount": 0.0301,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-07",
+      "declaredDate": "2017-05-15",
+      "amount": 0.0082123,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-06-24",
+      "declaredDate": "2014-04-29",
+      "amount": 0.1104,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-29",
+      "declaredDate": "2013-03-29",
+      "amount": 0.0475,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-27",
+      "declaredDate": "2012-03-28",
+      "amount": 0.1,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-04-25",
+      "declaredDate": "2011-03-15",
+      "amount": 0.2474,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-04-08",
+      "declaredDate": "2010-04-16",
+      "amount": 0.1666,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-04-28",
+      "declaredDate": "2009-04-28",
+      "amount": 0.0885,
+      "year": 2009,
+      "isForecast": false
+    }
+  ]
+}

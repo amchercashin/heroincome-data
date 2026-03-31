@@ -1,0 +1,77 @@
+{
+  "ticker": "TGKN",
+  "scrapedAt": "2026-03-31T14:21:58Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-09-17",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-05-26",
+      "declaredDate": null,
+      "amount": 0.0006807,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-05-26",
+      "declaredDate": "2025-01-11",
+      "amount": 0.0006886,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-09-17",
+      "declaredDate": "2024-08-05",
+      "amount": 0.000456,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-04",
+      "declaredDate": "2024-04-22",
+      "amount": 0.0002104,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-04",
+      "declaredDate": "2024-04-22",
+      "amount": 0.0010783,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-08-14",
+      "declaredDate": "2023-06-30",
+      "amount": 0.0004418,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-16",
+      "declaredDate": "2023-05-02",
+      "amount": 0.0004945,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-04-05",
+      "declaredDate": "2007-05-18",
+      "amount": 0.0002397,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-04-05",
+      "declaredDate": "2006-05-23",
+      "amount": 0.0035974,
+      "year": 2006,
+      "isForecast": false
+    }
+  ]
+}

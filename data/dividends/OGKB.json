@@ -1,0 +1,98 @@
+{
+  "ticker": "OGKB",
+  "scrapedAt": "2026-03-31T14:21:01Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-11-05",
+      "declaredDate": null,
+      "amount": 0.0247,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-11-05",
+      "declaredDate": "2025-09-15",
+      "amount": 0.0598,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-10",
+      "declaredDate": "2023-05-26",
+      "amount": 0.0581,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-11",
+      "declaredDate": "2022-05-31",
+      "amount": 0.0966,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-02",
+      "declaredDate": "2021-05-19",
+      "amount": 0.06,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-10",
+      "declaredDate": "2020-05-28",
+      "amount": 0.0544,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-28",
+      "declaredDate": "2019-05-07",
+      "amount": 0.0368,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-10",
+      "declaredDate": "2018-05-23",
+      "amount": 0.0163,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-20",
+      "declaredDate": "2017-05-05",
+      "amount": 0.008253,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-20",
+      "declaredDate": "2016-04-29",
+      "amount": 0.0056738,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-25",
+      "declaredDate": "2015-05-08",
+      "amount": 0.0081415,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-17",
+      "declaredDate": "2012-05-22",
+      "amount": 0.0009988,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-03",
+      "declaredDate": "2011-04-26",
+      "amount": 0.0048759,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

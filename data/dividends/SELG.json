@@ -1,0 +1,84 @@
+{
+  "ticker": "SELG",
+  "scrapedAt": "2026-03-31T14:21:34Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-12",
+      "declaredDate": null,
+      "amount": 2.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-15",
+      "declaredDate": null,
+      "amount": 2.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2024-10-11",
+      "declaredDate": "2024-08-29",
+      "amount": 4.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-15",
+      "declaredDate": "2024-05-03",
+      "amount": 2.0,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-03",
+      "declaredDate": "2023-10-20",
+      "amount": 2.0,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-21",
+      "declaredDate": "2022-05-06",
+      "amount": 4.5,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-25",
+      "declaredDate": "2021-05-18",
+      "amount": 1.95,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-11-30",
+      "declaredDate": "2020-10-26",
+      "amount": 2.55,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-26",
+      "declaredDate": "2020-05-25",
+      "amount": 1.42,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-12-24",
+      "declaredDate": "2019-11-12",
+      "amount": 0.78,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-04-21",
+      "declaredDate": "2012-04-20",
+      "amount": 0.15,
+      "year": 2012,
+      "isForecast": false
+    }
+  ]
+}

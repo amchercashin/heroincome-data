@@ -1,0 +1,133 @@
+{
+  "ticker": "MRKU",
+  "scrapedAt": "2026-03-31T14:20:34Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-07",
+      "declaredDate": null,
+      "amount": 0.0639,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-07",
+      "declaredDate": "2025-05-30",
+      "amount": 0.0374,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-14",
+      "declaredDate": "2024-05-06",
+      "amount": 0.0384,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-06-14",
+      "declaredDate": "2024-05-06",
+      "amount": 0.0544,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-23",
+      "declaredDate": "2023-05-17",
+      "amount": 0.00504,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-01-08",
+      "declaredDate": "2022-11-29",
+      "amount": 0.0189,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-28",
+      "declaredDate": "2022-05-16",
+      "amount": 0.0249,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-09",
+      "declaredDate": "2020-04-28",
+      "amount": 0.0073,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-01-14",
+      "declaredDate": "2019-11-26",
+      "amount": 0.0032,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-03",
+      "declaredDate": "2019-04-23",
+      "amount": 0.003,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-13",
+      "declaredDate": "2018-04-26",
+      "amount": 0.0216,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-20",
+      "declaredDate": "2017-05-15",
+      "amount": 0.0083,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-06-24",
+      "declaredDate": "2016-05-04",
+      "amount": 0.0142,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-29",
+      "declaredDate": "2015-05-12",
+      "amount": 0.0058,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-16",
+      "declaredDate": "2014-05-26",
+      "amount": 0.00102,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-30",
+      "declaredDate": "2013-04-12",
+      "amount": 0.00179,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-04",
+      "declaredDate": "2012-05-03",
+      "amount": 0.0028,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-11",
+      "declaredDate": "2011-04-18",
+      "amount": 0.0028,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

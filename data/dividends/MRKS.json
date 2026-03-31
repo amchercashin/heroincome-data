@@ -1,0 +1,56 @@
+{
+  "ticker": "MRKS",
+  "scrapedAt": "2026-03-31T14:20:32Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-08-24",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2020-01-14",
+      "declaredDate": "2019-11-28",
+      "amount": 0.002917,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-24",
+      "declaredDate": "2019-05-13",
+      "amount": 0.00102,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-19",
+      "declaredDate": "2018-05-08",
+      "amount": 0.0037,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-08",
+      "declaredDate": "2015-05-26",
+      "amount": 0.0003,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-17",
+      "declaredDate": "2013-05-17",
+      "amount": 0.00305,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-14",
+      "declaredDate": "2009-05-18",
+      "amount": 0.001592,
+      "year": 2009,
+      "isForecast": false
+    }
+  ]
+}

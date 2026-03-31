@@ -1,0 +1,105 @@
+{
+  "ticker": "HYDR",
+  "scrapedAt": "2026-03-31T14:19:47Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-12",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2023-07-11",
+      "declaredDate": "2023-06-02",
+      "amount": 0.0503,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-07-10",
+      "declaredDate": "2022-06-14",
+      "amount": 0.053,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-07-10",
+      "declaredDate": "2021-05-28",
+      "amount": 0.053,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-10",
+      "declaredDate": "2020-09-08",
+      "amount": 0.0357,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-09",
+      "declaredDate": "2019-05-29",
+      "amount": 0.0367,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-07",
+      "declaredDate": "2018-05-28",
+      "amount": 0.0263,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-10",
+      "declaredDate": "2017-05-24",
+      "amount": 0.0466,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-08",
+      "declaredDate": "2016-05-13",
+      "amount": 0.0389,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-07",
+      "declaredDate": "2015-05-13",
+      "amount": 0.0156,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-08",
+      "declaredDate": "2014-05-16",
+      "amount": 0.0136,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-23",
+      "declaredDate": "2013-05-20",
+      "amount": 0.0095561,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-24",
+      "declaredDate": "2012-05-23",
+      "amount": 0.0078932,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-23",
+      "declaredDate": "2011-05-16",
+      "amount": 0.0086009,
+      "year": 2011,
+      "isForecast": false
+    }
+  ]
+}

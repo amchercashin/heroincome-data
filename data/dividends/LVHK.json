@@ -1,0 +1,98 @@
+{
+  "ticker": "LVHK",
+  "scrapedAt": "2026-03-31T14:20:15Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-12-15",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-29",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2024-06-28",
+      "declaredDate": "2024-05-16",
+      "amount": 0.3,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-12-15",
+      "declaredDate": "2023-10-31",
+      "amount": 0.272,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-06-17",
+      "declaredDate": "2023-05-02",
+      "amount": 0.378,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-12-16",
+      "declaredDate": "2022-12-06",
+      "amount": 0.378,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2022-06-01",
+      "declaredDate": "2022-04-08",
+      "amount": 0.3,
+      "year": 2022,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-01",
+      "declaredDate": "2021-04-07",
+      "amount": 0.3,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-06-01",
+      "declaredDate": "2020-04-07",
+      "amount": 0.045,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-10",
+      "declaredDate": "2019-04-16",
+      "amount": 0.042,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-25",
+      "declaredDate": "2018-04-27",
+      "amount": 0.0416,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-14",
+      "declaredDate": "2017-06-28",
+      "amount": 0.0377,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-09",
+      "declaredDate": "2015-03-27",
+      "amount": 0.0708,
+      "year": 2015,
+      "isForecast": false
+    }
+  ]
+}

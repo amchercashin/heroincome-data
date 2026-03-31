@@ -1,0 +1,147 @@
+{
+  "ticker": "AFLT",
+  "scrapedAt": "2026-03-31T14:18:45Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "declaredDate": null,
+      "amount": 6.58,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2025-07-18",
+      "declaredDate": "2025-05-30",
+      "amount": 5.27,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-05",
+      "declaredDate": "2019-05-31",
+      "amount": 2.69,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-06",
+      "declaredDate": "2018-05-30",
+      "amount": 12.81,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-14",
+      "declaredDate": "2017-05-26",
+      "amount": 17.48,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-08",
+      "declaredDate": "2014-05-19",
+      "amount": 2.5,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-06",
+      "declaredDate": "2013-05-22",
+      "amount": 1.16,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-10",
+      "declaredDate": "2012-05-22",
+      "amount": 1.81,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-11",
+      "declaredDate": "2011-04-06",
+      "amount": 1.09,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-04",
+      "declaredDate": "2010-05-05",
+      "amount": 0.3497,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2009-05-05",
+      "declaredDate": "2009-05-28",
+      "amount": 0.1818,
+      "year": 2009,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2008-05-05",
+      "declaredDate": "2008-04-25",
+      "amount": 1.37,
+      "year": 2008,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-07",
+      "declaredDate": "2007-05-08",
+      "amount": 1.29,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-04-29",
+      "declaredDate": "2006-04-27",
+      "amount": 0.82,
+      "year": 2006,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2005-04-30",
+      "declaredDate": "2005-04-28",
+      "amount": 0.7,
+      "year": 2005,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2004-04-19",
+      "declaredDate": "2004-04-27",
+      "amount": 0.43,
+      "year": 2004,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2003-03-07",
+      "declaredDate": "2003-04-01",
+      "amount": 0.29,
+      "year": 2003,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2002-04-05",
+      "declaredDate": "2002-04-29",
+      "amount": 0.06,
+      "year": 2002,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2001-03-20",
+      "declaredDate": "2001-04-10",
+      "amount": 0.03,
+      "year": 2001,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2000-04-26",
+      "declaredDate": "2000-06-27",
+      "amount": 0.01,
+      "year": 2000,
+      "isForecast": false
+    }
+  ]
+}

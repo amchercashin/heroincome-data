@@ -1,0 +1,63 @@
+{
+  "ticker": "PIKK",
+  "scrapedAt": "2026-03-31T14:21:10Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-10-12",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-03",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-05-17",
+      "declaredDate": "2021-04-05",
+      "amount": 22.92,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-05-17",
+      "declaredDate": "2021-04-05",
+      "amount": 22.51,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-10-12",
+      "declaredDate": "2020-08-28",
+      "amount": 22.71,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-03",
+      "declaredDate": "2019-04-16",
+      "amount": 22.71,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-09-04",
+      "declaredDate": "2018-07-20",
+      "amount": 22.71,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-11-05",
+      "declaredDate": "2014-09-15",
+      "amount": 4.16,
+      "year": 2014,
+      "isForecast": false
+    }
+  ]
+}

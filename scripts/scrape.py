@@ -96,10 +96,10 @@ def parse_dividend_page(html: str, ticker: str) -> dict:
     """
     soup = BeautifulSoup(html, "html.parser")
     tables = soup.find_all("table", class_="content-table")
-    if len(tables) < 3:
-        raise ValueError(f"Expected ≥3 content-table tables on {ticker} page, found {len(tables)}")
+    if len(tables) < 2:
+        raise ValueError(f"Expected ≥2 content-table tables on {ticker} page, found {len(tables)}")
 
-    history_table = tables[2]
+    history_table = tables[1]
     payments: list[dict] = []
 
     for row in history_table.find_all("tr")[1:]:  # skip header row

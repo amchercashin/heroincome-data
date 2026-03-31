@@ -1,0 +1,77 @@
+{
+  "ticker": "ELFV",
+  "scrapedAt": "2026-03-31T14:19:21Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-04-28",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2020-07-09",
+      "declaredDate": "2020-04-22",
+      "amount": 0.085,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-07-08",
+      "declaredDate": "2019-04-19",
+      "amount": 0.1415,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-22",
+      "declaredDate": "2018-04-20",
+      "amount": 0.1449,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-06-28",
+      "declaredDate": "2017-05-04",
+      "amount": 0.0682,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-06-29",
+      "declaredDate": "2015-04-23",
+      "amount": 0.0807,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-07",
+      "declaredDate": "2014-04-30",
+      "amount": 0.0559,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-04-13",
+      "declaredDate": "2007-04-20",
+      "amount": 0.0063469,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-08-15",
+      "declaredDate": "2006-08-24",
+      "amount": 0.0103,
+      "year": 2006,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2006-05-06",
+      "declaredDate": "2006-05-06",
+      "amount": 0.0065159,
+      "year": 2006,
+      "isForecast": false
+    }
+  ]
+}

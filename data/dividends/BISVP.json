@@ -1,0 +1,35 @@
+{
+  "ticker": "BISVP",
+  "scrapedAt": "2026-03-31T14:19:01Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2027-01-13",
+      "declaredDate": null,
+      "amount": 0.7847,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2026-01-13",
+      "declaredDate": "2025-12-25",
+      "amount": 0.713,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2025-07-11",
+      "declaredDate": "2025-05-30",
+      "amount": 0.974,
+      "year": 2025,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2024-07-12",
+      "declaredDate": "2024-06-27",
+      "amount": 0.67,
+      "year": 2024,
+      "isForecast": false
+    }
+  ]
+}

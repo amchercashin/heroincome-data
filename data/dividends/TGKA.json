@@ -1,0 +1,112 @@
+{
+  "ticker": "TGKA",
+  "scrapedAt": "2026-03-31T14:21:57Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2021-07-05",
+      "declaredDate": "2021-05-24",
+      "amount": 0.0010706,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2020-07-07",
+      "declaredDate": "2020-05-26",
+      "amount": 0.0010365,
+      "year": 2020,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2019-06-26",
+      "declaredDate": "2019-05-07",
+      "amount": 0.0006446,
+      "year": 2019,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-06-25",
+      "declaredDate": "2018-05-04",
+      "amount": 0.0004898,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-07",
+      "declaredDate": "2017-05-16",
+      "amount": 0.0003453,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2016-07-07",
+      "declaredDate": "2016-04-01",
+      "amount": 0.000243,
+      "year": 2016,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2015-07-10",
+      "declaredDate": "2015-04-28",
+      "amount": 0.0002254,
+      "year": 2015,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-04",
+      "declaredDate": "2014-04-15",
+      "amount": 0.000167,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-04-30",
+      "declaredDate": "2013-04-23",
+      "amount": 0.0001218,
+      "year": 2013,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2012-05-02",
+      "declaredDate": "2012-04-23",
+      "amount": 4.87e-05,
+      "year": 2012,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2011-05-12",
+      "declaredDate": "2011-04-25",
+      "amount": 4.68e-05,
+      "year": 2011,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2010-05-12",
+      "declaredDate": "2010-04-21",
+      "amount": 4.37e-05,
+      "year": 2010,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-07",
+      "declaredDate": "2007-04-17",
+      "amount": 0.0001034,
+      "year": 2007,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2007-05-07",
+      "declaredDate": "2007-05-11",
+      "amount": 2.84e-05,
+      "year": 2007,
+      "isForecast": false
+    }
+  ]
+}

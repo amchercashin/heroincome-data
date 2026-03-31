@@ -1,0 +1,63 @@
+{
+  "ticker": "KMAZ",
+  "scrapedAt": "2026-03-31T14:19:54Z",
+  "source": "dohod.ru",
+  "payments": [
+    {
+      "recordDate": "2026-07-16",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2024-07-16",
+      "declaredDate": "2024-05-27",
+      "amount": 4.49,
+      "year": 2024,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2023-07-11",
+      "declaredDate": "2023-06-09",
+      "amount": 1.84,
+      "year": 2023,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2021-06-16",
+      "declaredDate": "2021-05-14",
+      "amount": 0.54,
+      "year": 2021,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2018-07-18",
+      "declaredDate": "2018-05-24",
+      "amount": 1.06,
+      "year": 2018,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2017-07-12",
+      "declaredDate": "2017-05-24",
+      "amount": 0.42,
+      "year": 2017,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2014-07-17",
+      "declaredDate": "2014-05-26",
+      "amount": 0.29,
+      "year": 2014,
+      "isForecast": false
+    },
+    {
+      "recordDate": "2013-05-17",
+      "declaredDate": "2013-03-07",
+      "amount": 0.69,
+      "year": 2013,
+      "isForecast": false
+    }
+  ]
+}
