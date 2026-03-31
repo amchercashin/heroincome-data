@@ -13,7 +13,6 @@ INDEX_HTML = """
 
 DIVIDEND_HTML = """
 <html><body>
-<table class="content-table"><tr><th>Сводка</th></tr><tr><td>данные</td></tr></table>
 <table class="content-table"><tr><th>По годам</th></tr><tr><td>данные</td></tr></table>
 <table class="content-table">
   <tr>
