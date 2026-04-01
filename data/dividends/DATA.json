@@ -1,19 +1,19 @@
 {
   "ticker": "DATA",
-  "scrapedAt": "2026-03-31T14:38:33Z",
+  "scrapedAt": "2026-04-01T10:12:17Z",
   "source": "dohod.ru",
   "payments": [
     {
       "recordDate": "2026-06-05",
       "declaredDate": null,
-      "amount": 1.11,
+      "amount": 3.66,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-06-05",
       "declaredDate": null,
-      "amount": 3.66,
+      "amount": 1.11,
       "year": null,
       "isForecast": true
     },
