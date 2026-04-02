@@ -88,3 +88,96 @@ def test_parse_dividend_page_handles_img_tags_in_cells():
     forecast = next(p for p in result["payments"] if p["isForecast"])
     assert forecast["recordDate"] == "2026-05-04"
     assert forecast["declaredDate"] is None
+
+
+from stocks.smartlab import parse_smartlab_tickers, parse_smartlab_dividend_page
+
+SMARTLAB_INDEX_HTML = """
+<html><body>
+<script>
+var aBubbleData = [
+  {"secid":"LKOH","company_url":"/q/LKOH/","name":"ЛУКОЙЛ"},
+  {"secid":"SBER","company_url":"/q/SBER/","name":"Сбербанк"},
+  {"secid":"GAZP","company_url":"/q/GAZP/","name":"Газпром"}
+];
+</script>
+</body></html>
+"""
+
+SMARTLAB_TICKER_HTML = """
+<html><body>
+<h2>Ожидаемые дивиденды</h2>
+<table>
+  <tr><th>Тикер</th><th>дата T-1</th><th>дата отсечки</th><th>Период</th>
+      <th>дивиденд</th><th>Цена акции</th><th>Див. доходность</th></tr>
+  <tr class="dividend_approved">
+    <td>LKOH</td><td>11.01.2026</td><td>12.01.2026</td><td>2025</td>
+    <td>397</td><td>7200</td><td>5,51%</td>
+  </tr>
+</table>
+<h2>Выплаченные дивиденды</h2>
+<table>
+  <tr><th>Тикер</th><th>дата T-1</th><th>дата отсечки</th><th>Период</th>
+      <th>дивиденд</th><th>Цена акции</th><th>Див. доходность</th></tr>
+  <tr>
+    <td>LKOH</td><td>16.07.2025</td><td>17.07.2025</td><td>2024</td>
+    <td>514</td><td>6800</td><td>7,56%</td>
+  </tr>
+  <tr>
+    <td>LKOH</td><td>02.06.2025</td><td>03.06.2025</td><td>2024</td>
+    <td>541</td><td>7100</td><td>7,62%</td>
+  </tr>
+</table>
+</body></html>
+"""
+
+SMARTLAB_FORECAST_HTML = """
+<html><body>
+<h2>Ожидаемые дивиденды</h2>
+<table>
+  <tr><th>Тикер</th><th>дата T-1</th><th>дата отсечки</th><th>Период</th>
+      <th>дивиденд</th><th>Цена акции</th><th>Див. доходность</th></tr>
+  <tr>
+    <td>SBER</td><td>10.07.2026</td><td>11.07.2026</td><td>2025</td>
+    <td>37,76</td><td>320</td><td>11,80%</td>
+  </tr>
+</table>
+<h2>Выплаченные дивиденды</h2>
+<table>
+  <tr><th>Тикер</th><th>дата T-1</th><th>дата отсечки</th><th>Период</th>
+      <th>дивиденд</th><th>Цена акции</th><th>Див. доходность</th></tr>
+</table>
+</body></html>
+"""
+
+
+def test_parse_smartlab_tickers_from_bubble_data():
+    tickers = parse_smartlab_tickers(SMARTLAB_INDEX_HTML)
+    assert "LKOH" in tickers
+    assert "SBER" in tickers
+    assert "GAZP" in tickers
+    assert tickers == sorted(tickers)
+
+
+def test_parse_smartlab_dividend_page_paid():
+    result = parse_smartlab_dividend_page(SMARTLAB_TICKER_HTML, "LKOH")
+    assert result["ticker"] == "LKOH"
+    paid = [p for p in result["payments"] if p["status"] == "paid"]
+    assert len(paid) == 2
+    assert paid[0]["recordDate"] == "2025-07-17"
+    assert paid[0]["amount"] == 514.0
+
+
+def test_parse_smartlab_dividend_page_approved():
+    result = parse_smartlab_dividend_page(SMARTLAB_TICKER_HTML, "LKOH")
+    approved = [p for p in result["payments"] if p["status"] == "approved"]
+    assert len(approved) == 1
+    assert approved[0]["recordDate"] == "2026-01-12"
+    assert approved[0]["amount"] == 397.0
+
+
+def test_parse_smartlab_dividend_page_forecast():
+    result = parse_smartlab_dividend_page(SMARTLAB_FORECAST_HTML, "SBER")
+    forecasts = [p for p in result["payments"] if p["status"] == "forecast"]
+    assert len(forecasts) == 1
+    assert forecasts[0]["amount"] == 37.76
