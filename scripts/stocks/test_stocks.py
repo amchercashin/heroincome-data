@@ -181,3 +181,96 @@ def test_parse_smartlab_dividend_page_forecast():
     forecasts = [p for p in result["payments"] if p["status"] == "forecast"]
     assert len(forecasts) == 1
     assert forecasts[0]["amount"] == 37.76
+
+
+from stocks.merge import merge_payments
+
+DOHOD_DATA = {
+    "ticker": "LKOH",
+    "payments": [
+        {"recordDate": "2026-01-12", "declaredDate": "2025-11-21",
+         "amount": 397.0, "year": 2025, "isForecast": False},
+        {"recordDate": "2025-07-17", "declaredDate": "2025-06-03",
+         "amount": 514.0, "year": 2024, "isForecast": False},
+    ],
+}
+
+SMARTLAB_DATA = {
+    "ticker": "LKOH",
+    "payments": [
+        {"recordDate": "2026-01-12", "amount": 397.0, "year": 2025,
+         "status": "approved"},
+        {"recordDate": "2025-07-17", "amount": 514.0, "year": 2024,
+         "status": "paid"},
+        {"recordDate": "2026-05-04", "amount": 278.0, "year": None,
+         "status": "forecast"},
+    ],
+}
+
+
+def test_merge_combines_matching_payments():
+    result = merge_payments(DOHOD_DATA, SMARTLAB_DATA, "LKOH")
+    assert len(result) == 3
+
+
+def test_merge_takes_dohod_amount_as_priority():
+    result = merge_payments(DOHOD_DATA, SMARTLAB_DATA, "LKOH")
+    matched = next(p for p in result if p["recordDate"] == "2026-01-12")
+    assert matched["amount"] == 397.0
+
+
+def test_merge_preserves_sources():
+    result = merge_payments(DOHOD_DATA, SMARTLAB_DATA, "LKOH")
+    matched = next(p for p in result if p["recordDate"] == "2026-01-12")
+    assert "dohod" in matched["sources"]
+    assert "smartlab" in matched["sources"]
+    assert matched["sources"]["dohod"]["amount"] == 397.0
+    assert matched["sources"]["smartlab"]["amount"] == 397.0
+
+
+def test_merge_status_priority():
+    result = merge_payments(DOHOD_DATA, SMARTLAB_DATA, "LKOH")
+    matched = next(p for p in result if p["recordDate"] == "2026-01-12")
+    assert matched["status"] == "paid"
+
+
+def test_merge_includes_smartlab_only_payments():
+    result = merge_payments(DOHOD_DATA, SMARTLAB_DATA, "LKOH")
+    forecast = next(p for p in result if p["recordDate"] == "2026-05-04")
+    assert forecast["amount"] == 278.0
+    assert forecast["status"] == "forecast"
+    assert "smartlab" in forecast["sources"]
+    assert "dohod" not in forecast["sources"]
+
+
+def test_merge_dohod_only():
+    result = merge_payments(DOHOD_DATA, None, "LKOH")
+    assert len(result) == 2
+    assert all("dohod" in p["sources"] for p in result)
+
+
+def test_merge_smartlab_only():
+    result = merge_payments(None, SMARTLAB_DATA, "LKOH")
+    assert len(result) == 3
+    assert all("smartlab" in p["sources"] for p in result)
+
+
+def test_merge_logs_amount_discrepancy(capsys):
+    dohod = {
+        "ticker": "TEST",
+        "payments": [
+            {"recordDate": "2026-01-12", "declaredDate": None,
+             "amount": 100.0, "year": 2025, "isForecast": False},
+        ],
+    }
+    smartlab = {
+        "ticker": "TEST",
+        "payments": [
+            {"recordDate": "2026-01-12", "amount": 105.0, "year": 2025,
+             "status": "paid"},
+        ],
+    }
+    result = merge_payments(dohod, smartlab, "TEST")
+    assert result[0]["amount"] == 100.0
+    captured = capsys.readouterr()
+    assert "discrepancy" in captured.out.lower() or "расхождение" in captured.out.lower()
