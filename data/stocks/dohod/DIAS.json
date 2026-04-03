@@ -1,8 +1,14 @@
 {
   "ticker": "DIAS",
-  "scrapedAt": "2026-03-31T14:19:18Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-03T06:39:58Z",
   "payments": [
+    {
+      "recordDate": "2027-03-23",
+      "declaredDate": null,
+      "amount": 104.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-22",
       "declaredDate": null,
@@ -26,10 +32,10 @@
     },
     {
       "recordDate": "2026-03-23",
-      "declaredDate": null,
+      "declaredDate": "2026-02-06",
       "amount": 102.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-12-22",
