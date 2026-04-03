@@ -11,103 +11,81 @@ from stocks.smartlab import (
     parse_smartlab_tickers,
     parse_smartlab_dividend_page,
 )
-from stocks.merge import merge_payments
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data", "stocks")
 
 
-def _fetch_dohod(session, tickers: list[str]) -> dict[str, dict]:
-    """Fetch dividend data from dohod.ru for given tickers."""
-    results = {}
+def _scrape_dohod(session) -> None:
+    """Scrape dohod.ru and save raw data to data/stocks/dohod/."""
+    print("=== dohod.ru ===")
+    resp = fetch_with_retry(session, f"{DOHOD_BASE}/ik/analytics/dividend/")
+    if not resp:
+        print("  ERROR: Could not fetch index page. Skipping dohod.ru.")
+        return
+
+    tickers = parse_tickers_from_index(resp.text)
+    print(f"  Found {len(tickers)} tickers")
+
+    successful = []
     for i, ticker in enumerate(tickers, 1):
+        print(f"  [{i}/{len(tickers)}] {ticker}...")
         url = f"{DOHOD_BASE}/ik/analytics/dividend/{ticker.lower()}"
         resp = fetch_with_retry(session, url)
         if resp is None:
+            print(f"    Skipping (not found or error)")
             continue
         try:
-            results[ticker] = parse_dividend_page(resp.text, ticker)
+            data = parse_dividend_page(resp.text, ticker)
+            path = os.path.join(DATA_DIR, "dohod", f"{ticker}.json")
+            save_json(path, data)
+            successful.append(ticker)
+            print(f"    OK — {len(data['payments'])} payments")
         except (ValueError, KeyError) as exc:
-            print(f"  dohod parse error for {ticker}: {exc}")
+            print(f"    Parse error: {exc}")
         time.sleep(1.5)
-    return results
+
+    update_index(os.path.join(DATA_DIR, "dohod", "index.json"), successful)
+    print(f"  Done: {len(successful)}/{len(tickers)} tickers")
 
 
-def _fetch_smartlab(session, tickers: list[str]) -> dict[str, dict]:
-    """Fetch dividend data from smartlab.ru for given tickers."""
-    results = {}
+def _scrape_smartlab(session) -> None:
+    """Scrape smartlab.ru and save raw data to data/stocks/smartlab/."""
+    print("=== smartlab.ru ===")
+    resp = fetch_with_retry(session, f"{SMARTLAB_BASE}/dividends/")
+    if not resp:
+        print("  ERROR: Could not fetch index page. Skipping smartlab.ru.")
+        return
+
+    tickers = parse_smartlab_tickers(resp.text)
+    print(f"  Found {len(tickers)} tickers")
+
+    successful = []
     for i, ticker in enumerate(tickers, 1):
+        print(f"  [{i}/{len(tickers)}] {ticker}...")
         url = f"{SMARTLAB_BASE}/q/{ticker}/dividend/"
         resp = fetch_with_retry(session, url)
         if resp is None:
+            print(f"    Skipping (not found or error)")
             continue
         try:
-            results[ticker] = parse_smartlab_dividend_page(resp.text, ticker)
+            data = parse_smartlab_dividend_page(resp.text, ticker)
+            path = os.path.join(DATA_DIR, "smartlab", f"{ticker}.json")
+            save_json(path, data)
+            successful.append(ticker)
+            print(f"    OK — {len(data['payments'])} payments")
         except (ValueError, KeyError) as exc:
-            print(f"  smartlab parse error for {ticker}: {exc}")
+            print(f"    Parse error: {exc}")
         time.sleep(1.0)
-    return results
+
+    update_index(os.path.join(DATA_DIR, "smartlab", "index.json"), successful)
+    print(f"  Done: {len(successful)}/{len(tickers)} tickers")
 
 
 def main() -> None:
     session = create_session()
-
-    # Step 1: Discover tickers from both sources
-    print("Step 1: Discovering tickers...")
-
-    dohod_tickers = []
-    resp = fetch_with_retry(session, f"{DOHOD_BASE}/ik/analytics/dividend/")
-    if resp:
-        dohod_tickers = parse_tickers_from_index(resp.text)
-        print(f"  dohod.ru: {len(dohod_tickers)} tickers")
-    else:
-        print("  WARNING: dohod.ru index unavailable")
-
-    smartlab_tickers = []
-    resp = fetch_with_retry(session, f"{SMARTLAB_BASE}/dividends/")
-    if resp:
-        smartlab_tickers = parse_smartlab_tickers(resp.text)
-        print(f"  smartlab.ru: {len(smartlab_tickers)} tickers")
-    else:
-        print("  WARNING: smartlab.ru index unavailable")
-
-    all_tickers = sorted(set(dohod_tickers) | set(smartlab_tickers))
-    print(f"  Combined: {len(all_tickers)} unique tickers")
-
-    # Step 2: Fetch from both sources
-    print("Step 2: Fetching from dohod.ru...")
-    dohod_data = _fetch_dohod(session, dohod_tickers)
-    print(f"  Got {len(dohod_data)} tickers from dohod.ru")
-
-    print("Step 3: Fetching from smartlab.ru...")
-    smartlab_data = _fetch_smartlab(session, all_tickers)
-    print(f"  Got {len(smartlab_data)} tickers from smartlab.ru")
-
-    # Step 4: Merge and save
-    print("Step 4: Merging and saving...")
-    successful = []
-    for ticker in all_tickers:
-        d = dohod_data.get(ticker)
-        s = smartlab_data.get(ticker)
-        if not d and not s:
-            continue
-
-        payments = merge_payments(d, s, ticker)
-        scraped_at = (d or s)["scrapedAt"]
-
-        result = {
-            "ticker": ticker,
-            "isin": None,  # populated if MOEX ISS lookup is added
-            "scrapedAt": scraped_at,
-            "payments": payments,
-        }
-
-        path = os.path.join(DATA_DIR, "dividends", f"{ticker}.json")
-        save_json(path, result)
-        successful.append(ticker)
-
-    print(f"Step 5: Updating index ({len(successful)}/{len(all_tickers)} tickers)...")
-    update_index(os.path.join(DATA_DIR, "index.json"), successful)
-    print("Done.")
+    _scrape_dohod(session)
+    _scrape_smartlab(session)
+    print("All done.")
 
 
 if __name__ == "__main__":
