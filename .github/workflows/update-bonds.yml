@@ -1,8 +1,8 @@
-name: Update Stock Dividends
+name: Update Bond Coupons
 
 on:
   schedule:
-    - cron: '0 9 1,15 * *'
+    - cron: '0 9 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -24,16 +24,16 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: cd scripts && python -m stocks.scrape
+        run: cd scripts && python -m bonds.scrape
 
       - name: Commit updated data (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/stocks/
+          git add data/bonds/
           if git diff --staged --quiet; then
             echo "No data changes — skipping commit"
           else
-            git commit -m "chore: update stock dividends $(date -u +%Y-%m-%d)"
+            git commit -m "chore: update bond coupons $(date -u +%Y-%m-%d)"
             git push
           fi
