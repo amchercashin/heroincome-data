@@ -3,6 +3,106 @@
   "ticker": null,
   "name": "ПАРУС-КРАСНОЯРСК",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-04-03T06:50:09Z",
-  "distributions": []
+  "scrapedAt": "2026-04-03T06:53:55Z",
+  "distributions": [
+    {
+      "paymentDate": "2026-03-13",
+      "recordDate": "2026-02-27",
+      "unitPrice": 945.0,
+      "amountBeforeTax": 9.56,
+      "amountAfterTax": 8.32,
+      "yieldPrc": 12.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-02-12",
+      "recordDate": "2026-01-30",
+      "unitPrice": 945.0,
+      "amountBeforeTax": 9.56,
+      "amountAfterTax": 8.32,
+      "yieldPrc": 12.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-01-22",
+      "recordDate": "2025-12-30",
+      "unitPrice": 945.0,
+      "amountBeforeTax": 9.37,
+      "amountAfterTax": 8.16,
+      "yieldPrc": 11.9,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-12-11",
+      "recordDate": "2025-11-30",
+      "unitPrice": 945.0,
+      "amountBeforeTax": 9.37,
+      "amountAfterTax": 8.16,
+      "yieldPrc": 11.9,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-11-14",
+      "recordDate": "2025-10-31",
+      "unitPrice": 910.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 11.9,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-10-13",
+      "recordDate": "2025-09-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-09-11",
+      "recordDate": "2025-08-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-08-13",
+      "recordDate": "2025-07-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-07-11",
+      "recordDate": "2025-06-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-06-16",
+      "recordDate": "2025-05-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-05-19",
+      "recordDate": "2025-04-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 9.0,
+      "amountAfterTax": 7.83,
+      "yieldPrc": 12.0,
+      "status": "paid"
+    }
+  ]
 }

@@ -3,6 +3,529 @@
   "ticker": "PLZ5",
   "name": "ПАРУС-ОЗН",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-04-03T06:50:06Z",
-  "distributions": []
+  "scrapedAt": "2026-04-03T06:53:53Z",
+  "distributions": [
+    {
+      "paymentDate": "2026-03-13",
+      "recordDate": "2026-02-27",
+      "unitPrice": 8100.0,
+      "amountBeforeTax": 72.45,
+      "amountAfterTax": 63.03,
+      "yieldPrc": 10.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-02-12",
+      "recordDate": "2026-01-30",
+      "unitPrice": 8100.0,
+      "amountBeforeTax": 72.45,
+      "amountAfterTax": 63.03,
+      "yieldPrc": 10.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-01-22",
+      "recordDate": "2025-12-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-12-11",
+      "recordDate": "2025-11-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-11-14",
+      "recordDate": "2025-10-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-10-13",
+      "recordDate": "2025-09-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-09-11",
+      "recordDate": "2025-08-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-08-13",
+      "recordDate": "2025-07-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-07-11",
+      "recordDate": "2025-06-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-06-16",
+      "recordDate": "2025-05-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-05-19",
+      "recordDate": "2025-04-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-04-11",
+      "recordDate": "2025-03-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-03-13",
+      "recordDate": "2025-02-28",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-02-13",
+      "recordDate": "2025-01-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 70.88,
+      "amountAfterTax": 61.66,
+      "yieldPrc": 13.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-01-21",
+      "recordDate": "2024-12-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-12-12",
+      "recordDate": "2024-11-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-11-13",
+      "recordDate": "2024-10-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-10-11",
+      "recordDate": "2024-09-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-09-12",
+      "recordDate": "2024-08-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-08-13",
+      "recordDate": "2024-07-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-07-11",
+      "recordDate": "2024-06-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-06-14",
+      "recordDate": "2024-05-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-05-16",
+      "recordDate": "2024-04-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-04-11",
+      "recordDate": "2024-03-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-03-14",
+      "recordDate": "2024-02-29",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-02-13",
+      "recordDate": "2024-01-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 68.78,
+      "amountAfterTax": 59.83,
+      "yieldPrc": 13.1,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2024-01-19",
+      "recordDate": "2023-12-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-12-13",
+      "recordDate": "2023-11-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-11-14",
+      "recordDate": "2023-10-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-10-12",
+      "recordDate": "2023-09-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-09-13",
+      "recordDate": "2023-08-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-08-11",
+      "recordDate": "2023-07-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-07-13",
+      "recordDate": "2023-06-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-06-08",
+      "recordDate": "2023-05-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-05-16",
+      "recordDate": "2023-04-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-04-13",
+      "recordDate": "2023-03-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-03-14",
+      "recordDate": "2023-02-28",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-02-13",
+      "recordDate": "2023-01-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 66.53,
+      "amountAfterTax": 57.88,
+      "yieldPrc": 12.7,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2023-01-19",
+      "recordDate": "2022-12-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 48.83,
+      "amountAfterTax": 42.48,
+      "yieldPrc": 9.3,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-12-13",
+      "recordDate": "2022-11-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 48.83,
+      "amountAfterTax": 42.48,
+      "yieldPrc": 9.3,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-11-14",
+      "recordDate": "2022-10-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 48.83,
+      "amountAfterTax": 42.48,
+      "yieldPrc": 9.3,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-10-13",
+      "recordDate": "2022-09-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 48.83,
+      "amountAfterTax": 42.48,
+      "yieldPrc": 9.3,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-08-10",
+      "recordDate": "2022-07-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-07-11",
+      "recordDate": "2022-06-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-06-09",
+      "recordDate": "2022-05-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-05-16",
+      "recordDate": "2022-04-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-04-12",
+      "recordDate": "2022-03-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-03-14",
+      "recordDate": "2022-02-28",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-02-14",
+      "recordDate": "2022-01-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2022-01-18",
+      "recordDate": "2021-12-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-12-13",
+      "recordDate": "2021-11-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-11-16",
+      "recordDate": "2021-10-29",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-10-12",
+      "recordDate": "2021-09-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.07,
+      "amountAfterTax": 40.95,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-09-10",
+      "recordDate": "2021-08-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.04,
+      "amountAfterTax": 40.92,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-08-10",
+      "recordDate": "2021-07-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.04,
+      "amountAfterTax": 40.92,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-07-08",
+      "recordDate": "2021-06-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.04,
+      "amountAfterTax": 40.92,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-06-11",
+      "recordDate": "2021-05-31",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.04,
+      "amountAfterTax": 40.92,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2021-05-24",
+      "recordDate": "2021-04-30",
+      "unitPrice": 6300.0,
+      "amountBeforeTax": 47.13,
+      "amountAfterTax": 41.0,
+      "yieldPrc": 9.0,
+      "status": "paid"
+    }
+  ]
 }

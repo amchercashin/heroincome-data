@@ -3,6 +3,61 @@
   "ticker": null,
   "name": "ПАРУС-ТРИУМФ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-04-03T06:50:10Z",
-  "distributions": []
+  "scrapedAt": "2026-04-03T06:53:55Z",
+  "distributions": [
+    {
+      "paymentDate": "2026-03-13",
+      "recordDate": "2026-02-27",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.7,
+      "amountAfterTax": 7.57,
+      "yieldPrc": 11.6,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-02-12",
+      "recordDate": "2026-01-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.7,
+      "amountAfterTax": 7.57,
+      "yieldPrc": 11.6,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-01-22",
+      "recordDate": "2025-12-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.62,
+      "amountAfterTax": 7.51,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-12-11",
+      "recordDate": "2025-11-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.63,
+      "amountAfterTax": 7.51,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-11-14",
+      "recordDate": "2025-10-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.62,
+      "amountAfterTax": 7.51,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2025-10-13",
+      "recordDate": "2025-09-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.63,
+      "amountAfterTax": 7.51,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    }
+  ]
 }
