@@ -25,8 +25,9 @@ def main() -> None:
             continue
 
         try:
+            csv_text = resp.content.decode("utf-8")
             data = parse_parus_csv(
-                resp.text,
+                csv_text,
                 name=name,
                 isin=fund["isin"],
                 ticker=fund.get("ticker"),

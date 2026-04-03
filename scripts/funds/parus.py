@@ -7,6 +7,12 @@ from datetime import datetime, timezone
 
 from shared.dates import parse_date_dmy
 
+MONTHS_RU = {
+    "янв": 1, "фев": 2, "мар": 3, "апр": 4,
+    "май": 5, "мая": 5, "июн": 6, "июл": 7,
+    "авг": 8, "сен": 9, "окт": 10, "ноя": 11, "дек": 12,
+}
+
 SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
 
 PARUS_FUNDS = [
@@ -55,6 +61,32 @@ def _parse_amount_before_tax(text: str) -> float | None:
     return _parse_russian_float(cleaned)
 
 
+def _parse_parus_date(text: str) -> str | None:
+    """Parse Parus date formats:
+    - '14 мар 2026' -> '2026-03-14'
+    - '14.03.2026'  -> '2026-03-14'
+    - '13.07'       -> None (no year = skip)
+    """
+    text = text.strip()
+    if not text:
+        return None
+
+    # Try DD.MM.YYYY first
+    result = parse_date_dmy(text)
+    if result:
+        return result
+
+    # Try "DD мес YYYY" format
+    match = re.match(r"(\d{1,2})\s+(\w{3,4})\s+(\d{4})", text)
+    if match:
+        day, month_str, year = match.groups()
+        month = MONTHS_RU.get(month_str.lower()[:3])
+        if month:
+            return f"{year}-{month:02d}-{int(day):02d}"
+
+    return None
+
+
 def _clean_planned(text: str) -> tuple[str, bool]:
     """Remove plan markers. Returns (cleaned_text, is_planned)."""
     is_planned = "(план)" in text or text.strip().startswith("~")
@@ -86,8 +118,8 @@ def parse_parus_csv(
         payment_clean, is_planned = _clean_planned(payment_raw)
         record_clean, _ = _clean_planned(record_raw)
 
-        payment_date = parse_date_dmy(payment_clean)
-        record_date = parse_date_dmy(record_clean)
+        payment_date = _parse_parus_date(payment_clean)
+        record_date = _parse_parus_date(record_clean)
 
         if not payment_date:
             continue
