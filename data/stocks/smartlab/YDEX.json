@@ -1,0 +1,30 @@
+{
+  "ticker": "YDEX",
+  "scrapedAt": "2026-04-15T10:26:21Z",
+  "payments": [
+    {
+      "recordDate": "2026-04-27",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-09-29",
+      "amount": null,
+      "year": 2025,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-04-28",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-20",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    }
+  ]
+}

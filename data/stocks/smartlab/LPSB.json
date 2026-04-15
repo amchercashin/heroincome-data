@@ -1,0 +1,18 @@
+{
+  "ticker": "LPSB",
+  "scrapedAt": "2026-04-15T10:26:08Z",
+  "payments": [
+    {
+      "recordDate": "2026-05-22",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2024-05-08",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    }
+  ]
+}

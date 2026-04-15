@@ -1,12 +1,11 @@
 {
   "ticker": "NKNCP",
-  "scrapedAt": "2026-04-01T10:14:12Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:25Z",
   "payments": [
     {
       "recordDate": "2026-07-01",
       "declaredDate": null,
-      "amount": 3.95,
+      "amount": 2.2,
       "year": null,
       "isForecast": true
     },

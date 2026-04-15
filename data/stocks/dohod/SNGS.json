@@ -1,12 +1,11 @@
 {
   "ticker": "SNGS",
-  "scrapedAt": "2026-04-01T10:15:12Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:15Z",
   "payments": [
     {
       "recordDate": "2026-07-17",
       "declaredDate": null,
-      "amount": 0.95,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

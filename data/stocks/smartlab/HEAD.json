@@ -1,0 +1,48 @@
+{
+  "ticker": "HEAD",
+  "scrapedAt": "2026-04-15T10:26:04Z",
+  "payments": [
+    {
+      "recordDate": "2026-05-11",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-09-27",
+      "amount": null,
+      "year": 2025,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-17",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-01-24",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-09",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-03-27",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-14",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    }
+  ]
+}

@@ -1,12 +1,11 @@
 {
   "ticker": "LKOH",
-  "scrapedAt": "2026-04-01T10:13:18Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:23:38Z",
   "payments": [
     {
       "recordDate": "2026-12-12",
       "declaredDate": null,
-      "amount": 403.31,
+      "amount": 309.5,
       "year": null,
       "isForecast": true
     },

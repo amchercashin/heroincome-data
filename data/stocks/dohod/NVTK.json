@@ -1,12 +1,11 @@
 {
   "ticker": "NVTK",
-  "scrapedAt": "2026-04-01T10:14:17Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:30Z",
   "payments": [
     {
       "recordDate": "2026-10-06",
       "declaredDate": null,
-      "amount": 35.49,
+      "amount": 41.57,
       "year": null,
       "isForecast": true
     },

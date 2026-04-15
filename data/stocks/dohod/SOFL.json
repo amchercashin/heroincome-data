@@ -1,12 +1,11 @@
 {
   "ticker": "SOFL",
-  "scrapedAt": "2026-04-01T10:15:16Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:18Z",
   "payments": [
     {
       "recordDate": "2026-07-10",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 0.0184,
       "year": null,
       "isForecast": true
     },

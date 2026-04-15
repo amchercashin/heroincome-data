@@ -1,7 +1,6 @@
 {
   "ticker": "MSNG",
-  "scrapedAt": "2026-04-01T10:13:56Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:11Z",
   "payments": [
     {
       "recordDate": "2026-07-08",
@@ -9,13 +8,6 @@
       "amount": 0.1952,
       "year": null,
       "isForecast": true
-    },
-    {
-      "recordDate": "2026-03-03",
-      "declaredDate": "2026-01-15",
-      "amount": 0.2261,
-      "year": 2026,
-      "isForecast": false
     },
     {
       "recordDate": "2024-07-09",

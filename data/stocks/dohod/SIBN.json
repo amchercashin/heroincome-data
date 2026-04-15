@@ -1,19 +1,18 @@
 {
   "ticker": "SIBN",
-  "scrapedAt": "2026-04-01T10:15:08Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:11Z",
   "payments": [
     {
       "recordDate": "2026-10-13",
       "declaredDate": null,
-      "amount": 23.34,
+      "amount": 22.49,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-07-08",
       "declaredDate": null,
-      "amount": 23.24,
+      "amount": 22.66,
       "year": null,
       "isForecast": true
     },

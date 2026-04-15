@@ -1,7 +1,6 @@
 {
   "ticker": "POSI",
-  "scrapedAt": "2026-04-01T10:14:33Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:44Z",
   "payments": [
     {
       "recordDate": "2026-12-03",
@@ -13,14 +12,14 @@
     {
       "recordDate": "2026-05-25",
       "declaredDate": null,
-      "amount": 41.97,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-25",
+      "recordDate": "2026-05-17",
       "declaredDate": null,
-      "amount": 17.35,
+      "amount": 28.08,
       "year": null,
       "isForecast": true
     },

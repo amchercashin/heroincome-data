@@ -1,7 +1,6 @@
 {
   "ticker": "FIXR",
-  "scrapedAt": "2026-04-01T10:12:37Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:23:01Z",
   "payments": [
     {
       "recordDate": "2026-10-12",
@@ -11,7 +10,7 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-12",
+      "recordDate": "2026-05-19",
       "declaredDate": null,
       "amount": 0.11,
       "year": null,

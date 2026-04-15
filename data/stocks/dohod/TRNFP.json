@@ -1,7 +1,6 @@
 {
   "ticker": "TRNFP",
-  "scrapedAt": "2026-04-01T10:15:34Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:34Z",
   "payments": [
     {
       "recordDate": "2026-10-20",
@@ -13,7 +12,7 @@
     {
       "recordDate": "2026-07-17",
       "declaredDate": null,
-      "amount": 198.26,
+      "amount": 201.38,
       "year": null,
       "isForecast": true
     },

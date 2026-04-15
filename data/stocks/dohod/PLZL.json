@@ -1,26 +1,25 @@
 {
   "ticker": "PLZL",
-  "scrapedAt": "2026-04-01T10:14:31Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:43Z",
   "payments": [
     {
       "recordDate": "2026-12-22",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 41.72,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-10-13",
       "declaredDate": null,
-      "amount": 84.41,
+      "amount": 81.05,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-15",
+      "recordDate": "2026-05-18",
       "declaredDate": null,
-      "amount": 40.41,
+      "amount": 56.8,
       "year": null,
       "isForecast": true
     },

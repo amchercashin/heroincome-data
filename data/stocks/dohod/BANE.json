@@ -1,12 +1,11 @@
 {
   "ticker": "BANE",
-  "scrapedAt": "2026-04-01T10:11:56Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:22:25Z",
   "payments": [
     {
       "recordDate": "2026-07-14",
       "declaredDate": null,
-      "amount": 16.04,
+      "amount": 69.29,
       "year": null,
       "isForecast": true
     },

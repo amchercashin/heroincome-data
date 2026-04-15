@@ -1,12 +1,11 @@
 {
   "ticker": "AKRN",
-  "scrapedAt": "2026-04-01T10:11:46Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:22:16Z",
   "payments": [
     {
       "recordDate": "2026-12-09",
       "declaredDate": null,
-      "amount": 130.37,
+      "amount": 261.0,
       "year": null,
       "isForecast": true
     },

@@ -1,0 +1,84 @@
+{
+  "ticker": "IRAO",
+  "scrapedAt": "2026-04-15T10:26:06Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-09",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-06-09",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-03",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-30",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-10",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-07",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-01",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-31",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-01",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-21",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-06-09",
+      "amount": null,
+      "year": 2014,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2011-05-17",
+      "amount": null,
+      "year": 2010,
+      "status": "paid"
+    }
+  ]
+}

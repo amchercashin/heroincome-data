@@ -1,7 +1,6 @@
 {
   "ticker": "MOEX",
-  "scrapedAt": "2026-04-01T10:13:40Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:23:57Z",
   "payments": [
     {
       "recordDate": "2026-07-10",

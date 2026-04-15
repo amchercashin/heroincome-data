@@ -1,19 +1,18 @@
 {
   "ticker": "SFIN",
-  "scrapedAt": "2026-04-01T10:15:04Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:07Z",
   "payments": [
     {
       "recordDate": "2026-12-25",
       "declaredDate": null,
-      "amount": 49.73,
+      "amount": 33.1,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-06-09",
+      "recordDate": "2026-05-15",
       "declaredDate": null,
-      "amount": 26.84,
+      "amount": 172.0,
       "year": null,
       "isForecast": true
     },

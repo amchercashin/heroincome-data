@@ -1,8 +1,14 @@
 {
   "ticker": "GCHE",
-  "scrapedAt": "2026-04-01T10:12:43Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:23:06Z",
   "payments": [
+    {
+      "recordDate": "2027-04-07",
+      "declaredDate": null,
+      "amount": 226.48,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-09-29",
       "declaredDate": null,
@@ -12,10 +18,10 @@
     },
     {
       "recordDate": "2026-04-07",
-      "declaredDate": null,
+      "declaredDate": "2026-03-05",
       "amount": 229.37,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-04-07",
@@ -61,15 +67,15 @@
     },
     {
       "recordDate": "2021-04-05",
-      "declaredDate": "2021-02-11",
-      "amount": 120.42,
+      "declaredDate": "2021-03-03",
+      "amount": 13.58,
       "year": 2021,
       "isForecast": false
     },
     {
       "recordDate": "2021-04-05",
-      "declaredDate": "2021-03-03",
-      "amount": 13.58,
+      "declaredDate": "2021-02-11",
+      "amount": 120.42,
       "year": 2021,
       "isForecast": false
     },

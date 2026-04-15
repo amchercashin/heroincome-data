@@ -1,7 +1,6 @@
 {
   "ticker": "NMTP",
-  "scrapedAt": "2026-04-01T10:14:15Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:24:28Z",
   "payments": [
     {
       "recordDate": "2027-01-09",
@@ -13,7 +12,7 @@
     {
       "recordDate": "2026-07-14",
       "declaredDate": null,
-      "amount": 1.04,
+      "amount": 1.06,
       "year": null,
       "isForecast": true
     },

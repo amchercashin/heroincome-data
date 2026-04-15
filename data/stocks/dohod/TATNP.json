@@ -1,26 +1,25 @@
 {
   "ticker": "TATNP",
-  "scrapedAt": "2026-04-01T10:15:26Z",
-  "source": "dohod.ru",
+  "scrapedAt": "2026-04-15T10:25:27Z",
   "payments": [
     {
       "recordDate": "2027-01-11",
       "declaredDate": null,
-      "amount": 11.99,
+      "amount": 15.5,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-10-14",
       "declaredDate": null,
-      "amount": 19.26,
+      "amount": 31.4,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-06-02",
       "declaredDate": null,
-      "amount": 14.84,
+      "amount": 28.7,
       "year": null,
       "isForecast": true
     },
