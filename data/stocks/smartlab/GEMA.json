@@ -1,0 +1,120 @@
+{
+  "ticker": "GEMA",
+  "scrapedAt": "2026-05-01T10:31:15Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-15",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-12-30",
+      "amount": null,
+      "year": 2025,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-09-29",
+      "amount": null,
+      "year": 2025,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-16",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-17",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-16",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-24",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-25",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-09-25",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-10-17",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-21",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-01-05",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-10-05",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-09",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-01-11",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-12",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-23",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-03",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    }
+  ]
+}

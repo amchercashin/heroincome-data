@@ -1,0 +1,114 @@
+{
+  "ticker": "SBER",
+  "scrapedAt": "2026-05-01T10:31:31Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2026-07-20",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-07-18",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-18",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-11",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-11",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-11",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-11",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-12",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-12",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-05",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-05",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-13",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-13",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-26",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-26",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-14",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-14",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    }
+  ]
+}

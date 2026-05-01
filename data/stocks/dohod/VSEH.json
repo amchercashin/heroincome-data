@@ -1,9 +1,9 @@
 {
   "ticker": "VSEH",
-  "scrapedAt": "2026-04-15T10:25:41Z",
+  "scrapedAt": "2026-05-01T10:30:55Z",
   "payments": [
     {
-      "recordDate": "2026-09-11",
+      "recordDate": "2026-06-22",
       "declaredDate": null,
       "amount": 4.0,
       "year": null,

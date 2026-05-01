@@ -1,9 +1,9 @@
 {
   "ticker": "ELFV",
-  "scrapedAt": "2026-04-15T10:22:51Z",
+  "scrapedAt": "2026-05-01T10:27:50Z",
   "payments": [
     {
-      "recordDate": "2026-04-28",
+      "recordDate": "2027-04-28",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

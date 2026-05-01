@@ -1,25 +1,25 @@
 {
   "ticker": "OZPH",
-  "scrapedAt": "2026-04-15T10:24:37Z",
+  "scrapedAt": "2026-05-01T10:29:46Z",
   "payments": [
     {
       "recordDate": "2027-01-12",
       "declaredDate": null,
-      "amount": 0.34,
+      "amount": 0.43,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-10-06",
       "declaredDate": null,
-      "amount": 0.33,
+      "amount": 0.42,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-07-03",
       "declaredDate": null,
-      "amount": 0.32,
+      "amount": 0.41,
       "year": null,
       "isForecast": true
     },

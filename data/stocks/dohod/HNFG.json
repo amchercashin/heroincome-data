@@ -1,6 +1,6 @@
 {
   "ticker": "HNFG",
-  "scrapedAt": "2026-04-15T10:23:15Z",
+  "scrapedAt": "2026-05-01T10:28:17Z",
   "payments": [
     {
       "recordDate": "2026-12-02",
@@ -10,9 +10,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-06-02",
+      "recordDate": "2026-06-08",
       "declaredDate": null,
-      "amount": 19.0,
+      "amount": 17.0,
       "year": null,
       "isForecast": true
     },

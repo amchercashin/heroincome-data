@@ -1,0 +1,18 @@
+{
+  "ticker": "DVEC",
+  "scrapedAt": "2026-05-01T10:31:13Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-25",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-06-25",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "ticker": "MVID",
-  "scrapedAt": "2026-04-15T10:24:20Z",
+  "scrapedAt": "2026-05-01T10:29:27Z",
   "payments": [
     {
-      "recordDate": "2026-04-28",
+      "recordDate": "2027-04-28",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

@@ -1,23 +1,28 @@
 {
-  "updatedAt": "2026-04-15T10:26:22Z",
-  "tickersCount": 17,
+  "updatedAt": "2026-05-01T10:31:39Z",
+  "tickersCount": 22,
   "tickers": [
-    "ASTR",
-    "AVAN",
     "BSPB",
+    "DATA",
+    "DVEC",
     "FIXR",
+    "GEMA",
     "HEAD",
+    "HNFG",
     "IRAO",
-    "LKOH",
     "LPSB",
     "OZON",
     "OZPH",
     "PLZL",
     "PMSB",
     "POSI",
+    "RGSS",
+    "RTSB",
+    "SBER",
+    "SVAV",
     "T",
+    "TATN",
     "TTLK",
-    "WTCMP",
-    "YDEX"
+    "VSEH"
   ]
 }

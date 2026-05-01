@@ -1,14 +1,7 @@
 {
   "ticker": "RASP",
-  "scrapedAt": "2026-04-15T10:24:49Z",
+  "scrapedAt": "2026-05-01T10:30:00Z",
   "payments": [
-    {
-      "recordDate": "2026-10-06",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
     {
       "recordDate": "2026-06-07",
       "declaredDate": null,

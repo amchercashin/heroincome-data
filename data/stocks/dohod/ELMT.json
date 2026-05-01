@@ -1,11 +1,11 @@
 {
   "ticker": "ELMT",
-  "scrapedAt": "2026-04-15T10:22:52Z",
+  "scrapedAt": "2026-05-01T10:27:52Z",
   "payments": [
     {
       "recordDate": "2026-07-14",
       "declaredDate": null,
-      "amount": 0.0021087,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

@@ -1,6 +1,6 @@
 {
   "ticker": "MDMG",
-  "scrapedAt": "2026-04-15T10:23:50Z",
+  "scrapedAt": "2026-05-01T10:28:55Z",
   "payments": [
     {
       "recordDate": "2026-11-27",
@@ -17,7 +17,7 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-19",
+      "recordDate": "2026-06-19",
       "declaredDate": null,
       "amount": 46.0,
       "year": null,
