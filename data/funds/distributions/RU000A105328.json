@@ -3,8 +3,17 @@
   "ticker": null,
   "name": "ПАРУС-ЛОГИСТИКА",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-04-05T09:39:45Z",
+  "scrapedAt": "2026-05-05T10:47:17Z",
   "distributions": [
+    {
+      "paymentDate": "2026-04-13",
+      "recordDate": "2026-03-31",
+      "unitPrice": 1300.0,
+      "amountBeforeTax": 14.03,
+      "amountAfterTax": 12.21,
+      "yieldPrc": 13.0,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-03-13",
       "recordDate": "2026-02-27",
