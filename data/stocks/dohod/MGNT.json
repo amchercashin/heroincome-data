@@ -1,6 +1,6 @@
 {
   "ticker": "MGNT",
-  "scrapedAt": "2026-05-01T10:28:57Z",
+  "scrapedAt": "2026-05-15T11:26:51Z",
   "payments": [
     {
       "recordDate": "2027-01-09",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2026-07-15",
       "declaredDate": null,
-      "amount": 224.26,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

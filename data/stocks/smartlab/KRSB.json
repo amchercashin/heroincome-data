@@ -1,0 +1,150 @@
+{
+  "ticker": "KRSB",
+  "scrapedAt": "2026-05-15T11:29:14Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-22",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2026-06-22",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-06-18",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-18",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-10",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-10",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-02",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-02",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-02",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-02",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-08",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-08",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-03",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-03",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-13",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-13",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-15",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-15",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-10-09",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-10-09",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    }
+  ]
+}

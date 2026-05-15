@@ -1,0 +1,24 @@
+{
+  "ticker": "ABIO",
+  "scrapedAt": "2026-05-15T11:28:53Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-22",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2024-06-17",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-19",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    }
+  ]
+}

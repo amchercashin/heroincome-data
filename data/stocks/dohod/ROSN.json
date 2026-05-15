@@ -1,11 +1,11 @@
 {
   "ticker": "ROSN",
-  "scrapedAt": "2026-05-01T10:30:05Z",
+  "scrapedAt": "2026-05-15T11:27:51Z",
   "payments": [
     {
       "recordDate": "2027-01-12",
       "declaredDate": null,
-      "amount": 31.5,
+      "amount": 13.74,
       "year": null,
       "isForecast": true
     },

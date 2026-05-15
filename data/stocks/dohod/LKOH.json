@@ -1,7 +1,14 @@
 {
   "ticker": "LKOH",
-  "scrapedAt": "2026-05-01T10:28:42Z",
+  "scrapedAt": "2026-05-15T11:26:37Z",
   "payments": [
+    {
+      "recordDate": "2027-05-04",
+      "declaredDate": null,
+      "amount": 347.68,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-12",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-05-04",
-      "declaredDate": null,
+      "declaredDate": "2026-03-20",
       "amount": 278.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2026-01-12",

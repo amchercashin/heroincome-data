@@ -1,6 +1,6 @@
 {
   "ticker": "KZOSP",
-  "scrapedAt": "2026-05-01T10:28:36Z",
+  "scrapedAt": "2026-05-15T11:26:32Z",
   "payments": [
     {
       "recordDate": "2026-12-15",
@@ -10,7 +10,7 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-10",
+      "recordDate": "2026-06-29",
       "declaredDate": null,
       "amount": 0.25,
       "year": null,

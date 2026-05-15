@@ -1,11 +1,11 @@
 {
   "ticker": "MRKV",
-  "scrapedAt": "2026-05-01T10:29:12Z",
+  "scrapedAt": "2026-05-15T11:27:04Z",
   "payments": [
     {
-      "recordDate": "2026-07-09",
+      "recordDate": "2026-07-02",
       "declaredDate": null,
-      "amount": 0.021,
+      "amount": 0.0212,
       "year": null,
       "isForecast": true
     },

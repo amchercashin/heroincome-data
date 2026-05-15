@@ -1,11 +1,11 @@
 {
   "ticker": "NKNC",
-  "scrapedAt": "2026-05-01T10:29:31Z",
+  "scrapedAt": "2026-05-15T11:27:21Z",
   "payments": [
     {
-      "recordDate": "2026-07-01",
+      "recordDate": "2026-06-30",
       "declaredDate": null,
-      "amount": 2.2,
+      "amount": 0.83,
       "year": null,
       "isForecast": true
     },

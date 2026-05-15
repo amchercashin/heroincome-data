@@ -1,11 +1,11 @@
 {
   "ticker": "ABRD",
-  "scrapedAt": "2026-05-01T10:27:06Z",
+  "scrapedAt": "2026-05-15T11:25:12Z",
   "payments": [
     {
       "recordDate": "2026-07-07",
       "declaredDate": null,
-      "amount": 3.57,
+      "amount": 4.69,
       "year": null,
       "isForecast": true
     },

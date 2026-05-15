@@ -1,0 +1,138 @@
+{
+  "ticker": "KZOS",
+  "scrapedAt": "2026-05-15T11:29:16Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-29",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2026-06-29",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-07-10",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-10",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-20",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-20",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-06",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-06",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-10",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-10",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-06",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-06",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-18",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-18",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-04-24",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-04-24",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "ticker": "PRMB",
-  "scrapedAt": "2026-05-01T10:29:56Z",
+  "scrapedAt": "2026-05-15T11:27:43Z",
   "payments": [
     {
-      "recordDate": "2026-05-06",
+      "recordDate": "2027-05-06",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

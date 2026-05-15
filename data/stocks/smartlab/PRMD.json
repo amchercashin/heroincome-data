@@ -1,0 +1,12 @@
+{
+  "ticker": "PRMD",
+  "scrapedAt": "2026-05-15T11:29:30Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-20",
+      "amount": null,
+      "year": 2026,
+      "status": "forecast"
+    }
+  ]
+}

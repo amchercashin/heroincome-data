@@ -1,6 +1,6 @@
 {
   "ticker": "ZAYM",
-  "scrapedAt": "2026-05-01T10:31:07Z",
+  "scrapedAt": "2026-05-15T11:28:50Z",
   "payments": [
     {
       "recordDate": "2026-12-15",
@@ -17,16 +17,16 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-06-29",
+      "recordDate": "2026-06-30",
       "declaredDate": null,
-      "amount": 6.41,
+      "amount": 4.36,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-06-26",
+      "recordDate": "2026-06-28",
       "declaredDate": null,
-      "amount": 6.7,
+      "amount": 11.1,
       "year": null,
       "isForecast": true
     },

@@ -1,11 +1,11 @@
 {
   "ticker": "VTBR",
-  "scrapedAt": "2026-05-01T10:30:59Z",
+  "scrapedAt": "2026-05-15T11:28:44Z",
   "payments": [
     {
       "recordDate": "2026-07-10",
       "declaredDate": null,
-      "amount": 6.74,
+      "amount": 13.59,
       "year": null,
       "isForecast": true
     },

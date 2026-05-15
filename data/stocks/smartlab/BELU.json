@@ -1,0 +1,96 @@
+{
+  "ticker": "BELU",
+  "scrapedAt": "2026-05-15T11:28:54Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-29",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-10-18",
+      "amount": null,
+      "year": 2025,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-09",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-11",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-13",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-27",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-09-29",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-04-26",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-01-23",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-10-13",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-17",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-10-04",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-06",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-26",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-12",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    }
+  ]
+}

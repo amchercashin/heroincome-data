@@ -1,6 +1,6 @@
 {
   "ticker": "SELG",
-  "scrapedAt": "2026-05-01T10:30:17Z",
+  "scrapedAt": "2026-05-15T11:28:06Z",
   "payments": [
     {
       "recordDate": "2026-10-12",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2026-06-15",
       "declaredDate": null,
-      "amount": 2.0,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

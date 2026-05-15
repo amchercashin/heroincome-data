@@ -1,0 +1,48 @@
+{
+  "ticker": "KBSB",
+  "scrapedAt": "2026-05-15T11:29:13Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-25",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-06-30",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-06",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-01",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-14",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-16",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-30",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    }
+  ]
+}

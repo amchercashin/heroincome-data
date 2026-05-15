@@ -1,6 +1,6 @@
 {
   "ticker": "KZOS",
-  "scrapedAt": "2026-05-01T10:28:34Z",
+  "scrapedAt": "2026-05-15T11:26:30Z",
   "payments": [
     {
       "recordDate": "2026-12-15",
@@ -10,9 +10,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-10",
+      "recordDate": "2026-06-29",
       "declaredDate": null,
-      "amount": 2.45,
+      "amount": 2.85,
       "year": null,
       "isForecast": true
     },

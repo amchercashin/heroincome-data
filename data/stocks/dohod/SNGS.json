@@ -1,11 +1,11 @@
 {
   "ticker": "SNGS",
-  "scrapedAt": "2026-05-01T10:30:27Z",
+  "scrapedAt": "2026-05-15T11:28:15Z",
   "payments": [
     {
-      "recordDate": "2026-07-17",
+      "recordDate": "2026-07-16",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 0.85,
       "year": null,
       "isForecast": true
     },
