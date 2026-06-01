@@ -1,20 +1,27 @@
 {
   "ticker": "BSPB",
-  "scrapedAt": "2026-05-15T11:25:33Z",
+  "scrapedAt": "2026-06-01T15:29:20Z",
   "payments": [
+    {
+      "recordDate": "2027-05-12",
+      "declaredDate": null,
+      "amount": 15.99,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-10-06",
       "declaredDate": null,
-      "amount": 23.31,
+      "amount": 19.99,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-05-12",
-      "declaredDate": null,
+      "declaredDate": "2026-03-20",
       "amount": 26.23,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-10-06",

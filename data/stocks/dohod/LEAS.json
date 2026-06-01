@@ -1,11 +1,11 @@
 {
   "ticker": "LEAS",
-  "scrapedAt": "2026-05-15T11:26:34Z",
+  "scrapedAt": "2026-06-01T15:30:22Z",
   "payments": [
     {
       "recordDate": "2026-12-15",
       "declaredDate": null,
-      "amount": 58.0,
+      "amount": 36.95,
       "year": null,
       "isForecast": true
     },

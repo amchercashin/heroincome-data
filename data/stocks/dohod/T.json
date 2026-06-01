@@ -1,102 +1,109 @@
 {
   "ticker": "T",
-  "scrapedAt": "2026-05-15T11:28:23Z",
+  "scrapedAt": "2026-06-01T15:32:08Z",
   "payments": [
+    {
+      "recordDate": "2027-05-25",
+      "declaredDate": null,
+      "amount": 5.71,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-01-08",
       "declaredDate": null,
-      "amount": 5.2,
+      "amount": 5.21,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-10-06",
       "declaredDate": null,
-      "amount": 5.0,
+      "amount": 5.01,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-17",
+      "recordDate": "2026-08-10",
       "declaredDate": null,
-      "amount": 4.8,
+      "amount": 4.6,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2026-05-25",
-      "declaredDate": null,
+      "declaredDate": "2026-03-19",
       "amount": 4.5,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2026-01-08",
       "declaredDate": "2025-11-20",
-      "amount": 36.0,
+      "amount": 3.6,
       "year": 2025,
       "isForecast": false
     },
     {
       "recordDate": "2025-10-06",
       "declaredDate": "2025-08-21",
-      "amount": 35.0,
+      "amount": 3.5,
       "year": 2025,
       "isForecast": false
     },
     {
       "recordDate": "2025-07-17",
       "declaredDate": "2025-05-22",
-      "amount": 33.0,
+      "amount": 3.3,
       "year": 2025,
       "isForecast": false
     },
     {
       "recordDate": "2025-05-16",
       "declaredDate": "2025-03-20",
-      "amount": 32.0,
+      "amount": 3.2,
       "year": 2025,
       "isForecast": false
     },
     {
       "recordDate": "2024-11-25",
       "declaredDate": "2024-11-14",
-      "amount": 92.5,
+      "amount": 9.25,
       "year": 2024,
       "isForecast": false
     },
     {
       "recordDate": "2021-03-26",
       "declaredDate": "2021-03-12",
-      "amount": 17.51,
+      "amount": 1.75,
       "year": 2021,
       "isForecast": false
     },
     {
       "recordDate": "2020-11-27",
       "declaredDate": "2020-11-13",
-      "amount": 19.29,
+      "amount": 1.93,
       "year": 2020,
       "isForecast": false
     },
     {
       "recordDate": "2020-08-21",
       "declaredDate": "2020-08-07",
-      "amount": 14.72,
+      "amount": 1.47,
       "year": 2020,
       "isForecast": false
     },
     {
       "recordDate": "2020-05-29",
       "declaredDate": "2020-05-13",
-      "amount": 10.35,
+      "amount": 1.03,
       "year": 2020,
       "isForecast": false
     },
     {
       "recordDate": "2020-03-27",
       "declaredDate": "2020-03-12",
-      "amount": 15.73,
+      "amount": 1.57,
       "year": 2020,
       "isForecast": false
     }

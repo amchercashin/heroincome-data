@@ -1,0 +1,162 @@
+{
+  "ticker": "TORS",
+  "scrapedAt": "2026-06-01T15:34:11Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-24",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2026-06-24",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-06-23",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-23",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-27",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-27",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-30",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-30",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-17",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-14",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-03",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-03",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-18",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-18",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-15",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-15",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-11",
+      "amount": null,
+      "year": 2014,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-11",
+      "amount": null,
+      "year": 2014,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-07",
+      "amount": null,
+      "year": 2013,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-07",
+      "amount": null,
+      "year": 2013,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-24",
+      "amount": null,
+      "year": 2011,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-24",
+      "amount": null,
+      "year": 2011,
+      "status": "paid"
+    }
+  ]
+}

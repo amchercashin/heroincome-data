@@ -1,11 +1,11 @@
 {
   "ticker": "MBNK",
-  "scrapedAt": "2026-05-15T11:26:47Z",
+  "scrapedAt": "2026-06-01T15:30:35Z",
   "payments": [
     {
       "recordDate": "2026-07-10",
       "declaredDate": null,
-      "amount": 96.14,
+      "amount": 96.12,
       "year": null,
       "isForecast": true
     },

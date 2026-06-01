@@ -1,6 +1,6 @@
 {
   "ticker": "GMKN",
-  "scrapedAt": "2026-05-15T11:26:10Z",
+  "scrapedAt": "2026-06-01T15:29:58Z",
   "payments": [
     {
       "recordDate": "2026-10-07",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2026-06-15",
       "declaredDate": null,
-      "amount": 8.66,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

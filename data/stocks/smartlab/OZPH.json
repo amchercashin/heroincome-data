@@ -1,7 +1,13 @@
 {
   "ticker": "OZPH",
-  "scrapedAt": "2026-05-15T11:29:27Z",
+  "scrapedAt": "2026-06-01T15:33:39Z",
   "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "amount": null,
+      "year": 2026,
+      "status": "forecast"
+    },
     {
       "recordDate": "2026-06-03",
       "amount": null,

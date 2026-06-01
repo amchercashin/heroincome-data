@@ -1,11 +1,11 @@
 {
   "ticker": "MRKY",
-  "scrapedAt": "2026-05-15T11:27:06Z",
+  "scrapedAt": "2026-06-01T15:30:54Z",
   "payments": [
     {
-      "recordDate": "2026-06-19",
+      "recordDate": "2026-06-24",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 0.00377,
       "year": null,
       "isForecast": true
     },

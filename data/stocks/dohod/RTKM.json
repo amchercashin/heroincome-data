@@ -1,6 +1,6 @@
 {
   "ticker": "RTKM",
-  "scrapedAt": "2026-05-15T11:27:53Z",
+  "scrapedAt": "2026-06-01T15:31:42Z",
   "payments": [
     {
       "recordDate": "2026-12-01",
@@ -10,9 +10,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-08-13",
+      "recordDate": "2026-07-20",
       "declaredDate": null,
-      "amount": 1.62,
+      "amount": 2.71,
       "year": null,
       "isForecast": true
     },

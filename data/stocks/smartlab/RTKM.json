@@ -1,0 +1,198 @@
+{
+  "ticker": "RTKM",
+  "scrapedAt": "2026-06-01T15:33:47Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2026-07-20",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-08-13",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-08-13",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-27",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-27",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-01",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-01",
+      "amount": null,
+      "year": 2022,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "amount": null,
+      "year": 2021,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-12",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-12",
+      "amount": null,
+      "year": 2020,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-21",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-21",
+      "amount": null,
+      "year": 2019,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-04",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-04",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-01-13",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-01-13",
+      "amount": null,
+      "year": 2018,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-08",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-08",
+      "amount": null,
+      "year": 2017,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-07",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-07",
+      "amount": null,
+      "year": 2016,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-05-03",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-05-03",
+      "amount": null,
+      "year": 2015,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-03",
+      "amount": null,
+      "year": 2014,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-03",
+      "amount": null,
+      "year": 2014,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-14",
+      "amount": null,
+      "year": 2013,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-14",
+      "amount": null,
+      "year": 2013,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2013-04-30",
+      "amount": null,
+      "year": 2012,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2013-04-30",
+      "amount": null,
+      "year": 2012,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-28",
+      "amount": null,
+      "year": 2011,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-28",
+      "amount": null,
+      "year": 2011,
+      "status": "paid"
+    }
+  ]
+}

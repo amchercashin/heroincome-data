@@ -1,0 +1,12 @@
+{
+  "ticker": "SOFL",
+  "scrapedAt": "2026-06-01T15:33:57Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-09",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "ticker": "SOFL",
-  "scrapedAt": "2026-05-15T11:28:18Z",
+  "scrapedAt": "2026-06-01T15:32:03Z",
   "payments": [
     {
-      "recordDate": "2026-07-10",
+      "recordDate": "2026-07-09",
       "declaredDate": null,
-      "amount": 0.0184,
+      "amount": 0.18,
       "year": null,
       "isForecast": true
     },

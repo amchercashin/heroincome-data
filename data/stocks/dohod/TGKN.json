@@ -1,16 +1,16 @@
 {
   "ticker": "TGKN",
-  "scrapedAt": "2026-05-15T11:28:30Z",
+  "scrapedAt": "2026-06-01T15:32:15Z",
   "payments": [
     {
-      "recordDate": "2026-09-17",
+      "recordDate": "2027-05-26",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-26",
+      "recordDate": "2026-09-17",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

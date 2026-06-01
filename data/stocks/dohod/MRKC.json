@@ -1,11 +1,11 @@
 {
   "ticker": "MRKC",
-  "scrapedAt": "2026-05-15T11:26:57Z",
+  "scrapedAt": "2026-06-01T15:30:46Z",
   "payments": [
     {
-      "recordDate": "2026-06-25",
+      "recordDate": "2026-07-02",
       "declaredDate": null,
-      "amount": 0.1036,
+      "amount": 0.0385,
       "year": null,
       "isForecast": true
     },

@@ -1,9 +1,9 @@
 {
   "ticker": "RUAL",
-  "scrapedAt": "2026-05-15T11:27:57Z",
+  "scrapedAt": "2026-06-01T15:31:45Z",
   "payments": [
     {
-      "recordDate": "2026-05-20",
+      "recordDate": "2027-05-20",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

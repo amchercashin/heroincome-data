@@ -1,11 +1,11 @@
 {
   "ticker": "OGKB",
-  "scrapedAt": "2026-05-15T11:27:29Z",
+  "scrapedAt": "2026-06-01T15:31:18Z",
   "payments": [
     {
       "recordDate": "2026-11-05",
       "declaredDate": null,
-      "amount": 0.0246,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

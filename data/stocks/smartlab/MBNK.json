@@ -1,0 +1,18 @@
+{
+  "ticker": "MBNK",
+  "scrapedAt": "2026-06-01T15:33:17Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-07-11",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    }
+  ]
+}

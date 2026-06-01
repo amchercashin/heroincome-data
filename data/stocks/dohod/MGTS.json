@@ -1,9 +1,9 @@
 {
   "ticker": "MGTS",
-  "scrapedAt": "2026-05-15T11:26:52Z",
+  "scrapedAt": "2026-06-01T15:30:40Z",
   "payments": [
     {
-      "recordDate": "2026-05-15",
+      "recordDate": "2027-05-15",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

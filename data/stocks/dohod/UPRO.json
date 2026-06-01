@@ -1,9 +1,9 @@
 {
   "ticker": "UPRO",
-  "scrapedAt": "2026-05-15T11:28:39Z",
+  "scrapedAt": "2026-06-01T15:32:24Z",
   "payments": [
     {
-      "recordDate": "2026-05-13",
+      "recordDate": "2027-05-13",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

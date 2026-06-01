@@ -1,0 +1,24 @@
+{
+  "ticker": "MGKL",
+  "scrapedAt": "2026-06-01T15:33:20Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-04",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    }
+  ]
+}

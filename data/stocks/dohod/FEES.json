@@ -1,9 +1,9 @@
 {
   "ticker": "FEES",
-  "scrapedAt": "2026-05-15T11:26:00Z",
+  "scrapedAt": "2026-06-01T15:29:47Z",
   "payments": [
     {
-      "recordDate": "2026-05-30",
+      "recordDate": "2027-05-30",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

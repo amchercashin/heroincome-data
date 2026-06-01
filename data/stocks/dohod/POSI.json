@@ -1,7 +1,21 @@
 {
   "ticker": "POSI",
-  "scrapedAt": "2026-05-15T11:27:41Z",
+  "scrapedAt": "2026-06-01T15:31:30Z",
   "payments": [
+    {
+      "recordDate": "2027-05-25",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2027-05-17",
+      "declaredDate": null,
+      "amount": 39.57,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-03",
       "declaredDate": null,
@@ -10,18 +24,11 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-05-25",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
       "recordDate": "2026-05-17",
-      "declaredDate": null,
+      "declaredDate": "2026-04-02",
       "amount": 28.08,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2024-05-24",

@@ -1,0 +1,30 @@
+{
+  "ticker": "SVCB",
+  "scrapedAt": "2026-06-01T15:33:59Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    },
+    {
+      "recordDate": "2025-07-08",
+      "amount": null,
+      "year": 2024,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-11-08",
+      "amount": null,
+      "year": 2023,
+      "status": "paid"
+    }
+  ]
+}

@@ -1,7 +1,14 @@
 {
   "ticker": "SFIN",
-  "scrapedAt": "2026-05-15T11:28:08Z",
+  "scrapedAt": "2026-06-01T15:31:53Z",
   "payments": [
+    {
+      "recordDate": "2027-05-15",
+      "declaredDate": null,
+      "amount": 27.74,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-25",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-05-15",
-      "declaredDate": null,
+      "declaredDate": "2026-04-10",
       "amount": 172.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-12-25",

@@ -1,0 +1,12 @@
+{
+  "ticker": "DOMRF",
+  "scrapedAt": "2026-06-01T15:32:53Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "amount": null,
+      "year": 2025,
+      "status": "forecast"
+    }
+  ]
+}
