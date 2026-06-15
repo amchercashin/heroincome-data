@@ -1,11 +1,11 @@
 {
   "ticker": "SIBN",
-  "scrapedAt": "2026-06-01T15:31:56Z",
+  "scrapedAt": "2026-06-15T15:24:16Z",
   "payments": [
     {
       "recordDate": "2026-10-13",
       "declaredDate": null,
-      "amount": 13.24,
+      "amount": 22.46,
       "year": null,
       "isForecast": true
     },

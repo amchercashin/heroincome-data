@@ -1,7 +1,14 @@
 {
   "ticker": "ASTR",
-  "scrapedAt": "2026-06-01T15:29:10Z",
+  "scrapedAt": "2026-06-15T15:21:26Z",
   "payments": [
+    {
+      "recordDate": "2027-06-01",
+      "declaredDate": null,
+      "amount": 7.85,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-01-16",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-06-01",
-      "declaredDate": null,
+      "declaredDate": "2026-04-14",
       "amount": 4.68,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-10",

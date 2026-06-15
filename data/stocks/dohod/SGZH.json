@@ -1,9 +1,9 @@
 {
   "ticker": "SGZH",
-  "scrapedAt": "2026-06-01T15:31:54Z",
+  "scrapedAt": "2026-06-15T15:24:14Z",
   "payments": [
     {
-      "recordDate": "2026-06-02",
+      "recordDate": "2027-06-02",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

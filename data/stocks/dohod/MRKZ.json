@@ -1,9 +1,9 @@
 {
   "ticker": "MRKZ",
-  "scrapedAt": "2026-06-01T15:30:56Z",
+  "scrapedAt": "2026-06-15T15:23:12Z",
   "payments": [
     {
-      "recordDate": "2026-06-09",
+      "recordDate": "2027-06-09",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

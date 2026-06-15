@@ -1,9 +1,9 @@
 {
   "ticker": "PIKK",
-  "scrapedAt": "2026-06-01T15:31:26Z",
+  "scrapedAt": "2026-06-15T15:23:43Z",
   "payments": [
     {
-      "recordDate": "2026-06-03",
+      "recordDate": "2027-06-03",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

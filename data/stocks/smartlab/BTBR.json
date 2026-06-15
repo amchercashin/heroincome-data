@@ -1,0 +1,12 @@
+{
+  "ticker": "BTBR",
+  "scrapedAt": "2026-06-15T15:25:16Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-11",
+      "amount": null,
+      "year": 2026,
+      "status": "forecast"
+    }
+  ]
+}

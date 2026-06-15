@@ -1,9 +1,9 @@
 {
   "ticker": "TRMK",
-  "scrapedAt": "2026-06-01T15:32:17Z",
+  "scrapedAt": "2026-06-15T15:24:37Z",
   "payments": [
     {
-      "recordDate": "2026-06-04",
+      "recordDate": "2027-06-04",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

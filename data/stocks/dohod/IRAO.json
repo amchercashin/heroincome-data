@@ -1,13 +1,20 @@
 {
   "ticker": "IRAO",
-  "scrapedAt": "2026-06-01T15:30:06Z",
+  "scrapedAt": "2026-06-15T15:22:23Z",
   "payments": [
     {
-      "recordDate": "2026-06-09",
+      "recordDate": "2027-06-09",
       "declaredDate": null,
-      "amount": 0.3214,
+      "amount": 0.3475,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-09",
+      "declaredDate": "2026-03-30",
+      "amount": 0.3214,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-06-09",
