@@ -1,9 +1,9 @@
 {
   "ticker": "DELI",
-  "scrapedAt": "2026-06-15T15:21:50Z",
+  "scrapedAt": "2026-07-01T12:13:13Z",
   "payments": [
     {
-      "recordDate": "2026-06-19",
+      "recordDate": "2027-06-18",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

@@ -1,9 +1,9 @@
 {
   "ticker": "GEMC",
-  "scrapedAt": "2026-06-15T15:22:12Z",
+  "scrapedAt": "2026-07-01T12:13:36Z",
   "payments": [
     {
-      "recordDate": "2026-06-27",
+      "recordDate": "2027-06-27",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

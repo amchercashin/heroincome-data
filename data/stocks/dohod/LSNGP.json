@@ -1,13 +1,20 @@
 {
   "ticker": "LSNGP",
-  "scrapedAt": "2026-06-15T15:22:45Z",
+  "scrapedAt": "2026-07-01T12:14:09Z",
   "payments": [
     {
-      "recordDate": "2026-06-17",
+      "recordDate": "2027-06-17",
       "declaredDate": null,
-      "amount": 36.72,
+      "amount": 39.91,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-17",
+      "declaredDate": "2026-05-12",
+      "amount": 36.72,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-03",

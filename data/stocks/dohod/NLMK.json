@@ -1,7 +1,21 @@
 {
   "ticker": "NLMK",
-  "scrapedAt": "2026-06-15T15:23:29Z",
+  "scrapedAt": "2026-07-01T12:15:00Z",
   "payments": [
+    {
+      "recordDate": "2027-06-29",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2027-06-23",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-15",
       "declaredDate": null,
@@ -11,20 +25,6 @@
     },
     {
       "recordDate": "2026-10-12",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-06-29",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-06-23",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

@@ -1,9 +1,9 @@
 {
   "ticker": "OKEY",
-  "scrapedAt": "2026-06-15T15:23:36Z",
+  "scrapedAt": "2026-07-01T12:15:13Z",
   "payments": [
     {
-      "recordDate": "2026-06-22",
+      "recordDate": "2027-06-22",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

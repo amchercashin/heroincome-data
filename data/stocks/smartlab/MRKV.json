@@ -1,6 +1,6 @@
 {
   "ticker": "MRKV",
-  "scrapedAt": "2026-06-15T15:25:45Z",
+  "scrapedAt": "2026-07-01T12:17:25Z",
   "payments": [
     {
       "recordDate": "2026-07-02",
@@ -12,49 +12,49 @@
       "recordDate": "2025-07-09",
       "amount": null,
       "year": 2024,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2024-07-04",
       "amount": null,
       "year": 2023,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2022-06-28",
       "amount": null,
       "year": 2021,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2020-06-09",
       "amount": null,
       "year": 2019,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2020-01-14",
       "amount": null,
       "year": 2019,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2019-06-10",
       "amount": null,
       "year": 2018,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2018-06-13",
       "amount": null,
       "year": 2017,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2017-06-26",
       "amount": null,
       "year": 2016,
-      "status": "paid"
+      "status": "forecast"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "ticker": "DATA",
-  "scrapedAt": "2026-06-15T15:21:49Z",
+  "scrapedAt": "2026-07-01T12:13:12Z",
   "payments": [
     {
       "recordDate": "2027-06-10",
       "declaredDate": null,
-      "amount": 4.43,
+      "amount": 4.16,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2027-06-10",
       "declaredDate": null,
-      "amount": 1.1,
+      "amount": 1.04,
       "year": null,
       "isForecast": true
     },
