@@ -3,8 +3,17 @@
   "ticker": "PLZ5",
   "name": "ПАРУС-ОЗН",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-06-05T12:08:32Z",
+  "scrapedAt": "2026-07-05T11:03:49Z",
   "distributions": [
+    {
+      "paymentDate": "2026-06-11",
+      "recordDate": "2026-05-29",
+      "unitPrice": 8100.0,
+      "amountBeforeTax": 72.45,
+      "amountAfterTax": 63.03,
+      "yieldPrc": 10.7,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-05-15",
       "recordDate": "2026-04-30",

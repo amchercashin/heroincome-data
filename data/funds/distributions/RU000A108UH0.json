@@ -3,8 +3,17 @@
   "ticker": null,
   "name": "ПАРУС-КРАСНОЯРСК",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-06-05T12:10:16Z",
+  "scrapedAt": "2026-07-05T11:03:51Z",
   "distributions": [
+    {
+      "paymentDate": "2026-06-11",
+      "recordDate": "2026-05-29",
+      "unitPrice": 945.0,
+      "amountBeforeTax": 9.56,
+      "amountAfterTax": 8.32,
+      "yieldPrc": 12.1,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-05-15",
       "recordDate": "2026-04-30",

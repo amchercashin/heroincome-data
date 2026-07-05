@@ -3,8 +3,17 @@
   "ticker": null,
   "name": "ПАРУС-ЗОЛЯ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-06-05T12:10:17Z",
+  "scrapedAt": "2026-07-05T11:03:52Z",
   "distributions": [
+    {
+      "paymentDate": "2026-06-11",
+      "recordDate": "2026-05-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.63,
+      "amountAfterTax": 7.5,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-05-15",
       "recordDate": "2026-04-30",

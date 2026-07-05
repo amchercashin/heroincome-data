@@ -3,8 +3,17 @@
   "ticker": null,
   "name": "ПАРУС-НОРДВЕЙ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-06-05T12:10:14Z",
+  "scrapedAt": "2026-07-05T11:03:50Z",
   "distributions": [
+    {
+      "paymentDate": "2026-06-11",
+      "recordDate": "2026-05-29",
+      "unitPrice": 1230.0,
+      "amountBeforeTax": 12.67,
+      "amountAfterTax": 11.02,
+      "yieldPrc": 12.4,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-05-15",
       "recordDate": "2026-04-30",
