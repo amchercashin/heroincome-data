@@ -1,6 +1,6 @@
 {
   "ticker": "SNGS",
-  "scrapedAt": "2026-07-01T12:17:46Z",
+  "scrapedAt": "2026-07-15T11:00:14Z",
   "payments": [
     {
       "recordDate": "2026-07-16",
@@ -18,109 +18,109 @@
       "recordDate": "2025-07-17",
       "amount": null,
       "year": 2024,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2025-07-17",
       "amount": null,
       "year": 2024,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2024-07-18",
       "amount": null,
       "year": 2023,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2024-07-18",
       "amount": null,
       "year": 2023,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2023-07-20",
       "amount": null,
       "year": 2022,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2023-07-20",
       "amount": null,
       "year": 2022,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2022-07-20",
       "amount": null,
       "year": 2021,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2022-07-20",
       "amount": null,
       "year": 2021,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2021-07-20",
       "amount": null,
       "year": 2020,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2021-07-20",
       "amount": null,
       "year": 2020,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2020-07-20",
       "amount": null,
       "year": 2019,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2020-07-20",
       "amount": null,
       "year": 2019,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2019-07-18",
       "amount": null,
       "year": 2018,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2019-07-18",
       "amount": null,
       "year": 2018,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2018-07-19",
       "amount": null,
       "year": 2017,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2018-07-19",
       "amount": null,
       "year": 2017,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2017-07-19",
       "amount": null,
       "year": 2016,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2017-07-19",
       "amount": null,
       "year": 2016,
-      "status": "paid"
+      "status": "forecast"
     }
   ]
 }

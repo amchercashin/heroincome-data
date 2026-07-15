@@ -1,13 +1,20 @@
 {
   "ticker": "BANE",
-  "scrapedAt": "2026-07-01T12:12:52Z",
+  "scrapedAt": "2026-07-15T10:56:26Z",
   "payments": [
     {
-      "recordDate": "2026-07-13",
+      "recordDate": "2027-07-13",
       "declaredDate": null,
-      "amount": 69.29,
+      "amount": 181.25,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-13",
+      "declaredDate": "2026-05-23",
+      "amount": 69.29,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-14",

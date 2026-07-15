@@ -1,6 +1,6 @@
 {
   "ticker": "GCHE",
-  "scrapedAt": "2026-07-01T12:13:34Z",
+  "scrapedAt": "2026-07-15T10:57:07Z",
   "payments": [
     {
       "recordDate": "2027-04-07",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2026-09-29",
       "declaredDate": null,
-      "amount": 161.15,
+      "amount": 60.4,
       "year": null,
       "isForecast": true
     },

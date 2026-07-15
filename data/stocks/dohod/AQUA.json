@@ -1,7 +1,21 @@
 {
   "ticker": "AQUA",
-  "scrapedAt": "2026-07-01T12:12:47Z",
+  "scrapedAt": "2026-07-15T10:56:20Z",
   "payments": [
+    {
+      "recordDate": "2027-07-10",
+      "declaredDate": null,
+      "amount": 10.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2027-07-07",
+      "declaredDate": null,
+      "amount": 10.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-18",
       "declaredDate": null,
@@ -17,18 +31,11 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-10",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
       "recordDate": "2026-07-07",
-      "declaredDate": null,
+      "declaredDate": "2026-05-22",
       "amount": 10.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-07",

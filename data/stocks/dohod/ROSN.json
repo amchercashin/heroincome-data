@@ -1,7 +1,14 @@
 {
   "ticker": "ROSN",
-  "scrapedAt": "2026-07-01T12:15:46Z",
+  "scrapedAt": "2026-07-15T10:58:53Z",
   "payments": [
+    {
+      "recordDate": "2027-07-09",
+      "declaredDate": null,
+      "amount": 8.51,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-01-12",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-07-09",
-      "declaredDate": null,
+      "declaredDate": "2026-05-18",
       "amount": 2.27,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2026-01-12",

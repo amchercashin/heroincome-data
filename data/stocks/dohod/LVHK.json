@@ -1,6 +1,6 @@
 {
   "ticker": "LVHK",
-  "scrapedAt": "2026-07-01T12:14:13Z",
+  "scrapedAt": "2026-07-15T10:57:44Z",
   "payments": [
     {
       "recordDate": "2027-06-29",
@@ -15,6 +15,13 @@
       "amount": 0.0,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-15",
+      "declaredDate": "2026-05-12",
+      "amount": 0.1889,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2024-06-28",

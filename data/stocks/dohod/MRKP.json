@@ -1,13 +1,20 @@
 {
   "ticker": "MRKP",
-  "scrapedAt": "2026-07-01T12:14:29Z",
+  "scrapedAt": "2026-07-15T10:57:59Z",
   "payments": [
     {
-      "recordDate": "2026-06-30",
+      "recordDate": "2027-06-30",
       "declaredDate": null,
-      "amount": 0.0725,
+      "amount": 0.0836,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-30",
+      "declaredDate": "2026-05-21",
+      "amount": 0.0725,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-01",

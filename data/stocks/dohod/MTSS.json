@@ -1,13 +1,20 @@
 {
   "ticker": "MTSS",
-  "scrapedAt": "2026-07-01T12:14:48Z",
+  "scrapedAt": "2026-07-15T10:58:17Z",
   "payments": [
     {
-      "recordDate": "2026-07-09",
+      "recordDate": "2027-07-09",
       "declaredDate": null,
       "amount": 35.0,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-09",
+      "declaredDate": "2026-05-22",
+      "amount": 35.0,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-07",

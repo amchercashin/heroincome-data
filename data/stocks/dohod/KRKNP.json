@@ -1,13 +1,20 @@
 {
   "ticker": "KRKNP",
-  "scrapedAt": "2026-07-01T12:13:54Z",
+  "scrapedAt": "2026-07-15T10:57:25Z",
   "payments": [
     {
-      "recordDate": "2026-07-08",
+      "recordDate": "2027-07-08",
       "declaredDate": null,
-      "amount": 309.63,
+      "amount": 335.65,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-08",
+      "declaredDate": "2026-05-20",
+      "amount": 309.63,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-08",

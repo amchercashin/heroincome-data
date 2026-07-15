@@ -1,13 +1,20 @@
 {
   "ticker": "MSRS",
-  "scrapedAt": "2026-07-01T12:14:42Z",
+  "scrapedAt": "2026-07-15T10:58:12Z",
   "payments": [
     {
-      "recordDate": "2026-07-03",
+      "recordDate": "2027-07-02",
       "declaredDate": null,
-      "amount": 0.1865,
+      "amount": 0.2472,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-03",
+      "declaredDate": "2026-05-26",
+      "amount": 0.1865,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-08",

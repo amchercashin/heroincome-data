@@ -1,11 +1,11 @@
 {
   "ticker": "CNTLP",
-  "scrapedAt": "2026-07-01T12:13:10Z",
+  "scrapedAt": "2026-07-15T10:56:43Z",
   "payments": [
     {
-      "recordDate": "2026-07-10",
+      "recordDate": "2027-07-10",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 0.0817,
       "year": null,
       "isForecast": true
     },

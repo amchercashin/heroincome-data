@@ -1,9 +1,9 @@
 {
   "ticker": "GAZP",
-  "scrapedAt": "2026-07-01T12:13:33Z",
+  "scrapedAt": "2026-07-15T10:57:05Z",
   "payments": [
     {
-      "recordDate": "2026-07-11",
+      "recordDate": "2027-07-11",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

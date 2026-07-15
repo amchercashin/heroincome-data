@@ -1,16 +1,16 @@
 {
   "ticker": "HIMCP",
-  "scrapedAt": "2026-07-01T12:13:41Z",
+  "scrapedAt": "2026-07-15T10:57:13Z",
   "payments": [
     {
-      "recordDate": "2026-10-12",
+      "recordDate": "2027-07-11",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-11",
+      "recordDate": "2026-10-12",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

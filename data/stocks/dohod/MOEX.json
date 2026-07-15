@@ -1,13 +1,20 @@
 {
   "ticker": "MOEX",
-  "scrapedAt": "2026-07-01T12:14:25Z",
+  "scrapedAt": "2026-07-15T10:57:56Z",
   "payments": [
     {
-      "recordDate": "2026-07-09",
+      "recordDate": "2027-07-09",
       "declaredDate": null,
-      "amount": 19.57,
+      "amount": 20.14,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-09",
+      "declaredDate": "2026-03-31",
+      "amount": 19.57,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-07-10",

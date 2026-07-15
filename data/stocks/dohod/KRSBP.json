@@ -1,6 +1,6 @@
 {
   "ticker": "KRSBP",
-  "scrapedAt": "2026-07-01T12:13:57Z",
+  "scrapedAt": "2026-07-15T10:57:29Z",
   "payments": [
     {
       "recordDate": "2027-06-22",
@@ -8,6 +8,13 @@
       "amount": 2.58,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-06-22",
+      "declaredDate": "2026-05-05",
+      "amount": 2.07,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-06-18",

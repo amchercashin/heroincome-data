@@ -1,9 +1,9 @@
 {
   "ticker": "VSMO",
-  "scrapedAt": "2026-07-01T12:16:34Z",
+  "scrapedAt": "2026-07-15T10:59:43Z",
   "payments": [
     {
-      "recordDate": "2026-07-09",
+      "recordDate": "2027-07-09",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,
@@ -20,13 +20,6 @@
       "recordDate": "2023-06-05",
       "declaredDate": "2023-05-03",
       "amount": 563.8,
-      "year": 2023,
-      "isForecast": false
-    },
-    {
-      "recordDate": "2023-06-05",
-      "declaredDate": "2023-05-17",
-      "amount": 563.77,
       "year": 2023,
       "isForecast": false
     },

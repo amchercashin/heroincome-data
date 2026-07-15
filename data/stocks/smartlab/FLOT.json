@@ -1,6 +1,6 @@
 {
   "ticker": "FLOT",
-  "scrapedAt": "2026-07-01T12:17:14Z",
+  "scrapedAt": "2026-07-15T11:00:08Z",
   "payments": [
     {
       "recordDate": "2026-07-16",
@@ -12,25 +12,25 @@
       "recordDate": "2024-07-20",
       "amount": null,
       "year": 2023,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2024-01-07",
       "amount": null,
       "year": 2023,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2023-07-05",
       "amount": null,
       "year": 2022,
-      "status": "paid"
+      "status": "forecast"
     },
     {
       "recordDate": "2021-07-05",
       "amount": null,
       "year": 2020,
-      "status": "paid"
+      "status": "forecast"
     }
   ]
 }

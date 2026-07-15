@@ -1,7 +1,14 @@
 {
   "ticker": "NKHP",
-  "scrapedAt": "2026-07-01T12:14:53Z",
+  "scrapedAt": "2026-07-15T10:58:20Z",
   "payments": [
+    {
+      "recordDate": "2027-07-06",
+      "declaredDate": null,
+      "amount": 13.64,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-12-21",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-07-06",
-      "declaredDate": null,
+      "declaredDate": "2026-05-22",
       "amount": 10.08,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-12-20",

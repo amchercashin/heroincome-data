@@ -1,13 +1,20 @@
 {
   "ticker": "LSRG",
-  "scrapedAt": "2026-07-01T12:14:11Z",
+  "scrapedAt": "2026-07-15T10:57:42Z",
   "payments": [
     {
-      "recordDate": "2026-07-13",
+      "recordDate": "2027-07-13",
       "declaredDate": null,
       "amount": 78.0,
       "year": null,
       "isForecast": true
+    },
+    {
+      "recordDate": "2026-07-13",
+      "declaredDate": "2026-05-27",
+      "amount": 78.0,
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-04-29",
