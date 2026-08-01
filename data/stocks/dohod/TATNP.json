@@ -1,7 +1,14 @@
 {
   "ticker": "TATNP",
-  "scrapedAt": "2026-07-15T10:59:28Z",
+  "scrapedAt": "2026-08-01T10:47:31Z",
   "payments": [
+    {
+      "recordDate": "2027-07-15",
+      "declaredDate": null,
+      "amount": 13.49,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-01-11",
       "declaredDate": null,
@@ -18,10 +25,10 @@
     },
     {
       "recordDate": "2026-07-15",
-      "declaredDate": null,
+      "declaredDate": "2026-04-28",
       "amount": 11.61,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2026-01-11",

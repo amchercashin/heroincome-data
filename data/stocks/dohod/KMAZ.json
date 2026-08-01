@@ -1,9 +1,9 @@
 {
   "ticker": "KMAZ",
-  "scrapedAt": "2026-07-15T10:57:24Z",
+  "scrapedAt": "2026-08-01T10:45:26Z",
   "payments": [
     {
-      "recordDate": "2026-07-16",
+      "recordDate": "2027-07-16",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

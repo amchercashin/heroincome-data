@@ -1,6 +1,6 @@
 {
   "ticker": "POSI",
-  "scrapedAt": "2026-07-15T10:58:43Z",
+  "scrapedAt": "2026-08-01T10:46:48Z",
   "payments": [
     {
       "recordDate": "2027-05-25",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2027-05-17",
       "declaredDate": null,
-      "amount": 39.57,
+      "amount": 38.7,
       "year": null,
       "isForecast": true
     },

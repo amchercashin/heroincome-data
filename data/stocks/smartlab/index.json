@@ -1,18 +1,9 @@
 {
-  "updatedAt": "2026-07-15T11:00:19Z",
-  "tickersCount": 12,
+  "updatedAt": "2026-08-01T10:48:09Z",
+  "tickersCount": 3,
   "tickers": [
-    "AFLT",
     "AKRN",
-    "BAZA",
-    "DOMRF",
-    "FLOT",
-    "MGKL",
-    "RTKM",
-    "SBER",
-    "SNGS",
-    "SNGSP",
-    "T",
-    "VTBR"
+    "RAGR",
+    "T"
   ]
 }

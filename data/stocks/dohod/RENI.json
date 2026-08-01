@@ -1,18 +1,18 @@
 {
   "ticker": "RENI",
-  "scrapedAt": "2026-07-15T10:58:49Z",
+  "scrapedAt": "2026-08-01T10:46:55Z",
   "payments": [
     {
-      "recordDate": "2026-12-18",
+      "recordDate": "2027-07-15",
       "declaredDate": null,
-      "amount": 3.51,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-07-15",
+      "recordDate": "2026-12-18",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 3.51,
       "year": null,
       "isForecast": true
     },
