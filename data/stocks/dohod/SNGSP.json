@@ -1,11 +1,11 @@
 {
   "ticker": "SNGSP",
-  "scrapedAt": "2026-08-01T10:47:20Z",
+  "scrapedAt": "2026-08-15T09:34:30Z",
   "payments": [
     {
       "recordDate": "2027-07-16",
       "declaredDate": null,
-      "amount": 5.74,
+      "amount": 6.2,
       "year": null,
       "isForecast": true
     },

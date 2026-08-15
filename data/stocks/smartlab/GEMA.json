@@ -1,12 +1,18 @@
 {
   "ticker": "GEMA",
-  "scrapedAt": "2026-06-01T15:32:57Z",
+  "scrapedAt": "2026-08-15T09:35:08Z",
   "payments": [
+    {
+      "recordDate": "2026-09-28",
+      "amount": null,
+      "year": 2026,
+      "status": "forecast"
+    },
     {
       "recordDate": "2026-06-15",
       "amount": null,
       "year": 2025,
-      "status": "forecast"
+      "status": "paid"
     },
     {
       "recordDate": "2025-12-30",

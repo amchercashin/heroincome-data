@@ -1,7 +1,14 @@
 {
   "ticker": "RAGR",
-  "scrapedAt": "2026-08-01T10:46:51Z",
+  "scrapedAt": "2026-08-15T09:34:02Z",
   "payments": [
+    {
+      "recordDate": "2027-08-06",
+      "declaredDate": null,
+      "amount": 14.94,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2026-09-10",
       "declaredDate": null,
@@ -11,10 +18,10 @@
     },
     {
       "recordDate": "2026-08-06",
-      "declaredDate": null,
+      "declaredDate": "2026-07-24",
       "amount": 16.48,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2021-09-10",

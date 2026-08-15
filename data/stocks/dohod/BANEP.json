@@ -1,11 +1,11 @@
 {
   "ticker": "BANEP",
-  "scrapedAt": "2026-08-01T10:44:28Z",
+  "scrapedAt": "2026-08-15T09:31:43Z",
   "payments": [
     {
       "recordDate": "2027-07-13",
       "declaredDate": null,
-      "amount": 181.25,
+      "amount": 162.26,
       "year": null,
       "isForecast": true
     },

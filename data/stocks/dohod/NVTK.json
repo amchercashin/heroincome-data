@@ -1,11 +1,11 @@
 {
   "ticker": "NVTK",
-  "scrapedAt": "2026-08-01T10:46:34Z",
+  "scrapedAt": "2026-08-15T09:33:45Z",
   "payments": [
     {
       "recordDate": "2027-04-13",
       "declaredDate": null,
-      "amount": 16.05,
+      "amount": 41.56,
       "year": null,
       "isForecast": true
     },

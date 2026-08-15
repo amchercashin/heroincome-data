@@ -1,11 +1,18 @@
 {
   "ticker": "AKRN",
-  "scrapedAt": "2026-08-01T10:44:17Z",
+  "scrapedAt": "2026-08-15T09:31:33Z",
   "payments": [
+    {
+      "recordDate": "2027-08-10",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-06-09",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 204.0,
       "year": null,
       "isForecast": true
     },
@@ -18,10 +25,10 @@
     },
     {
       "recordDate": "2026-08-10",
-      "declaredDate": null,
+      "declaredDate": "2026-06-03",
       "amount": 235.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2025-12-09",

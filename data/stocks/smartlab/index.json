@@ -1,9 +1,11 @@
 {
-  "updatedAt": "2026-08-01T10:48:09Z",
-  "tickersCount": 3,
+  "updatedAt": "2026-08-15T09:35:13Z",
+  "tickersCount": 5,
   "tickers": [
-    "AKRN",
-    "RAGR",
-    "T"
+    "DIAS",
+    "GEMA",
+    "HEAD",
+    "T",
+    "YDEX"
   ]
 }
