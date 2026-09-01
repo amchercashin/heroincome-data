@@ -1,11 +1,21 @@
 {
-  "updatedAt": "2026-08-15T09:35:13Z",
-  "tickersCount": 5,
+  "updatedAt": "2026-09-01T14:08:13Z",
+  "tickersCount": 15,
   "tickers": [
+    "AQUA",
+    "BELU",
+    "BSPB",
     "DIAS",
+    "GCHE",
     "GEMA",
+    "GMKN",
     "HEAD",
+    "NVTK",
+    "OZPH",
+    "SIBN",
     "T",
-    "YDEX"
+    "TATN",
+    "YDEX",
+    "ZAYM"
   ]
 }

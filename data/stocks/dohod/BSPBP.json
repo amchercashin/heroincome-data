@@ -1,6 +1,6 @@
 {
   "ticker": "BSPBP",
-  "scrapedAt": "2026-08-15T09:31:50Z",
+  "scrapedAt": "2026-09-01T14:04:25Z",
   "payments": [
     {
       "recordDate": "2027-05-12",
@@ -10,7 +10,7 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-10-06",
+      "recordDate": "2026-10-05",
       "declaredDate": null,
       "amount": 0.22,
       "year": null,

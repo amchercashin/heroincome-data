@@ -1,11 +1,11 @@
 {
   "ticker": "RTKMP",
-  "scrapedAt": "2026-08-15T09:34:12Z",
+  "scrapedAt": "2026-09-01T14:06:51Z",
   "payments": [
     {
       "recordDate": "2027-07-20",
       "declaredDate": null,
-      "amount": 3.54,
+      "amount": 3.59,
       "year": null,
       "isForecast": true
     },

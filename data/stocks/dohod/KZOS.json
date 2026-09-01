@@ -1,11 +1,11 @@
 {
   "ticker": "KZOS",
-  "scrapedAt": "2026-08-15T09:32:46Z",
+  "scrapedAt": "2026-09-01T14:05:23Z",
   "payments": [
     {
       "recordDate": "2027-06-29",
       "declaredDate": null,
-      "amount": 1.02,
+      "amount": 1.88,
       "year": null,
       "isForecast": true
     },

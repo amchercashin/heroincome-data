@@ -1,11 +1,11 @@
 {
   "ticker": "SVCB",
-  "scrapedAt": "2026-08-15T09:34:35Z",
+  "scrapedAt": "2026-09-01T14:07:16Z",
   "payments": [
     {
       "recordDate": "2027-07-13",
       "declaredDate": null,
-      "amount": 0.6256,
+      "amount": 1.32,
       "year": null,
       "isForecast": true
     },
