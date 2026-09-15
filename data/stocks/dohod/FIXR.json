@@ -1,11 +1,11 @@
 {
   "ticker": "FIXR",
-  "scrapedAt": "2026-09-01T14:04:53Z",
+  "scrapedAt": "2026-09-15T14:16:52Z",
   "payments": [
     {
       "recordDate": "2027-05-19",
       "declaredDate": null,
-      "amount": 0.05,
+      "amount": 0.0638,
       "year": null,
       "isForecast": true
     },

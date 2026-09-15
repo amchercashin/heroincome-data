@@ -1,6 +1,6 @@
 {
   "ticker": "KAZTP",
-  "scrapedAt": "2026-09-01T14:05:14Z",
+  "scrapedAt": "2026-09-15T14:17:16Z",
   "payments": [
     {
       "recordDate": "2027-05-26",
@@ -12,7 +12,7 @@
     {
       "recordDate": "2026-12-03",
       "declaredDate": null,
-      "amount": 6.1,
+      "amount": 6.0,
       "year": null,
       "isForecast": true
     },

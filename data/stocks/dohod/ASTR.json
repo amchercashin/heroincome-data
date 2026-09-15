@@ -1,11 +1,11 @@
 {
   "ticker": "ASTR",
-  "scrapedAt": "2026-09-01T14:04:13Z",
+  "scrapedAt": "2026-09-15T14:16:07Z",
   "payments": [
     {
       "recordDate": "2027-06-01",
       "declaredDate": null,
-      "amount": 7.85,
+      "amount": 7.51,
       "year": null,
       "isForecast": true
     },

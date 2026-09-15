@@ -1,11 +1,11 @@
 {
   "ticker": "AFLT",
-  "scrapedAt": "2026-09-01T14:04:06Z",
+  "scrapedAt": "2026-09-15T14:15:59Z",
   "payments": [
     {
       "recordDate": "2027-07-16",
       "declaredDate": null,
-      "amount": 2.81,
+      "amount": 2.1,
       "year": null,
       "isForecast": true
     },

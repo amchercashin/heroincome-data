@@ -1,11 +1,11 @@
 {
   "ticker": "FLOT",
-  "scrapedAt": "2026-09-01T14:04:55Z",
+  "scrapedAt": "2026-09-15T14:16:54Z",
   "payments": [
     {
       "recordDate": "2027-07-16",
       "declaredDate": null,
-      "amount": 7.55,
+      "amount": 7.52,
       "year": null,
       "isForecast": true
     },

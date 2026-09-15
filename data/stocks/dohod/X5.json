@@ -1,18 +1,18 @@
 {
   "ticker": "X5",
-  "scrapedAt": "2026-09-01T14:07:43Z",
+  "scrapedAt": "2026-09-15T14:20:00Z",
   "payments": [
     {
       "recordDate": "2027-07-07",
       "declaredDate": null,
-      "amount": 109.0,
+      "amount": 84.28,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2027-01-06",
       "declaredDate": null,
-      "amount": 80.0,
+      "amount": 61.86,
       "year": null,
       "isForecast": true
     },

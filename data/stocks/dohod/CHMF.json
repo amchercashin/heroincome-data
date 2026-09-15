@@ -1,7 +1,14 @@
 {
   "ticker": "CHMF",
-  "scrapedAt": "2026-09-01T14:04:29Z",
+  "scrapedAt": "2026-09-15T14:16:25Z",
   "payments": [
+    {
+      "recordDate": "2027-09-10",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-06-18",
       "declaredDate": null,
@@ -18,13 +25,6 @@
     },
     {
       "recordDate": "2026-12-17",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-09-10",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

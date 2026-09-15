@@ -1,11 +1,11 @@
 {
   "ticker": "MSNG",
-  "scrapedAt": "2026-09-01T14:06:03Z",
+  "scrapedAt": "2026-09-15T14:18:11Z",
   "payments": [
     {
       "recordDate": "2027-07-14",
       "declaredDate": null,
-      "amount": 0.2084,
+      "amount": 0.1517,
       "year": null,
       "isForecast": true
     },

@@ -1,11 +1,11 @@
 {
   "ticker": "LSNG",
-  "scrapedAt": "2026-09-01T14:05:32Z",
+  "scrapedAt": "2026-09-15T14:17:35Z",
   "payments": [
     {
       "recordDate": "2027-06-17",
       "declaredDate": null,
-      "amount": 0.918,
+      "amount": 0.9681,
       "year": null,
       "isForecast": true
     },

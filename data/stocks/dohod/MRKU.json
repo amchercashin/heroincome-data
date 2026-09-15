@@ -1,11 +1,11 @@
 {
   "ticker": "MRKU",
-  "scrapedAt": "2026-09-01T14:05:56Z",
+  "scrapedAt": "2026-09-15T14:18:03Z",
   "payments": [
     {
       "recordDate": "2027-07-01",
       "declaredDate": null,
-      "amount": 0.0903,
+      "amount": 0.0935,
       "year": null,
       "isForecast": true
     },

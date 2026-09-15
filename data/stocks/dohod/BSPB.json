@@ -1,11 +1,11 @@
 {
   "ticker": "BSPB",
-  "scrapedAt": "2026-09-01T14:04:24Z",
+  "scrapedAt": "2026-09-15T14:16:19Z",
   "payments": [
     {
       "recordDate": "2027-05-12",
       "declaredDate": null,
-      "amount": 15.99,
+      "amount": 18.76,
       "year": null,
       "isForecast": true
     },

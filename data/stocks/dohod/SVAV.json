@@ -1,11 +1,11 @@
 {
   "ticker": "SVAV",
-  "scrapedAt": "2026-09-01T14:07:14Z",
+  "scrapedAt": "2026-09-15T14:19:28Z",
   "payments": [
     {
       "recordDate": "2027-06-11",
       "declaredDate": null,
-      "amount": 43.78,
+      "amount": 22.5,
       "year": null,
       "isForecast": true
     },
