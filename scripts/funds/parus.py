@@ -11,6 +11,8 @@ MONTHS_RU = {
     "янв": 1, "фев": 2, "мар": 3, "апр": 4,
     "май": 5, "мая": 5, "июн": 6, "июл": 7,
     "авг": 8, "сен": 9, "окт": 10, "ноя": 11, "дек": 12,
+    # Typos seen in the source sheets
+    "фер": 2,  # ПАРУС-НОРДВЕЙ: "28 фер 2023"
 }
 
 SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"

@@ -53,6 +53,12 @@ def test_parse_parus_csv_skips_planned_without_year():
     assert len(planned) == 0
 
 
+def test_parse_parus_csv_tolerates_month_typo():
+    csv_text = CSV_EMPTY + '14 мар 2023,28 фер 2023,1 000,"10,00 (12,0%)","8,7"\n'
+    result = parse_parus_csv(csv_text, "ПАРУС-НОРДВЕЙ", isin="RU000A104KU3")
+    assert result["distributions"][0]["recordDate"] == "2023-02-28"
+
+
 def test_parse_parus_csv_handles_empty():
     result = parse_parus_csv(CSV_EMPTY, "ПАРУС-ОЗН", isin="RU000A1022Z1")
     assert result["distributions"] == []
