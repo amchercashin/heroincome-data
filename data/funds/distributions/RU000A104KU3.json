@@ -376,7 +376,7 @@
     },
     {
       "paymentDate": "2023-03-14",
-      "recordDate": null,
+      "recordDate": "2023-02-28",
       "unitPrice": 1000.0,
       "amountBeforeTax": 10.0,
       "amountAfterTax": 8.7,
