@@ -1,16 +1,9 @@
 {
   "ticker": "SMLT",
-  "scrapedAt": "2026-09-15T14:19:20Z",
+  "scrapedAt": "2026-10-01T16:17:06Z",
   "payments": [
     {
       "recordDate": "2027-07-10",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-12",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,
