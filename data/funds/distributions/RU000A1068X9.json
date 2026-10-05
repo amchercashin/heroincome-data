@@ -3,8 +3,17 @@
   "ticker": null,
   "name": "ПАРУС-ДВИНЦЕВ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-09-05T12:26:15Z",
+  "scrapedAt": "2026-10-05T17:59:22Z",
   "distributions": [
+    {
+      "paymentDate": "2026-09-11",
+      "recordDate": "2026-08-31",
+      "unitPrice": 910.0,
+      "amountBeforeTax": 9.48,
+      "amountAfterTax": 8.25,
+      "yieldPrc": 12.5,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-08-13",
       "recordDate": "2026-07-31",
