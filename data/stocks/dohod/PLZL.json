@@ -1,7 +1,14 @@
 {
   "ticker": "PLZL",
-  "scrapedAt": "2026-10-01T16:16:36Z",
+  "scrapedAt": "2026-10-15T14:06:26Z",
   "payments": [
+    {
+      "recordDate": "2027-10-13",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-07-13",
       "declaredDate": null,
@@ -18,13 +25,6 @@
     },
     {
       "recordDate": "2026-12-22",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-13",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

@@ -1,7 +1,21 @@
 {
   "ticker": "PHOR",
-  "scrapedAt": "2026-10-01T16:16:33Z",
+  "scrapedAt": "2026-10-15T14:06:22Z",
   "payments": [
+    {
+      "recordDate": "2027-10-01",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
+    {
+      "recordDate": "2027-10-01",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-07-09",
       "declaredDate": null,
@@ -11,20 +25,6 @@
     },
     {
       "recordDate": "2026-12-22",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-01",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-01",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

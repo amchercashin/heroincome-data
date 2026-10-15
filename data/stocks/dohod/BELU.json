@@ -1,11 +1,18 @@
 {
   "ticker": "BELU",
-  "scrapedAt": "2026-10-01T16:14:23Z",
+  "scrapedAt": "2026-10-15T14:04:11Z",
   "payments": [
+    {
+      "recordDate": "2027-10-12",
+      "declaredDate": null,
+      "amount": 25.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-06-29",
       "declaredDate": null,
-      "amount": 25.0,
+      "amount": 11.0,
       "year": null,
       "isForecast": true
     },
@@ -18,10 +25,10 @@
     },
     {
       "recordDate": "2026-10-12",
-      "declaredDate": null,
+      "declaredDate": "2026-08-28",
       "amount": 8.0,
-      "year": null,
-      "isForecast": true
+      "year": 2026,
+      "isForecast": false
     },
     {
       "recordDate": "2026-06-29",
