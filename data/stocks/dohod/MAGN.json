@@ -1,7 +1,14 @@
 {
   "ticker": "MAGN",
-  "scrapedAt": "2026-10-15T14:05:30Z",
+  "scrapedAt": "2026-11-01T15:56:51Z",
   "payments": [
+    {
+      "recordDate": "2027-10-17",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-07-17",
       "declaredDate": null,
@@ -18,13 +25,6 @@
     },
     {
       "recordDate": "2027-01-13",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-17",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

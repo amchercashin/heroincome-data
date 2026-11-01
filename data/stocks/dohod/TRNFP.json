@@ -1,18 +1,18 @@
 {
   "ticker": "TRNFP",
-  "scrapedAt": "2026-10-15T14:07:18Z",
+  "scrapedAt": "2026-11-01T15:58:43Z",
   "payments": [
     {
-      "recordDate": "2027-07-20",
+      "recordDate": "2027-10-20",
       "declaredDate": null,
-      "amount": 175.28,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-10-20",
+      "recordDate": "2027-07-20",
       "declaredDate": null,
-      "amount": 0.0,
+      "amount": 175.28,
       "year": null,
       "isForecast": true
     },

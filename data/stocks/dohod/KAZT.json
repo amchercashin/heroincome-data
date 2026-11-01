@@ -1,6 +1,6 @@
 {
   "ticker": "KAZT",
-  "scrapedAt": "2026-10-15T14:05:04Z",
+  "scrapedAt": "2026-11-01T15:56:23Z",
   "payments": [
     {
       "recordDate": "2027-09-23",
@@ -12,14 +12,14 @@
     {
       "recordDate": "2027-05-26",
       "declaredDate": null,
-      "amount": 8.0,
+      "amount": 10.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-12-03",
+      "recordDate": "2026-12-01",
       "declaredDate": null,
-      "amount": 6.0,
+      "amount": 20.0,
       "year": null,
       "isForecast": true
     },

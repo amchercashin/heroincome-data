@@ -1,16 +1,16 @@
 {
   "ticker": "ALRS",
-  "scrapedAt": "2026-10-15T14:04:01Z",
+  "scrapedAt": "2026-11-01T15:55:14Z",
   "payments": [
     {
-      "recordDate": "2027-05-29",
+      "recordDate": "2027-10-20",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-10-20",
+      "recordDate": "2027-05-29",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

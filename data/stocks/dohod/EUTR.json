@@ -1,7 +1,14 @@
 {
   "ticker": "EUTR",
-  "scrapedAt": "2026-10-15T14:04:42Z",
+  "scrapedAt": "2026-11-01T15:55:58Z",
   "payments": [
+    {
+      "recordDate": "2027-10-20",
+      "declaredDate": null,
+      "amount": 0.0,
+      "year": null,
+      "isForecast": true
+    },
     {
       "recordDate": "2027-07-17",
       "declaredDate": null,
@@ -18,13 +25,6 @@
     },
     {
       "recordDate": "2027-01-14",
-      "declaredDate": null,
-      "amount": 0.0,
-      "year": null,
-      "isForecast": true
-    },
-    {
-      "recordDate": "2026-10-20",
       "declaredDate": null,
       "amount": 0.0,
       "year": null,

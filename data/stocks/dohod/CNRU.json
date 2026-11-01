@@ -1,6 +1,6 @@
 {
   "ticker": "CNRU",
-  "scrapedAt": "2026-10-15T14:04:23Z",
+  "scrapedAt": "2026-11-01T15:55:38Z",
   "payments": [
     {
       "recordDate": "2027-06-22",
@@ -10,9 +10,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-12-12",
+      "recordDate": "2026-11-30",
       "declaredDate": null,
-      "amount": 34.0,
+      "amount": 33.0,
       "year": null,
       "isForecast": true
     },
