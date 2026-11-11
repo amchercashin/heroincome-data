@@ -61,6 +61,16 @@ def test_update_index_creates_index_file():
         assert "updatedAt" in data
 
 
+def test_update_index_writes_extra_fields():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        path = os.path.join(tmpdir, "index.json")
+        update_index(path, ["RU000A108BZ2"], key="funds", extra={"aliases": {"XTRIUMF": "RU000A108BZ2"}})
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        assert data["funds"] == ["RU000A108BZ2"]
+        assert data["aliases"] == {"XTRIUMF": "RU000A108BZ2"}
+
+
 def test_parse_date_dmy_valid():
     assert parse_date_dmy("21.11.2025") == "2025-11-21"
 
