@@ -17,8 +17,10 @@ MONTHS_RU = {
 
 SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv"
 
+# Fallback for when parus.properties is unavailable (see parus_site.py, the main
+# source, which also finds new funds). Keyed by ISIN like the saved files.
 PARUS_FUNDS = [
-    {"name": "ПАРУС-ОЗН", "isin": "RU000A1022Z1", "ticker": "PLZ5",
+    {"name": "ПАРУС-ОЗН", "isin": "RU000A1022Z1", "ticker": None,
      "sheetId": "1EBBlo_L-h1X1zkvybI-cPh-gPjS4mUbJ4NkrkLTeRd4"},
     {"name": "ПАРУС-СБЛ", "isin": "RU000A104172", "ticker": None,
      "sheetId": "1dcOHCw6t2C2BnQep4x6-Dc71VivN03JpbgQ6KBP3Uvw"},
@@ -32,7 +34,7 @@ PARUS_FUNDS = [
      "sheetId": "1RRQwzPScXeaQ7TXiOmeIjgnxoy4y9mkIgqHfJIhw18Y"},
     {"name": "ПАРУС-ЗОЛЯ", "isin": "RU000A10CFM8", "ticker": None,
      "sheetId": "1hQGBzKvDNHB0tnO0DrC0MNsgrYuuULjeGIVHfXyL_w4"},
-    {"name": "ПАРУС-ТРИУМФ", "isin": "XTRIUMF", "ticker": None,
+    {"name": "ПАРУС-ТРИУМФ", "isin": "RU000A108BZ2", "ticker": None,
      "sheetId": "1Egct-_5Bbi_LsHyidqL55i8EkT_nFvYgQ__hC6XyEDw"},
 ]
 

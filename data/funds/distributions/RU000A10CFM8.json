@@ -3,14 +3,24 @@
   "ticker": null,
   "name": "ПАРУС-ЗОЛЯ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-11-05T17:08:12Z",
+  "source": "https://parus.properties/funds/zolya/",
+  "scrapedAt": "2026-11-11T17:01:40Z",
   "distributions": [
+    {
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.63,
+      "amountAfterTax": null,
+      "yieldPrc": 11.5,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-10-12",
       "recordDate": "2026-09-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -19,7 +29,7 @@
       "recordDate": "2026-08-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -28,7 +38,7 @@
       "recordDate": "2026-07-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -37,16 +47,16 @@
       "recordDate": "2026-06-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-06-11",
-      "recordDate": "2026-05-31",
+      "recordDate": "2026-05-29",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -55,7 +65,7 @@
       "recordDate": "2026-04-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -64,34 +74,34 @@
       "recordDate": "2026-03-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-03-13",
-      "recordDate": "2026-02-28",
+      "recordDate": "2026-02-27",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-02-12",
-      "recordDate": "2026-01-31",
+      "recordDate": "2026-01-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.5,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-01-22",
-      "recordDate": "2025-12-31",
+      "recordDate": "2025-12-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.25,
-      "amountAfterTax": 7.18,
+      "amountAfterTax": null,
       "yieldPrc": 11.0,
       "status": "paid"
     }

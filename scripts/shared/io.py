@@ -11,10 +11,13 @@ def save_json(path: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def update_index(path: str, items: list[str], key: str = "tickers") -> None:
+def update_index(
+    path: str, items: list[str], key: str = "tickers", extra: dict | None = None
+) -> None:
     index = {
         "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         f"{key}Count": len(items),
         key: sorted(items),
+        **(extra or {}),
     }
     save_json(path, index)
