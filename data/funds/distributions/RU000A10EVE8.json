@@ -1,0 +1,55 @@
+{
+  "isin": "RU000A10EVE8",
+  "ticker": null,
+  "name": "ПАРУС-МЕСТО ВСТРЕЧИ",
+  "managementCompany": "Parus",
+  "source": "https://parus.properties/funds/mv/",
+  "scrapedAt": "2026-11-11T17:01:39Z",
+  "distributions": [
+    {
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.25,
+      "amountAfterTax": null,
+      "yieldPrc": 11.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-10-12",
+      "recordDate": "2026-09-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.25,
+      "amountAfterTax": null,
+      "yieldPrc": 11.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-09-11",
+      "recordDate": "2026-08-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.25,
+      "amountAfterTax": null,
+      "yieldPrc": 11.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-31",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.25,
+      "amountAfterTax": null,
+      "yieldPrc": 11.0,
+      "status": "paid"
+    },
+    {
+      "paymentDate": "2026-07-13",
+      "recordDate": "2026-06-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.25,
+      "amountAfterTax": null,
+      "yieldPrc": 11.0,
+      "status": "paid"
+    }
+  ]
+}

@@ -1,14 +1,19 @@
 {
-  "updatedAt": "2026-11-05T17:08:13Z",
-  "fundsCount": 8,
+  "updatedAt": "2026-11-11T17:01:42Z",
+  "fundsCount": 10,
   "funds": [
-    "PLZ5",
+    "RU000A1022Z1",
     "RU000A104172",
     "RU000A104KU3",
     "RU000A105328",
     "RU000A1068X9",
+    "RU000A108BZ2",
     "RU000A108UH0",
+    "RU000A10BBS6",
     "RU000A10CFM8",
-    "XTRIUMF"
-  ]
+    "RU000A10EVE8"
+  ],
+  "aliases": {
+    "XTRIUMF": "RU000A108BZ2"
+  }
 }

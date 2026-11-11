@@ -1,16 +1,26 @@
 {
-  "isin": "XTRIUMF",
-  "ticker": null,
+  "isin": "RU000A108BZ2",
+  "ticker": "XTRIUMF",
   "name": "ПАРУС-ТРИУМФ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-11-05T17:08:13Z",
+  "source": "https://parus.properties/funds/triumph/",
+  "scrapedAt": "2026-11-11T17:01:40Z",
   "distributions": [
+    {
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-30",
+      "unitPrice": 900.0,
+      "amountBeforeTax": 8.7,
+      "amountAfterTax": null,
+      "yieldPrc": 11.6,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-10-12",
       "recordDate": "2026-09-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -19,7 +29,7 @@
       "recordDate": "2026-08-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -28,7 +38,7 @@
       "recordDate": "2026-07-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -37,7 +47,7 @@
       "recordDate": "2026-06-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -46,7 +56,7 @@
       "recordDate": "2026-05-29",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -55,7 +65,7 @@
       "recordDate": "2026-04-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -64,7 +74,7 @@
       "recordDate": "2026-03-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -73,7 +83,7 @@
       "recordDate": "2026-02-27",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -82,7 +92,7 @@
       "recordDate": "2026-01-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.7,
-      "amountAfterTax": 7.57,
+      "amountAfterTax": null,
       "yieldPrc": 11.6,
       "status": "paid"
     },
@@ -91,16 +101,16 @@
       "recordDate": "2025-12-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.62,
-      "amountAfterTax": 7.51,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
     {
       "paymentDate": "2025-12-11",
-      "recordDate": "2025-11-30",
+      "recordDate": "2025-11-28",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.51,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -109,7 +119,7 @@
       "recordDate": "2025-10-31",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.62,
-      "amountAfterTax": 7.51,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     },
@@ -118,7 +128,7 @@
       "recordDate": "2025-09-30",
       "unitPrice": 900.0,
       "amountBeforeTax": 8.63,
-      "amountAfterTax": 7.51,
+      "amountAfterTax": null,
       "yieldPrc": 11.5,
       "status": "paid"
     }

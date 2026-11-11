@@ -3,14 +3,24 @@
   "ticker": null,
   "name": "ПАРУС-ДВИНЦЕВ",
   "managementCompany": "Parus",
-  "scrapedAt": "2026-11-05T17:08:11Z",
+  "source": "https://parus.properties/funds/dvintsev/",
+  "scrapedAt": "2026-11-11T17:01:39Z",
   "distributions": [
+    {
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-30",
+      "unitPrice": 910.0,
+      "amountBeforeTax": 9.48,
+      "amountAfterTax": null,
+      "yieldPrc": 12.5,
+      "status": "paid"
+    },
     {
       "paymentDate": "2026-10-12",
       "recordDate": "2026-09-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -19,7 +29,7 @@
       "recordDate": "2026-08-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -28,7 +38,7 @@
       "recordDate": "2026-07-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -37,16 +47,16 @@
       "recordDate": "2026-06-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-06-11",
-      "recordDate": "2026-05-31",
+      "recordDate": "2026-05-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -55,7 +65,7 @@
       "recordDate": "2026-04-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -64,16 +74,16 @@
       "recordDate": "2026-03-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
     {
       "paymentDate": "2026-03-13",
-      "recordDate": "2026-02-28",
+      "recordDate": "2026-02-27",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -82,7 +92,7 @@
       "recordDate": "2026-01-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.48,
-      "amountAfterTax": 8.25,
+      "amountAfterTax": null,
       "yieldPrc": 12.5,
       "status": "paid"
     },
@@ -91,16 +101,16 @@
       "recordDate": "2025-12-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
     {
       "paymentDate": "2025-12-11",
-      "recordDate": "2025-11-30",
+      "recordDate": "2025-11-28",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -109,7 +119,7 @@
       "recordDate": "2025-10-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -118,16 +128,16 @@
       "recordDate": "2025-09-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
     {
       "paymentDate": "2025-09-11",
-      "recordDate": "2025-08-31",
+      "recordDate": "2025-08-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -136,7 +146,7 @@
       "recordDate": "2025-07-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -145,16 +155,16 @@
       "recordDate": "2025-06-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
     {
       "paymentDate": "2025-06-16",
-      "recordDate": "2025-05-31",
+      "recordDate": "2025-05-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -163,7 +173,7 @@
       "recordDate": "2025-04-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -172,7 +182,7 @@
       "recordDate": "2025-03-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -181,7 +191,7 @@
       "recordDate": "2025-02-28",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
@@ -190,25 +200,25 @@
       "recordDate": "2025-01-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 9.1,
-      "amountAfterTax": 7.92,
+      "amountAfterTax": null,
       "yieldPrc": 12.0,
       "status": "paid"
     },
     {
       "paymentDate": "2025-01-21",
-      "recordDate": "2024-12-31",
+      "recordDate": "2024-12-28",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
     {
       "paymentDate": "2024-12-12",
-      "recordDate": "2024-11-30",
+      "recordDate": "2024-11-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
@@ -217,7 +227,7 @@
       "recordDate": "2024-10-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
@@ -226,16 +236,16 @@
       "recordDate": "2024-09-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
     {
       "paymentDate": "2024-09-12",
-      "recordDate": "2024-08-31",
+      "recordDate": "2024-08-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
@@ -244,17 +254,17 @@
       "recordDate": "2024-07-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
+      "amountAfterTax": null,
       "yieldPrc": 9.8,
       "status": "paid"
     },
     {
       "paymentDate": "2024-07-11",
-      "recordDate": "2024-06-30",
+      "recordDate": "2024-06-28",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
@@ -262,26 +272,26 @@
       "recordDate": "2024-05-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
       "paymentDate": "2024-05-16",
-      "recordDate": "2024-04-30",
+      "recordDate": "2024-04-27",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
       "paymentDate": "2024-04-11",
-      "recordDate": "2024-03-31",
+      "recordDate": "2024-03-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
@@ -289,8 +299,8 @@
       "recordDate": "2024-02-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
@@ -298,17 +308,17 @@
       "recordDate": "2024-01-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.39,
-      "amountAfterTax": 6.43,
-      "yieldPrc": 9.8,
+      "amountAfterTax": null,
+      "yieldPrc": 9.7,
       "status": "paid"
     },
     {
       "paymentDate": "2024-01-19",
-      "recordDate": "2023-12-31",
+      "recordDate": "2023-12-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.32,
-      "amountAfterTax": 6.37,
-      "yieldPrc": 9.7,
+      "amountAfterTax": null,
+      "yieldPrc": 9.6,
       "status": "paid"
     },
     {
@@ -316,8 +326,8 @@
       "recordDate": "2023-11-30",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.32,
-      "amountAfterTax": 6.37,
-      "yieldPrc": 9.7,
+      "amountAfterTax": null,
+      "yieldPrc": 9.6,
       "status": "paid"
     },
     {
@@ -325,17 +335,17 @@
       "recordDate": "2023-10-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.32,
-      "amountAfterTax": 6.37,
-      "yieldPrc": 9.7,
+      "amountAfterTax": null,
+      "yieldPrc": 9.6,
       "status": "paid"
     },
     {
       "paymentDate": "2023-10-12",
-      "recordDate": "2023-09-30",
+      "recordDate": "2023-09-29",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.32,
-      "amountAfterTax": 6.37,
-      "yieldPrc": 9.7,
+      "amountAfterTax": null,
+      "yieldPrc": 9.6,
       "status": "paid"
     },
     {
@@ -343,8 +353,8 @@
       "recordDate": "2023-08-31",
       "unitPrice": 910.0,
       "amountBeforeTax": 7.32,
-      "amountAfterTax": 6.37,
-      "yieldPrc": 9.7,
+      "amountAfterTax": null,
+      "yieldPrc": 9.6,
       "status": "paid"
     }
   ]
