@@ -1,0 +1,63 @@
+{
+  "ticker": "HNFG",
+  "page": "https://smart-lab.ru/q/HNFG/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-07",
+      "lastBuyDate": "2026-12-04",
+      "period": "3кв 2026",
+      "amount": 8.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-06-08",
+      "lastBuyDate": "2026-06-05",
+      "period": "1кв 2026",
+      "amount": 17.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-12",
+      "lastBuyDate": "2025-12-11",
+      "period": "3кв 2025",
+      "amount": 12.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-02",
+      "lastBuyDate": "2025-05-30",
+      "period": "1кв 2025",
+      "amount": 20.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-09",
+      "lastBuyDate": "2024-12-06",
+      "period": "2023 год",
+      "amount": 8.38,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-09",
+      "lastBuyDate": "2024-12-06",
+      "period": "3кв 2024",
+      "amount": 9.62,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-03",
+      "lastBuyDate": "2024-05-31",
+      "period": "1кв 2024",
+      "amount": 30.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

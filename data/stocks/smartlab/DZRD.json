@@ -1,0 +1,23 @@
+{
+  "ticker": "DZRD",
+  "page": "https://smart-lab.ru/q/DZRD/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-01-15",
+      "lastBuyDate": "2024-01-12",
+      "period": "3кв 2023",
+      "amount": 110.36,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-10-20",
+      "lastBuyDate": "2023-10-19",
+      "period": "2кв 2023",
+      "amount": 321.73,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

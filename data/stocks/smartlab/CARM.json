@@ -1,0 +1,15 @@
+{
+  "ticker": "CARM",
+  "page": "https://smart-lab.ru/q/CARM/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-12-10",
+      "lastBuyDate": "2025-12-09",
+      "period": "3кв 2025",
+      "amount": 0.08,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

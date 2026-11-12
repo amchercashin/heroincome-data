@@ -1,0 +1,32 @@
+{
+  "ticker": "ABIO",
+  "page": "https://smart-lab.ru/q/ABIO/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-22",
+      "lastBuyDate": "2026-06-19",
+      "period": "2025 год",
+      "amount": 1.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-17",
+      "lastBuyDate": "2024-06-14",
+      "period": "2023 год",
+      "amount": 1.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-19",
+      "lastBuyDate": "2023-07-17",
+      "period": "2022 год",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ISKJ"
+    }
+  ]
+}

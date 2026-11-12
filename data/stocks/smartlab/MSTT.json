@@ -1,0 +1,39 @@
+{
+  "ticker": "MSTT",
+  "page": "https://smart-lab.ru/q/MSTT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2019-12-23",
+      "lastBuyDate": "2019-12-19",
+      "period": "3кв 2019",
+      "amount": 11.29,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2018-07-03",
+      "lastBuyDate": "2018-06-29",
+      "period": "4кв 2017",
+      "amount": 2.19,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-19",
+      "lastBuyDate": "2017-12-15",
+      "period": "3кв 2017",
+      "amount": 8.45,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-18",
+      "lastBuyDate": "2017-07-14",
+      "period": "2016 год",
+      "amount": 10.64,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "ETLN",
+  "page": "https://smart-lab.ru/q/ETLN/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-12-10",
+      "lastBuyDate": "2021-12-08",
+      "period": "2020 год",
+      "amount": 9.39,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-11-20",
+      "lastBuyDate": "2020-11-18",
+      "period": "2019 год",
+      "amount": 12.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

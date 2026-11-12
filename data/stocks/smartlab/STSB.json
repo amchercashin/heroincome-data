@@ -1,0 +1,15 @@
+{
+  "ticker": "STSB",
+  "page": "https://smart-lab.ru/q/STSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-07-06",
+      "lastBuyDate": "2024-07-04",
+      "period": "2023 год",
+      "amount": 0.3121725,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

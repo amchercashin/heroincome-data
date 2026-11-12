@@ -1,0 +1,55 @@
+{
+  "ticker": "RTSBP",
+  "page": "https://smart-lab.ru/q/RTSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-09",
+      "lastBuyDate": "2026-06-08",
+      "period": "2025 год",
+      "amount": 0.1328441,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-01",
+      "lastBuyDate": "2024-09-30",
+      "period": "2кв 2024",
+      "amount": 0.104920183,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-23",
+      "lastBuyDate": "2023-05-19",
+      "period": "2022 год",
+      "amount": 0.04768,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "lastBuyDate": "2022-07-18",
+      "period": "2021 год",
+      "amount": 0.0366669,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "lastBuyDate": "2022-07-18",
+      "period": "1кв 2022",
+      "amount": 0.0035342,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-03-25",
+      "lastBuyDate": "2018-03-21",
+      "period": "2017 н/расп",
+      "amount": 0.02514,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

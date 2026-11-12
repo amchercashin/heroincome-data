@@ -1,0 +1,23 @@
+{
+  "ticker": "WUSH",
+  "page": "https://smart-lab.ru/q/WUSH/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-12-06",
+      "lastBuyDate": "2024-12-05",
+      "period": "3кв 2024",
+      "amount": 2.11,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-04",
+      "lastBuyDate": "2023-12-01",
+      "period": "3кв 2023",
+      "amount": 10.25,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

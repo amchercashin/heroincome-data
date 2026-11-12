@@ -1,0 +1,55 @@
+{
+  "ticker": "RDRB",
+  "page": "https://smart-lab.ru/q/RDRB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-06",
+      "lastBuyDate": "2026-07-03",
+      "period": "2025 год",
+      "amount": 4.75,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-28",
+      "lastBuyDate": "2024-05-27",
+      "period": "2023 год",
+      "amount": 15.85,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-22",
+      "lastBuyDate": "2023-05-18",
+      "period": "2022 год",
+      "amount": 11.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-09-20",
+      "lastBuyDate": "2022-09-16",
+      "period": "2021 год",
+      "amount": 11.08,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-08",
+      "lastBuyDate": "2021-06-04",
+      "period": "2020 год",
+      "amount": 10.92,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-28",
+      "lastBuyDate": "2020-07-24",
+      "period": "2019 год",
+      "amount": 6.73,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

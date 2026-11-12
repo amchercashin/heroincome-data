@@ -1,0 +1,223 @@
+{
+  "ticker": "CHMF",
+  "page": "https://smart-lab.ru/q/CHMF/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-12-17",
+      "lastBuyDate": "2024-12-16",
+      "period": "3кв 2024",
+      "amount": 49.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-10",
+      "lastBuyDate": "2024-09-09",
+      "period": "2кв 2024",
+      "amount": 31.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-18",
+      "lastBuyDate": "2024-06-17",
+      "period": "1кв 2024",
+      "amount": 38.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-18",
+      "lastBuyDate": "2024-06-17",
+      "period": "2023 год",
+      "amount": 191.51,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-14",
+      "lastBuyDate": "2021-12-10",
+      "period": "3кв 2021",
+      "amount": 85.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-02",
+      "lastBuyDate": "2021-08-31",
+      "period": "2кв 2021",
+      "amount": 84.45,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-01",
+      "lastBuyDate": "2021-05-28",
+      "period": "1кв 2021",
+      "amount": 46.77,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-01",
+      "lastBuyDate": "2021-05-28",
+      "period": "4кв 2020",
+      "amount": 36.27,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-12-08",
+      "lastBuyDate": "2020-12-04",
+      "period": "3кв 2020",
+      "amount": 37.34,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-09-08",
+      "lastBuyDate": "2020-09-04",
+      "period": "2кв 2020",
+      "amount": 15.44,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-16",
+      "lastBuyDate": "2020-06-11",
+      "period": "1кв 2020",
+      "amount": 27.35,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-16",
+      "lastBuyDate": "2020-06-11",
+      "period": "4кв 2019",
+      "amount": 26.26,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-03",
+      "lastBuyDate": "2019-11-29",
+      "period": "3кв 2019",
+      "amount": 27.47,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-09-17",
+      "lastBuyDate": "2019-09-13",
+      "period": "2кв 2019",
+      "amount": 26.72,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-18",
+      "lastBuyDate": "2019-06-14",
+      "period": "1кв 2019",
+      "amount": 35.43,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-07",
+      "lastBuyDate": "2019-05-03",
+      "period": "4кв 2018",
+      "amount": 32.08,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-04",
+      "lastBuyDate": "2018-11-30",
+      "period": "3кв 2018",
+      "amount": 44.39,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-09-25",
+      "lastBuyDate": "2018-09-21",
+      "period": "2кв 2018",
+      "amount": 45.94,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-19",
+      "lastBuyDate": "2018-06-15",
+      "period": "1кв 2018",
+      "amount": 38.32,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-19",
+      "lastBuyDate": "2018-06-15",
+      "period": "4кв 2017",
+      "amount": 27.72,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-05",
+      "lastBuyDate": "2017-12-01",
+      "period": "3кв 2017",
+      "amount": 35.61,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-26",
+      "lastBuyDate": "2017-09-22",
+      "period": "2кв 2017",
+      "amount": 22.28,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "1кв 2017",
+      "amount": 24.44,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "4кв 2016",
+      "amount": 27.73,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-12-13",
+      "lastBuyDate": "2016-12-09",
+      "period": "3кв 2016",
+      "amount": 24.96,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-09-16",
+      "lastBuyDate": "2016-09-14",
+      "period": "2кв 2016",
+      "amount": 19.66,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-05",
+      "lastBuyDate": "2016-07-01",
+      "period": "1кв 2016",
+      "amount": 8.25,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

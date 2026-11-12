@@ -1,0 +1,63 @@
+{
+  "ticker": "PRMB",
+  "page": "https://smart-lab.ru/q/PRMB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-05-06",
+      "lastBuyDate": "2024-05-03",
+      "period": "2023 год",
+      "amount": 2000.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-02",
+      "lastBuyDate": "2023-04-27",
+      "period": "4кв 2022",
+      "amount": 2400.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-10-11",
+      "lastBuyDate": "2022-10-07",
+      "period": "2кв 2022",
+      "amount": 2400.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-05-30",
+      "lastBuyDate": "2022-05-26",
+      "period": "2021 год",
+      "amount": 1310.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-25",
+      "lastBuyDate": "2021-05-21",
+      "period": "2020 год",
+      "amount": 901.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-29",
+      "lastBuyDate": "2020-06-25",
+      "period": "2019 год",
+      "amount": 800.0,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2019-05-27",
+      "lastBuyDate": "2019-05-23",
+      "period": "2018 год",
+      "amount": 1000.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

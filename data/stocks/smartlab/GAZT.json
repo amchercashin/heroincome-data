@@ -1,0 +1,15 @@
+{
+  "ticker": "GAZT",
+  "page": "https://smart-lab.ru/q/GAZT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-12-22",
+      "lastBuyDate": "2024-12-19",
+      "period": "2024 год",
+      "amount": 4.29894,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

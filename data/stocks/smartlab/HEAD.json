@@ -1,0 +1,75 @@
+{
+  "ticker": "HEAD",
+  "page": "https://smart-lab.ru/q/HEAD/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-09-28",
+      "lastBuyDate": "2026-09-25",
+      "period": "2кв 2026",
+      "amount": 200.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-05-11",
+      "lastBuyDate": "2026-05-12",
+      "period": "4кв 2025",
+      "amount": 233.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-09-27",
+      "lastBuyDate": "2025-09-25",
+      "period": "2кв 2025",
+      "amount": 233.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-17",
+      "lastBuyDate": "2024-12-16",
+      "period": "2024 год",
+      "amount": 907.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-01-24",
+      "lastBuyDate": "2022-01-20",
+      "period": "2021 год",
+      "amount": 63.0,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "HHRU"
+    },
+    {
+      "recordDate": "2021-06-09",
+      "lastBuyDate": "2021-06-07",
+      "period": "2020 год",
+      "amount": 40.4,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "HHRU"
+    },
+    {
+      "recordDate": "2020-03-27",
+      "lastBuyDate": "2020-03-25",
+      "period": "2019 год",
+      "amount": 36.13,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "HHRU"
+    },
+    {
+      "recordDate": "2019-06-14",
+      "lastBuyDate": "2019-06-12",
+      "period": "2018 год",
+      "amount": 23.45,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "HHRU"
+    }
+  ]
+}

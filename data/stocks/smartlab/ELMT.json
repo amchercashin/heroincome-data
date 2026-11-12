@@ -1,0 +1,23 @@
+{
+  "ticker": "ELMT",
+  "page": "https://smart-lab.ru/q/ELMT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-07-14",
+      "lastBuyDate": "2025-07-11",
+      "period": "4кв 2024",
+      "amount": 0.003535,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-11",
+      "lastBuyDate": "2024-07-10",
+      "period": "2023 год",
+      "amount": 0.0018,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

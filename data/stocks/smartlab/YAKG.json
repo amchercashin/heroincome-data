@@ -1,0 +1,23 @@
+{
+  "ticker": "YAKG",
+  "page": "https://smart-lab.ru/q/YAKG/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-04-26",
+      "lastBuyDate": "2021-04-22",
+      "period": "1кв 2021",
+      "amount": 0.61,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-19",
+      "lastBuyDate": "2017-06-15",
+      "period": "2016 год",
+      "amount": 0.3669,
+      "currency": "RUB",
+      "status": "canceled"
+    }
+  ]
+}

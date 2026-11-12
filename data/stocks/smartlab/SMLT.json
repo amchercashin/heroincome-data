@@ -1,0 +1,39 @@
+{
+  "ticker": "SMLT",
+  "page": "https://smart-lab.ru/q/SMLT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2022-10-12",
+      "lastBuyDate": "2022-10-10",
+      "period": "2кв 2022",
+      "amount": 41.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "1кв 2022",
+      "amount": 41.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-10-15",
+      "lastBuyDate": "2021-10-13",
+      "period": "2кв 2021",
+      "amount": 41.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-10",
+      "lastBuyDate": "2021-07-07",
+      "period": "2020 год",
+      "amount": 41.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

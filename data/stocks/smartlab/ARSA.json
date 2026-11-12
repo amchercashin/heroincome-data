@@ -1,0 +1,39 @@
+{
+  "ticker": "ARSA",
+  "page": "https://smart-lab.ru/q/ARSA/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-06-30",
+      "lastBuyDate": "2025-06-27",
+      "period": "4кв 2024",
+      "amount": 0.15,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "lastBuyDate": "2024-07-05",
+      "period": "2023 год",
+      "amount": 0.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-09-30",
+      "lastBuyDate": "2020-09-28",
+      "period": "2019 год",
+      "amount": 0.16,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-01",
+      "lastBuyDate": "2019-06-27",
+      "period": "2018 год",
+      "amount": 0.15,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

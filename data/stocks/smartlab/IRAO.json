@@ -1,0 +1,111 @@
+{
+  "ticker": "IRAO",
+  "page": "https://smart-lab.ru/q/IRAO/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-09",
+      "lastBuyDate": "2026-06-08",
+      "period": "2025 год",
+      "amount": 0.321425305785,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-09",
+      "lastBuyDate": "2025-06-06",
+      "period": "2024 год",
+      "amount": 0.353756516889,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-03",
+      "lastBuyDate": "2024-05-31",
+      "period": "2023 год",
+      "amount": 0.325999263608,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-30",
+      "lastBuyDate": "2023-05-26",
+      "period": "2022 год",
+      "amount": 0.283655318019,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-10",
+      "lastBuyDate": "2022-06-08",
+      "period": "2021 год",
+      "amount": 0.23658,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-07",
+      "lastBuyDate": "2021-06-03",
+      "period": "2020 год",
+      "amount": 0.18,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-01",
+      "lastBuyDate": "2020-05-28",
+      "period": "2019 год",
+      "amount": 0.19619,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-31",
+      "lastBuyDate": "2019-05-29",
+      "period": "2018 год",
+      "amount": 0.17164,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-01",
+      "lastBuyDate": "2018-05-30",
+      "period": "2017 год",
+      "amount": 0.13038,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "2016 год",
+      "amount": 0.14682,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-21",
+      "lastBuyDate": "2016-06-17",
+      "period": "2015 год",
+      "amount": 0.0178230516552,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-06-09",
+      "lastBuyDate": "2015-06-05",
+      "period": "2014 год",
+      "amount": 0.001039679119,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2011-05-17",
+      "lastBuyDate": "2011-05-17",
+      "period": "2010 год",
+      "amount": 1.544e-05,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

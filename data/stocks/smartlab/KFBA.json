@@ -1,0 +1,43 @@
+{
+  "ticker": "KFBA",
+  "page": "https://smart-lab.ru/q/KFBA/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "2023 год",
+      "amount": 48.55,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "INGR"
+    },
+    {
+      "recordDate": "2022-03-28",
+      "lastBuyDate": "2022-03-24",
+      "period": "2021 н/расп",
+      "amount": 41.69,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "INGR"
+    },
+    {
+      "recordDate": "2021-07-18",
+      "lastBuyDate": "2021-07-14",
+      "period": "2020 год",
+      "amount": 36.39,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "INGR"
+    },
+    {
+      "recordDate": "2020-06-19",
+      "lastBuyDate": "2020-06-17",
+      "period": "2019 год",
+      "amount": 72.78,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "INGR"
+    }
+  ]
+}

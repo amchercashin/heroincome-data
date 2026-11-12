@@ -1,0 +1,23 @@
+{
+  "ticker": "LMBZ",
+  "page": "https://smart-lab.ru/q/LMBZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-07",
+      "lastBuyDate": "2026-07-06",
+      "period": "2025 год",
+      "amount": 2.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "lastBuyDate": "2025-07-04",
+      "period": "2024 год",
+      "amount": 3.5,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

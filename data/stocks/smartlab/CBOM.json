@@ -1,0 +1,15 @@
+{
+  "ticker": "CBOM",
+  "page": "https://smart-lab.ru/q/CBOM/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2019-06-07",
+      "lastBuyDate": "2019-06-05",
+      "period": "2018 год",
+      "amount": 0.11,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

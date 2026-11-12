@@ -1,0 +1,47 @@
+{
+  "ticker": "FLOT",
+  "page": "https://smart-lab.ru/q/FLOT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-16",
+      "lastBuyDate": "2026-07-15",
+      "period": "2025 год",
+      "amount": 4.87,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-20",
+      "lastBuyDate": "2024-07-18",
+      "period": "2023 год",
+      "amount": 11.27,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-01-07",
+      "lastBuyDate": "2024-01-04",
+      "period": "3кв 2023",
+      "amount": 6.32,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-05",
+      "lastBuyDate": "2023-07-03",
+      "period": "2022 год",
+      "amount": 4.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-05",
+      "lastBuyDate": "2021-07-01",
+      "period": "2020 год",
+      "amount": 6.67,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "ticker": "ASSB",
+  "page": "https://smart-lab.ru/q/ASSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-07-09",
+      "lastBuyDate": "2020-07-07",
+      "period": "2019 год",
+      "amount": 0.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-03",
+      "lastBuyDate": "2019-05-30",
+      "period": "2018 год",
+      "amount": 0.12,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-03",
+      "lastBuyDate": "2018-05-30",
+      "period": "2017 год",
+      "amount": 0.015104,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

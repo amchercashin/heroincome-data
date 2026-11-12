@@ -1,0 +1,23 @@
+{
+  "ticker": "KOGK",
+  "page": "https://smart-lab.ru/q/KOGK/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-06-25",
+      "lastBuyDate": "2024-06-24",
+      "period": "2023 год",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-15",
+      "lastBuyDate": "2023-06-13",
+      "period": "2022 год",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

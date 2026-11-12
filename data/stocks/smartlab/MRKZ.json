@@ -1,0 +1,39 @@
+{
+  "ticker": "MRKZ",
+  "page": "https://smart-lab.ru/q/MRKZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-06-09",
+      "lastBuyDate": "2020-06-05",
+      "period": "2019 год",
+      "amount": 0.0012724293,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-14",
+      "lastBuyDate": "2020-01-10",
+      "period": "3кв 2019",
+      "amount": 0.002,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-25",
+      "lastBuyDate": "2019-06-21",
+      "period": "2018 год",
+      "amount": 0.003985,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-26",
+      "lastBuyDate": "2017-06-22",
+      "period": "2016 год",
+      "amount": 0.0011608,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

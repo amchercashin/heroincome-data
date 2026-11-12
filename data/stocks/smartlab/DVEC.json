@@ -1,0 +1,23 @@
+{
+  "ticker": "DVEC",
+  "page": "https://smart-lab.ru/q/DVEC/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-25",
+      "lastBuyDate": "2026-06-24",
+      "period": "2025 год",
+      "amount": 0.1040391366,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-25",
+      "lastBuyDate": "2025-06-24",
+      "period": "4кв 2024",
+      "amount": 0.1666772938,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

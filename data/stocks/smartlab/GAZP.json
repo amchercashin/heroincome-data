@@ -1,0 +1,95 @@
+{
+  "ticker": "GAZP",
+  "page": "https://smart-lab.ru/q/GAZP/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2022-10-11",
+      "lastBuyDate": "2022-10-07",
+      "period": "2кв 2022",
+      "amount": 51.03,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "lastBuyDate": "2022-07-18",
+      "period": "2021 год",
+      "amount": 52.53,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2021-07-15",
+      "lastBuyDate": "2021-07-13",
+      "period": "2020 год",
+      "amount": 12.55,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-16",
+      "lastBuyDate": "2020-07-14",
+      "period": "2019 год",
+      "amount": 15.24,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-18",
+      "lastBuyDate": "2019-07-16",
+      "period": "2018 год",
+      "amount": 16.61,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-19",
+      "lastBuyDate": "2018-07-17",
+      "period": "2017 год",
+      "amount": 8.04,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-20",
+      "lastBuyDate": "2017-07-18",
+      "period": "2016 год",
+      "amount": 8.0397,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-20",
+      "lastBuyDate": "2016-07-20",
+      "period": "2015 год",
+      "amount": 7.89,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-16",
+      "lastBuyDate": "2015-07-16",
+      "period": "2014 год",
+      "amount": 7.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-17",
+      "lastBuyDate": "2014-07-17",
+      "period": "2013 год",
+      "amount": 7.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2013-05-13",
+      "lastBuyDate": "2013-05-13",
+      "period": "2012 год",
+      "amount": 5.99,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

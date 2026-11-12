@@ -1,0 +1,31 @@
+{
+  "ticker": "MGKL",
+  "page": "https://smart-lab.ru/q/MGKL/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "lastBuyDate": "2026-07-16",
+      "period": "2025 год",
+      "amount": 0.28,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "lastBuyDate": "2025-07-04",
+      "period": "2024 год",
+      "amount": 0.15,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-04",
+      "lastBuyDate": "2024-06-03",
+      "period": "2023 год",
+      "amount": 0.08,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

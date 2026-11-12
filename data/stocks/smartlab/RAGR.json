@@ -1,0 +1,119 @@
+{
+  "ticker": "RAGR",
+  "page": "https://smart-lab.ru/q/RAGR/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-08-06",
+      "lastBuyDate": "2026-08-05",
+      "period": "2026 н/расп",
+      "amount": 16.48,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-10",
+      "lastBuyDate": "2021-09-08",
+      "period": "2кв 2021",
+      "amount": 9.27,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-04-16",
+      "lastBuyDate": "2021-04-14",
+      "period": "4кв 2020",
+      "amount": 12.95,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-09-18",
+      "lastBuyDate": "2020-09-16",
+      "period": "2кв 2020",
+      "amount": 0.39,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-04-17",
+      "lastBuyDate": "2020-04-15",
+      "period": "4кв 2019",
+      "amount": 2.21,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-09-13",
+      "lastBuyDate": "2019-09-11",
+      "period": "2кв 2019",
+      "amount": 3.29,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-04-26",
+      "lastBuyDate": "2019-04-24",
+      "period": "2018 год",
+      "amount": 3.66,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-09-14",
+      "lastBuyDate": "2018-09-12",
+      "period": "2кв 2018",
+      "amount": 1.11,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-04-12",
+      "lastBuyDate": "2018-04-10",
+      "period": "4кв 2017",
+      "amount": 2.38,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-14",
+      "lastBuyDate": "2017-09-12",
+      "period": "2кв 2017",
+      "amount": 2.03,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-04-13",
+      "lastBuyDate": "2017-04-11",
+      "period": "2016 год",
+      "amount": 4.9,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-09-23",
+      "lastBuyDate": "2016-09-21",
+      "period": "2кв 2016",
+      "amount": 2.12,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-05-27",
+      "lastBuyDate": "2016-05-25",
+      "period": "2015 год",
+      "amount": 7.84,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-10-02",
+      "lastBuyDate": "2015-09-30",
+      "period": "2014 год",
+      "amount": 6.13,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "DIOD",
+  "page": "https://smart-lab.ru/q/DIOD/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-06",
+      "lastBuyDate": "2026-07-03",
+      "period": "4кв 2025",
+      "amount": 0.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-01",
+      "lastBuyDate": "2025-06-30",
+      "period": "1кв 2025",
+      "amount": 0.84,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-10",
+      "lastBuyDate": "2024-07-09",
+      "period": "1кв 2024",
+      "amount": 0.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-07",
+      "lastBuyDate": "2023-07-05",
+      "period": "2022 год",
+      "amount": 0.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-04",
+      "lastBuyDate": "2022-06-30",
+      "period": "2021 год",
+      "amount": 0.78,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-18",
+      "lastBuyDate": "2021-07-14",
+      "period": "2020 год",
+      "amount": 0.65,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-09-01",
+      "lastBuyDate": "2020-08-28",
+      "period": "2019 год",
+      "amount": 0.43,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-11",
+      "lastBuyDate": "2019-07-09",
+      "period": "2018 год",
+      "amount": 0.43,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-04",
+      "lastBuyDate": "2018-07-02",
+      "period": "2017 год",
+      "amount": 0.43,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-13",
+      "lastBuyDate": "2017-07-11",
+      "period": "2016 год",
+      "amount": 0.43,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

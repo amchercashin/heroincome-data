@@ -1,0 +1,71 @@
+{
+  "ticker": "KGKCP",
+  "page": "https://smart-lab.ru/q/KGKC/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-07-03",
+      "lastBuyDate": "2025-07-02",
+      "period": "2024 год",
+      "amount": 6.2897,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-15",
+      "lastBuyDate": "2024-07-12",
+      "period": "2023 год",
+      "amount": 5.6188,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-17",
+      "lastBuyDate": "2023-07-13",
+      "period": "2022 год",
+      "amount": 3.14748465562,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-23",
+      "lastBuyDate": "2022-12-21",
+      "period": "2021 год",
+      "amount": 1.44269928,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-19",
+      "lastBuyDate": "2021-07-15",
+      "period": "2020 год",
+      "amount": 2.25,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-11-30",
+      "lastBuyDate": "2020-11-26",
+      "period": "2019 год",
+      "amount": 3.389774687,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-14",
+      "lastBuyDate": "2019-06-12",
+      "period": "2018 год",
+      "amount": 2.207481804,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-14",
+      "lastBuyDate": "2017-06-09",
+      "period": "2016 год",
+      "amount": 2.09625449835,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

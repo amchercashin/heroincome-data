@@ -1,0 +1,79 @@
+{
+  "ticker": "KUZB",
+  "page": "https://smart-lab.ru/q/KUZB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-06-18",
+      "lastBuyDate": "2024-06-17",
+      "period": "2023 год",
+      "amount": 0.00222,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-11",
+      "lastBuyDate": "2023-12-08",
+      "period": "3кв 2023",
+      "amount": 0.0015997518,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "lastBuyDate": "2023-07-07",
+      "period": "2022 год",
+      "amount": 0.002666253,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-24",
+      "lastBuyDate": "2021-05-20",
+      "period": "2020 год",
+      "amount": 0.001466,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-02",
+      "lastBuyDate": "2020-07-02",
+      "period": "2019 год",
+      "amount": 0.000444,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2019-11-19",
+      "lastBuyDate": "2019-11-15",
+      "period": "3кв 2019",
+      "amount": 0.00066656,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-01",
+      "lastBuyDate": "2019-05-29",
+      "period": "2018 год",
+      "amount": 0.00084431345,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-09",
+      "lastBuyDate": "2017-10-05",
+      "period": "2кв 2017",
+      "amount": 0.0001777502,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-05-09",
+      "lastBuyDate": "2017-05-03",
+      "period": "2016 год",
+      "amount": 0.00088875099,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ticker": "SFIN",
+  "page": "https://smart-lab.ru/q/SFIN/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-05-15",
+      "lastBuyDate": "2026-05-14",
+      "period": "4кв 2025",
+      "amount": 172.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-25",
+      "lastBuyDate": "2025-12-24",
+      "period": "3кв 2025",
+      "amount": 902.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-09",
+      "lastBuyDate": "2025-06-06",
+      "period": "2024 год",
+      "amount": 83.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-23",
+      "lastBuyDate": "2024-12-20",
+      "period": "3кв 2024",
+      "amount": 227.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-17",
+      "lastBuyDate": "2024-06-14",
+      "period": "2023 год",
+      "amount": 20.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-14",
+      "lastBuyDate": "2023-12-13",
+      "period": "3кв 2023",
+      "amount": 39.42,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-08",
+      "lastBuyDate": "2019-06-05",
+      "period": "2018 год",
+      "amount": 14.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-08",
+      "lastBuyDate": "2018-06-06",
+      "period": "4кв 2017",
+      "amount": 17.25,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-26",
+      "lastBuyDate": "2017-12-22",
+      "period": "3кв 2017",
+      "amount": 13.0,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "EPLN"
+    }
+  ]
+}

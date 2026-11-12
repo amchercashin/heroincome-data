@@ -1,0 +1,103 @@
+{
+  "ticker": "TORS",
+  "page": "https://smart-lab.ru/q/TORS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-24",
+      "lastBuyDate": "2026-06-23",
+      "period": "2025 год",
+      "amount": 0.0156,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-23",
+      "lastBuyDate": "2025-06-20",
+      "period": "2024 год",
+      "amount": 0.021,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-27",
+      "lastBuyDate": "2024-06-26",
+      "period": "2023 год",
+      "amount": 0.0236,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-30",
+      "lastBuyDate": "2023-06-28",
+      "period": "2022 год",
+      "amount": 0.0352,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "lastBuyDate": "2020-06-15",
+      "period": "2019 год",
+      "amount": 0.0091,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-03",
+      "lastBuyDate": "2019-07-01",
+      "period": "2018 год",
+      "amount": 0.011,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-18",
+      "lastBuyDate": "2018-06-14",
+      "period": "2017 год",
+      "amount": 0.006034953,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "2016 год",
+      "amount": 0.0157,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-15",
+      "lastBuyDate": "2016-07-13",
+      "period": "2015 год",
+      "amount": 0.0962,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-11",
+      "lastBuyDate": "2015-07-08",
+      "period": "2014 год",
+      "amount": 0.0086,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-07",
+      "lastBuyDate": "2014-07-03",
+      "period": "2013 год",
+      "amount": 0.0113,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-24",
+      "lastBuyDate": "2012-05-22",
+      "period": "2011 год",
+      "amount": 0.00269,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

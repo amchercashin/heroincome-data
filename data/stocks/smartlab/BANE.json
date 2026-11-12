@@ -1,0 +1,79 @@
+{
+  "ticker": "BANE",
+  "page": "https://smart-lab.ru/q/BANE/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "lastBuyDate": "2026-07-10",
+      "period": "2025 год",
+      "amount": 69.29,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-14",
+      "lastBuyDate": "2025-07-11",
+      "period": "2024 год",
+      "amount": 147.31,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-12",
+      "lastBuyDate": "2024-07-11",
+      "period": "2023 год",
+      "amount": 249.69,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-07",
+      "lastBuyDate": "2023-07-05",
+      "period": "2022 год",
+      "amount": 199.89,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "2021 год",
+      "amount": 117.29,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-06",
+      "lastBuyDate": "2020-07-02",
+      "period": "2019 год",
+      "amount": 107.81,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-24",
+      "lastBuyDate": "2019-06-20",
+      "period": "2018 год",
+      "amount": 158.95,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-09",
+      "lastBuyDate": "2018-07-05",
+      "period": "2017 год",
+      "amount": 158.95,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-12",
+      "lastBuyDate": "2017-12-08",
+      "period": "3кв 2017",
+      "amount": 148.31,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

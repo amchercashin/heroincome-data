@@ -1,0 +1,31 @@
+{
+  "ticker": "LPSB",
+  "page": "https://smart-lab.ru/q/LPSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-15",
+      "lastBuyDate": "2026-12-14",
+      "period": "3кв 2026",
+      "amount": 15.11,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-05-22",
+      "lastBuyDate": "2026-05-21",
+      "period": "2025 год",
+      "amount": 0.55,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-08",
+      "lastBuyDate": "2024-05-07",
+      "period": "1кв 2024",
+      "amount": 16.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

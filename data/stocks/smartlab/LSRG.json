@@ -1,0 +1,87 @@
+{
+  "ticker": "LSRG",
+  "page": "https://smart-lab.ru/q/LSRG/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "lastBuyDate": "2026-07-10",
+      "period": "2025 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-04-29",
+      "lastBuyDate": "2025-04-28",
+      "period": "2024 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-02",
+      "lastBuyDate": "2024-04-30",
+      "period": "2023 год",
+      "amount": 100.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-07",
+      "lastBuyDate": "2023-07-05",
+      "period": "2022 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-11",
+      "lastBuyDate": "2021-05-07",
+      "period": "2020 год",
+      "amount": 39.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-12",
+      "lastBuyDate": "2020-10-08",
+      "period": "2020 н/расп",
+      "amount": 20.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-05-12",
+      "lastBuyDate": "2020-05-07",
+      "period": "2019 год",
+      "amount": 30.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "lastBuyDate": "2019-07-08",
+      "period": "2018 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-10",
+      "lastBuyDate": "2018-07-06",
+      "period": "2017 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "2016 год",
+      "amount": 78.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

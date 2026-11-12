@@ -1,0 +1,71 @@
+{
+  "ticker": "OGKB",
+  "page": "https://smart-lab.ru/q/OGKB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-11-05",
+      "lastBuyDate": "2025-11-04",
+      "period": "2024 год",
+      "amount": 0.0598167018,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "lastBuyDate": "2023-07-06",
+      "period": "2022 год",
+      "amount": 0.0580758473514,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "2021 год",
+      "amount": 0.0965536029864,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-02",
+      "lastBuyDate": "2021-06-30",
+      "period": "2020 год",
+      "amount": 0.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-10",
+      "lastBuyDate": "2020-07-08",
+      "period": "2019 год",
+      "amount": 0.0544,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-28",
+      "lastBuyDate": "2019-06-26",
+      "period": "2018 год",
+      "amount": 0.036784587,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-10",
+      "lastBuyDate": "2018-07-06",
+      "period": "2017 год",
+      "amount": 0.01631902,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "2016 год",
+      "amount": 0.00825304739908,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

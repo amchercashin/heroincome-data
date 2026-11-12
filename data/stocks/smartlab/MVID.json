@@ -1,0 +1,39 @@
+{
+  "ticker": "MVID",
+  "page": "https://smart-lab.ru/q/MVID/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-12-16",
+      "lastBuyDate": "2021-12-14",
+      "period": "3кв 2021",
+      "amount": 35.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-18",
+      "lastBuyDate": "2021-05-14",
+      "period": "2020 год",
+      "amount": 38.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-11-20",
+      "lastBuyDate": "2020-11-18",
+      "period": "2019 год",
+      "amount": 30.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-16",
+      "lastBuyDate": "2019-12-12",
+      "period": "3кв 2019",
+      "amount": 33.37,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

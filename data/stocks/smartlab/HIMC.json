@@ -1,0 +1,39 @@
+{
+  "ticker": "HIMC",
+  "page": "https://smart-lab.ru/q/HIMC/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2018-12-11",
+      "lastBuyDate": "2018-12-07",
+      "period": "3кв 2018",
+      "amount": 0.1381,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-11",
+      "lastBuyDate": "2017-12-07",
+      "period": "3кв 2017",
+      "amount": 0.202,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-10",
+      "lastBuyDate": "2017-09-06",
+      "period": "2кв 2017",
+      "amount": 0.1198,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-10",
+      "lastBuyDate": "2017-07-07",
+      "period": "2016 год",
+      "amount": 0.1634,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

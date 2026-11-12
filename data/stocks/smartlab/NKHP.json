@@ -1,0 +1,175 @@
+{
+  "ticker": "NKHP",
+  "page": "https://smart-lab.ru/q/NKHP/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-06",
+      "lastBuyDate": "2026-07-03",
+      "period": "4кв 2025",
+      "amount": 10.08,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-20",
+      "lastBuyDate": "2025-12-18",
+      "period": "3кв 2025",
+      "amount": 9.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-10-10",
+      "lastBuyDate": "2025-10-09",
+      "period": "2кв 2025",
+      "amount": 6.54,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-30",
+      "lastBuyDate": "2025-06-27",
+      "period": "4кв 2024",
+      "amount": 8.17,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-16",
+      "lastBuyDate": "2024-12-13",
+      "period": "3кв 2024",
+      "amount": 17.12,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-07",
+      "lastBuyDate": "2024-10-04",
+      "period": "2кв 2024",
+      "amount": 22.19,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-12",
+      "lastBuyDate": "2024-07-11",
+      "period": "4кв 2023",
+      "amount": 6.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-01-08",
+      "lastBuyDate": "2024-01-05",
+      "period": "3кв 2023",
+      "amount": 29.75,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-12",
+      "lastBuyDate": "2023-07-10",
+      "period": "2022 год",
+      "amount": 14.62,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "4кв 2021",
+      "amount": 8.24,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2021-10-11",
+      "lastBuyDate": "2021-10-07",
+      "period": "2кв 2021",
+      "amount": 9.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-12",
+      "lastBuyDate": "2021-07-08",
+      "period": "4кв 2020",
+      "amount": 6.27,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-01-14",
+      "lastBuyDate": "2021-01-12",
+      "period": "3кв 2020",
+      "amount": 10.92,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-27",
+      "lastBuyDate": "2020-07-23",
+      "period": "4кв 2019",
+      "amount": 0.96,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-15",
+      "lastBuyDate": "2020-01-13",
+      "period": "3кв 2019",
+      "amount": 6.36,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-09",
+      "lastBuyDate": "2019-07-05",
+      "period": "2018 год",
+      "amount": 6.96,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-17",
+      "lastBuyDate": "2018-12-13",
+      "period": "3кв 2018",
+      "amount": 17.75,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-26",
+      "lastBuyDate": "2018-06-22",
+      "period": "4кв 2017",
+      "amount": 5.65712,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-15",
+      "lastBuyDate": "2017-12-13",
+      "period": "3кв 2017",
+      "amount": 6.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-08",
+      "lastBuyDate": "2017-09-06",
+      "period": "2кв 2017",
+      "amount": 7.406955,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-10",
+      "lastBuyDate": "2017-07-06",
+      "period": "2016 год",
+      "amount": 2.359939,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "NAUK",
+  "page": "https://smart-lab.ru/q/NAUK/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-07",
+      "lastBuyDate": "2026-07-06",
+      "period": "2025 год",
+      "amount": 16.01,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-28",
+      "lastBuyDate": "2025-12-25",
+      "period": "3кв 2025",
+      "amount": 4.07,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-09-29",
+      "lastBuyDate": "2025-09-26",
+      "period": "2кв 2025",
+      "amount": 7.59,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-05-25",
+      "lastBuyDate": "2025-05-22",
+      "period": "2024 год",
+      "amount": 26.76,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-24",
+      "lastBuyDate": "2024-12-23",
+      "period": "3кв 2024",
+      "amount": 2.92,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-28",
+      "lastBuyDate": "2024-05-27",
+      "period": "2023 год",
+      "amount": 7.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-05",
+      "lastBuyDate": "2023-06-01",
+      "period": "2022 год",
+      "amount": 7.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-09-30",
+      "lastBuyDate": "2022-09-28",
+      "period": "2021 н/расп",
+      "amount": 5.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-18",
+      "lastBuyDate": "2017-12-14",
+      "period": "2017 н/расп",
+      "amount": 38.28,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-16",
+      "lastBuyDate": "2017-06-14",
+      "period": "2016 год",
+      "amount": 4.6,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

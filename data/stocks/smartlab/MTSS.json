@@ -1,0 +1,271 @@
+{
+  "ticker": "MTSS",
+  "page": "https://smart-lab.ru/q/MTSS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-09",
+      "lastBuyDate": "2026-07-08",
+      "period": "2025 год",
+      "amount": 35.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "lastBuyDate": "2025-07-04",
+      "period": "2024 год",
+      "amount": 35.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-16",
+      "lastBuyDate": "2024-07-15",
+      "period": "2023 год",
+      "amount": 35.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-29",
+      "lastBuyDate": "2023-06-27",
+      "period": "2022 год",
+      "amount": 34.29,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-12",
+      "lastBuyDate": "2022-07-08",
+      "period": "2021 год",
+      "amount": 33.85,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-10-12",
+      "lastBuyDate": "2021-10-08",
+      "period": "2кв 2021",
+      "amount": 10.55,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-08",
+      "lastBuyDate": "2021-07-06",
+      "period": "4кв 2020",
+      "amount": 26.51,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-12",
+      "lastBuyDate": "2020-10-08",
+      "period": "2кв 2020",
+      "amount": 8.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-09",
+      "lastBuyDate": "2020-07-07",
+      "period": "4кв 2019",
+      "amount": 20.57,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-10",
+      "lastBuyDate": "2020-01-08",
+      "period": "3кв 2019",
+      "amount": 13.25,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-10-14",
+      "lastBuyDate": "2019-10-10",
+      "period": "2кв 2019",
+      "amount": 8.68,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-09",
+      "lastBuyDate": "2019-07-05",
+      "period": "4кв 2018",
+      "amount": 19.98,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-10-09",
+      "lastBuyDate": "2018-10-05",
+      "period": "2кв 2018",
+      "amount": 2.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-09",
+      "lastBuyDate": "2018-07-05",
+      "period": "4кв 2017",
+      "amount": 23.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-13",
+      "lastBuyDate": "2017-10-11",
+      "period": "2кв 2017",
+      "amount": 10.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-10",
+      "lastBuyDate": "2017-07-06",
+      "period": "4кв 2016",
+      "amount": 15.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-10-17",
+      "lastBuyDate": "2016-10-13",
+      "period": "2кв 2016",
+      "amount": 11.99,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-10-17",
+      "lastBuyDate": "2016-10-13",
+      "period": "2кв 2015",
+      "amount": 5.61,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-07-06",
+      "lastBuyDate": "2016-07-04",
+      "period": "4кв 2015",
+      "amount": 14.01,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-07-08",
+      "lastBuyDate": "2015-07-06",
+      "period": "4кв 2014",
+      "amount": 19.56,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-10-15",
+      "lastBuyDate": "2014-10-13",
+      "period": "2кв 2014",
+      "amount": 6.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-07-07",
+      "lastBuyDate": "2014-07-04",
+      "period": "4кв 2013",
+      "amount": 18.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2013-08-15",
+      "lastBuyDate": "2013-08-13",
+      "period": "2кв 2013",
+      "amount": 5.22,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2013-05-09",
+      "lastBuyDate": "2013-05-07",
+      "period": "2012 год",
+      "amount": 14.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2012-05-11",
+      "lastBuyDate": "2012-05-09",
+      "period": "2011 год",
+      "amount": 14.71,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2011-05-05",
+      "lastBuyDate": "2011-05-09",
+      "period": "2010 год",
+      "amount": 14.54,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2010-05-04",
+      "lastBuyDate": "2010-05-06",
+      "period": "2009 год",
+      "amount": 15.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2009-05-05",
+      "lastBuyDate": "2009-05-07",
+      "period": "2008 год",
+      "amount": 20.15,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2008-05-05",
+      "lastBuyDate": "2008-05-07",
+      "period": "2007 год",
+      "amount": 14.84,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2007-05-09",
+      "lastBuyDate": "2007-05-11",
+      "period": "2006 год",
+      "amount": 9.67,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2006-05-02",
+      "lastBuyDate": "2006-05-04",
+      "period": "2005 год",
+      "amount": 7.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2005-04-28",
+      "lastBuyDate": "2005-05-02",
+      "period": "2004 год",
+      "amount": 5.752,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2004-05-05",
+      "lastBuyDate": "2004-05-07",
+      "period": "2003 год",
+      "amount": 3.2022,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

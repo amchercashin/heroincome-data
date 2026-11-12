@@ -1,0 +1,55 @@
+{
+  "ticker": "TGKA",
+  "page": "https://smart-lab.ru/q/TGKA/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2022-07-18",
+      "lastBuyDate": "2022-07-14",
+      "period": "2021 год",
+      "amount": 0.001125376,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2021-07-05",
+      "lastBuyDate": "2021-07-01",
+      "period": "2020 год",
+      "amount": 0.001,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-07",
+      "lastBuyDate": "2020-07-03",
+      "period": "2019 год",
+      "amount": 0.001036523,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-26",
+      "lastBuyDate": "2019-06-24",
+      "period": "2018 год",
+      "amount": 0.000644605,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-25",
+      "lastBuyDate": "2018-06-21",
+      "period": "2017 год",
+      "amount": 0.0004898,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-07",
+      "lastBuyDate": "2017-07-05",
+      "period": "2016 год",
+      "amount": 0.000345336,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

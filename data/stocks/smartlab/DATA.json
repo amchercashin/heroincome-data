@@ -1,0 +1,39 @@
+{
+  "ticker": "DATA",
+  "page": "https://smart-lab.ru/q/DATA/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-10",
+      "lastBuyDate": "2026-06-09",
+      "period": "2025 год",
+      "amount": 0.71,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-06-10",
+      "lastBuyDate": "2026-06-09",
+      "period": "1кв 2026",
+      "amount": 5.72,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-06",
+      "lastBuyDate": "2025-06-05",
+      "period": "4кв 2024",
+      "amount": 0.86,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-06",
+      "lastBuyDate": "2025-06-05",
+      "period": "1кв 2025",
+      "amount": 2.57,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

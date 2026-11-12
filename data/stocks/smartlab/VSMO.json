@@ -1,0 +1,71 @@
+{
+  "ticker": "VSMO",
+  "page": "https://smart-lab.ru/q/VSMO/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2023-06-03",
+      "lastBuyDate": "2023-05-31",
+      "period": "2023 год",
+      "amount": 564.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-10-11",
+      "lastBuyDate": "2019-10-09",
+      "period": "2кв 2019",
+      "amount": 884.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-03",
+      "lastBuyDate": "2019-05-30",
+      "period": "2018 год",
+      "amount": 873.42,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-10-12",
+      "lastBuyDate": "2018-10-10",
+      "period": "2кв 2018",
+      "amount": 756.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-06",
+      "lastBuyDate": "2018-06-04",
+      "period": "2017 год",
+      "amount": 890.45,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-19",
+      "lastBuyDate": "2017-10-17",
+      "period": "2кв 2017",
+      "amount": 762.68,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-05",
+      "lastBuyDate": "2017-06-01",
+      "period": "4кв 2016",
+      "amount": 1300.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-10-03",
+      "lastBuyDate": "2016-10-03",
+      "period": "2кв 2016",
+      "amount": 816.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

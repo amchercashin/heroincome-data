@@ -1,0 +1,15 @@
+{
+  "ticker": "SOFL",
+  "page": "https://smart-lab.ru/q/SOFL/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-09",
+      "lastBuyDate": "2026-07-08",
+      "period": "2025 год",
+      "amount": 0.18,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

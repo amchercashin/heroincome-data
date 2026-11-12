@@ -1,0 +1,39 @@
+{
+  "ticker": "SVCB",
+  "page": "https://smart-lab.ru/q/SVCB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "lastBuyDate": "2026-07-10",
+      "period": "2025 год",
+      "amount": 0.35,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-08",
+      "lastBuyDate": "2025-07-07",
+      "period": "2024 год",
+      "amount": 0.35,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "lastBuyDate": "2024-07-05",
+      "period": "2023 год",
+      "amount": 1.14,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-11-08",
+      "lastBuyDate": "2023-11-07",
+      "period": "2023 н/расп",
+      "amount": 0.25,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

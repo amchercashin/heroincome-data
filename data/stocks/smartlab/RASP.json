@@ -1,0 +1,55 @@
+{
+  "ticker": "RASP",
+  "page": "https://smart-lab.ru/q/RASP/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2022-01-18",
+      "lastBuyDate": "2022-01-14",
+      "period": "3кв 2021",
+      "amount": 28.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-10-04",
+      "lastBuyDate": "2021-09-30",
+      "period": "2кв 2021",
+      "amount": 23.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-07",
+      "lastBuyDate": "2021-06-03",
+      "period": "2020 год",
+      "amount": 5.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-15",
+      "lastBuyDate": "2020-10-13",
+      "period": "2кв 2020",
+      "amount": 2.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-08",
+      "lastBuyDate": "2020-06-04",
+      "period": "4кв 2019",
+      "amount": 2.83,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-10-20",
+      "lastBuyDate": "2019-10-16",
+      "period": "2кв 2019",
+      "amount": 2.5,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

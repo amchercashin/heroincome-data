@@ -1,0 +1,87 @@
+{
+  "ticker": "MOEX",
+  "page": "https://smart-lab.ru/q/MOEX/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-09",
+      "lastBuyDate": "2026-07-08",
+      "period": "4кв 2025",
+      "amount": 19.57,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-10",
+      "lastBuyDate": "2025-07-09",
+      "period": "2024 год",
+      "amount": 26.11,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-14",
+      "lastBuyDate": "2024-06-13",
+      "period": "2023 год",
+      "amount": 17.35,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-16",
+      "lastBuyDate": "2023-06-14",
+      "period": "2022 год",
+      "amount": 4.84,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-14",
+      "lastBuyDate": "2021-05-12",
+      "period": "2020 год",
+      "amount": 9.45,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-05-15",
+      "lastBuyDate": "2020-05-13",
+      "period": "2019 год",
+      "amount": 7.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-14",
+      "lastBuyDate": "2019-05-10",
+      "period": "2018 год",
+      "amount": 7.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-05-15",
+      "lastBuyDate": "2018-05-11",
+      "period": "4кв 2017",
+      "amount": 5.47,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-29",
+      "lastBuyDate": "2017-09-27",
+      "period": "2кв 2017",
+      "amount": 2.49,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-05-16",
+      "lastBuyDate": "2017-05-12",
+      "period": "2016 год",
+      "amount": 7.68,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ticker": "SBERP",
+  "page": "https://smart-lab.ru/q/SBER/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "lastBuyDate": "2026-07-17",
+      "period": "2025 год",
+      "amount": 37.64,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-18",
+      "lastBuyDate": "2025-07-17",
+      "period": "2024 год",
+      "amount": 34.84,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-11",
+      "lastBuyDate": "2024-07-10",
+      "period": "2023 год",
+      "amount": 33.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-11",
+      "lastBuyDate": "2023-05-08",
+      "period": "2022 год",
+      "amount": 25.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-12",
+      "lastBuyDate": "2021-05-10",
+      "period": "2020 год",
+      "amount": 18.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-05",
+      "lastBuyDate": "2020-10-01",
+      "period": "2019 год",
+      "amount": 18.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-13",
+      "lastBuyDate": "2019-06-10",
+      "period": "2018 год",
+      "amount": 16.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-26",
+      "lastBuyDate": "2018-06-22",
+      "period": "2017 год",
+      "amount": 12.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-14",
+      "lastBuyDate": "2017-06-09",
+      "period": "2016 год",
+      "amount": 6.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

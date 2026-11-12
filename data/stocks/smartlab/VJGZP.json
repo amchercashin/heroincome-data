@@ -1,0 +1,15 @@
+{
+  "ticker": "VJGZP",
+  "page": "https://smart-lab.ru/q/VJGZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-06-18",
+      "lastBuyDate": "2020-06-16",
+      "period": "2019 год",
+      "amount": 3.02,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

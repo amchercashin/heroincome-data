@@ -1,0 +1,15 @@
+{
+  "ticker": "DOMRF",
+  "page": "https://smart-lab.ru/q/DOMRF/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "lastBuyDate": "2026-07-17",
+      "period": "2025 год",
+      "amount": 246.88,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

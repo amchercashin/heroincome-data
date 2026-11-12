@@ -1,0 +1,39 @@
+{
+  "ticker": "GAZS",
+  "page": "https://smart-lab.ru/q/GAZS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-12-22",
+      "lastBuyDate": "2024-12-19",
+      "period": "3кв 2024",
+      "amount": 14.32642,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "lastBuyDate": "2023-07-06",
+      "period": "2022 год",
+      "amount": 0.90901,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-25",
+      "lastBuyDate": "2022-12-21",
+      "period": "3кв 2022",
+      "amount": 8.05,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-12",
+      "lastBuyDate": "2021-07-08",
+      "period": "2020 год",
+      "amount": 0.47,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ticker": "SVAV",
+  "page": "https://smart-lab.ru/q/SVAV/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-11",
+      "lastBuyDate": "2026-06-10",
+      "period": "2025 год",
+      "amount": 25.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-11",
+      "lastBuyDate": "2025-06-10",
+      "period": "2024 год",
+      "amount": 70.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-05",
+      "lastBuyDate": "2024-07-04",
+      "period": "2023 год",
+      "amount": 89.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "lastBuyDate": "2023-07-06",
+      "period": "2022 год",
+      "amount": 45.39,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

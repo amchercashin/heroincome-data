@@ -1,0 +1,23 @@
+{
+  "ticker": "GEMC",
+  "page": "https://smart-lab.ru/q/GEMC/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-12-15",
+      "lastBuyDate": "2021-12-13",
+      "period": "2кв 2021",
+      "amount": 36.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-27",
+      "lastBuyDate": "2021-09-23",
+      "period": "2020 год",
+      "amount": 73.52,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

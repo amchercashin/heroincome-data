@@ -1,0 +1,31 @@
+{
+  "ticker": "MGNZ",
+  "page": "https://smart-lab.ru/q/MGNZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2023-07-14",
+      "lastBuyDate": "2023-07-12",
+      "period": "2022 год",
+      "amount": 4406.56,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-04-01",
+      "lastBuyDate": "2022-03-30",
+      "period": "2021 н/расп",
+      "amount": 2490.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-04-01",
+      "lastBuyDate": "2022-03-30",
+      "period": "3кв 2021",
+      "amount": 380.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

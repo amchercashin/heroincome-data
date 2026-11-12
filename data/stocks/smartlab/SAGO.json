@@ -1,0 +1,31 @@
+{
+  "ticker": "SAGO",
+  "page": "https://smart-lab.ru/q/SAGO/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-11-30",
+      "lastBuyDate": "2026-11-27",
+      "period": "2026 н/расп",
+      "amount": 0.42,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2024-06-18",
+      "lastBuyDate": "2024-06-17",
+      "period": "2023 год",
+      "amount": 0.234,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-09",
+      "lastBuyDate": "2023-07-05",
+      "period": "2022 год",
+      "amount": 0.13,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

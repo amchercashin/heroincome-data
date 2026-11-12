@@ -1,0 +1,23 @@
+{
+  "ticker": "OZON",
+  "page": "https://smart-lab.ru/q/OZON/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-05-26",
+      "lastBuyDate": "2026-05-25",
+      "period": "4кв 2025",
+      "amount": 70.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-22",
+      "lastBuyDate": "2025-12-19",
+      "period": "3кв 2025",
+      "amount": 143.55,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

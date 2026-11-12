@@ -1,0 +1,71 @@
+{
+  "ticker": "WTCMP",
+  "page": "https://smart-lab.ru/q/WTCMP/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-04-20",
+      "lastBuyDate": "2026-04-17",
+      "period": "2025 год",
+      "amount": 0.96,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-04-21",
+      "lastBuyDate": "2025-04-18",
+      "period": "2024 год",
+      "amount": 0.883534136546,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-03",
+      "lastBuyDate": "2024-05-02",
+      "period": "2023 год",
+      "amount": 0.68682891566,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-10",
+      "lastBuyDate": "2023-05-05",
+      "period": "2022 год",
+      "amount": 0.56225,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-05-04",
+      "lastBuyDate": "2022-05-02",
+      "period": "2021 год",
+      "amount": 0.56225,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-04-28",
+      "lastBuyDate": "2021-04-26",
+      "period": "2020 год",
+      "amount": 0.56,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-05-06",
+      "lastBuyDate": "2020-05-04",
+      "period": "2019 год",
+      "amount": 0.56225,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-08",
+      "lastBuyDate": "2019-05-06",
+      "period": "2018 год",
+      "amount": 0.562248995984,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

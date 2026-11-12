@@ -1,0 +1,25 @@
+{
+  "ticker": "ENPG",
+  "page": "https://smart-lab.ru/q/ENPG/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2018-03-20",
+      "lastBuyDate": "2018-03-20",
+      "period": "2017 год",
+      "amount": 6.8,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENPL"
+    },
+    {
+      "recordDate": "2017-11-30",
+      "lastBuyDate": "2017-11-28",
+      "period": "3кв 2017",
+      "amount": 12.39,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENPL"
+    }
+  ]
+}

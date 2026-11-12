@@ -1,0 +1,43 @@
+{
+  "ticker": "ELFV",
+  "page": "https://smart-lab.ru/q/ELFV/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-07-09",
+      "lastBuyDate": "2020-07-07",
+      "period": "2019 год",
+      "amount": 0.085,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENRU"
+    },
+    {
+      "recordDate": "2019-07-08",
+      "lastBuyDate": "2019-07-04",
+      "period": "2018 год",
+      "amount": 0.141471,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENRU"
+    },
+    {
+      "recordDate": "2018-06-22",
+      "lastBuyDate": "2018-06-20",
+      "period": "2017 год",
+      "amount": 0.14493,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENRU"
+    },
+    {
+      "recordDate": "2017-06-28",
+      "lastBuyDate": "2017-06-26",
+      "period": "2016 год",
+      "amount": 0.06822,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "ENRU"
+    }
+  ]
+}

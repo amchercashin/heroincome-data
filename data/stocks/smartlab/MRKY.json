@@ -1,0 +1,31 @@
+{
+  "ticker": "MRKY",
+  "page": "https://smart-lab.ru/q/MRKY/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-24",
+      "lastBuyDate": "2026-06-23",
+      "period": "2025 год",
+      "amount": 0.0037699687491,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-19",
+      "lastBuyDate": "2019-06-17",
+      "period": "2018 год",
+      "amount": 0.00684170205,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-20",
+      "lastBuyDate": "2018-06-18",
+      "period": "2017 год",
+      "amount": 0.0054,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

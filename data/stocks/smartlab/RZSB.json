@@ -1,0 +1,87 @@
+{
+  "ticker": "RZSB",
+  "page": "https://smart-lab.ru/q/RZSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-25",
+      "lastBuyDate": "2026-06-24",
+      "period": "2025 год",
+      "amount": 4.2297674179,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-18",
+      "lastBuyDate": "2025-06-17",
+      "period": "4кв 2024",
+      "amount": 3.9385335533,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-10",
+      "lastBuyDate": "2024-06-07",
+      "period": "2023 год",
+      "amount": 4.2158648522,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-01",
+      "lastBuyDate": "2023-05-30",
+      "period": "2022 год",
+      "amount": 3.5959,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-09",
+      "lastBuyDate": "2022-06-07",
+      "period": "2021 год",
+      "amount": 2.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-03",
+      "lastBuyDate": "2021-06-01",
+      "period": "2020 год",
+      "amount": 1.451704265,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-04",
+      "lastBuyDate": "2020-06-02",
+      "period": "2019 год",
+      "amount": 0.6153564541,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-04",
+      "lastBuyDate": "2019-07-08",
+      "period": "2018 год",
+      "amount": 0.5279882277,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-22",
+      "lastBuyDate": "2018-06-20",
+      "period": "2017 год",
+      "amount": 0.36095,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-13",
+      "lastBuyDate": "2017-06-08",
+      "period": "2016 год",
+      "amount": 0.146965124,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

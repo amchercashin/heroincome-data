@@ -1,0 +1,39 @@
+{
+  "ticker": "VSEH",
+  "page": "https://smart-lab.ru/q/VSEH/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-07",
+      "lastBuyDate": "2026-12-04",
+      "period": "3кв 2026",
+      "amount": 7.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-06-22",
+      "lastBuyDate": "2026-06-19",
+      "period": "1кв 2026",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-03-25",
+      "lastBuyDate": "2026-03-24",
+      "period": "4кв 2025",
+      "amount": 2.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-09-12",
+      "lastBuyDate": "2025-09-11",
+      "period": "2кв 2025",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

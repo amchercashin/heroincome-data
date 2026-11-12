@@ -1,0 +1,87 @@
+{
+  "ticker": "TRMK",
+  "page": "https://smart-lab.ru/q/TRMK/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-06-04",
+      "lastBuyDate": "2024-06-03",
+      "period": "2023 год",
+      "amount": 9.51,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-09-05",
+      "lastBuyDate": "2023-09-04",
+      "period": "2кв 2023",
+      "amount": 13.45,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-01-31",
+      "lastBuyDate": "2023-01-27",
+      "period": "3кв 2022",
+      "amount": 6.78,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-09-09",
+      "lastBuyDate": "2022-09-07",
+      "period": "2кв 2022",
+      "amount": 9.68,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-05-27",
+      "lastBuyDate": "2022-05-25",
+      "period": "4кв 2021",
+      "amount": 0.82,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-17",
+      "lastBuyDate": "2021-09-15",
+      "period": "2кв 2021",
+      "amount": 17.71,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-04-26",
+      "lastBuyDate": "2021-04-22",
+      "period": "2020 год",
+      "amount": 9.67,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-12-07",
+      "lastBuyDate": "2020-12-03",
+      "period": "3кв 2020",
+      "amount": 3.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-02",
+      "lastBuyDate": "2018-06-28",
+      "period": "2017 год",
+      "amount": 2.28,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-20",
+      "lastBuyDate": "2017-06-16",
+      "period": "2016 год",
+      "amount": 1.96,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

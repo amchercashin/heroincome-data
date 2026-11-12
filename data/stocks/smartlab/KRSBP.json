@@ -1,0 +1,103 @@
+{
+  "ticker": "KRSBP",
+  "page": "https://smart-lab.ru/q/KRSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-22",
+      "lastBuyDate": "2026-06-18",
+      "period": "2025 год",
+      "amount": 2.0674312403,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-18",
+      "lastBuyDate": "2025-06-17",
+      "period": "4кв 2024",
+      "amount": 2.2545983445,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-10",
+      "lastBuyDate": "2024-06-07",
+      "period": "2023 год",
+      "amount": 1.3313884236,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-02",
+      "lastBuyDate": "2023-05-31",
+      "period": "2022 год",
+      "amount": 1.13,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-02",
+      "lastBuyDate": "2022-05-31",
+      "period": "2021 год",
+      "amount": 0.84663,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-08",
+      "lastBuyDate": "2021-06-04",
+      "period": "2020 год",
+      "amount": 0.647,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-17",
+      "lastBuyDate": "2020-06-15",
+      "period": "2019 год",
+      "amount": 0.6065124464,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "lastBuyDate": "2019-07-08",
+      "period": "2018 год",
+      "amount": 0.4550026303,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-03",
+      "lastBuyDate": "2018-06-29",
+      "period": "2017 год",
+      "amount": 0.5072173755,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-13",
+      "lastBuyDate": "2017-06-08",
+      "period": "2016 год",
+      "amount": 0.444344266,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-15",
+      "lastBuyDate": "2016-06-13",
+      "period": "4кв 2015",
+      "amount": 0.7667,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-10-09",
+      "lastBuyDate": "2015-10-07",
+      "period": "2кв 2015",
+      "amount": 0.2772,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

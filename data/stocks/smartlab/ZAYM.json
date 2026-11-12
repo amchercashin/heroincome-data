@@ -1,0 +1,95 @@
+{
+  "ticker": "ZAYM",
+  "page": "https://smart-lab.ru/q/ZAYM/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-13",
+      "lastBuyDate": "2026-12-10",
+      "period": "3кв 2026",
+      "amount": 7.14,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-10-10",
+      "lastBuyDate": "2026-10-08",
+      "period": "2кв 2026",
+      "amount": 4.86,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-06-30",
+      "lastBuyDate": "2026-06-29",
+      "period": "1кв 2026",
+      "amount": 4.36,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-06-28",
+      "lastBuyDate": "2026-06-25",
+      "period": "4кв 2025",
+      "amount": 11.1,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-15",
+      "lastBuyDate": "2025-12-11",
+      "period": "3кв 2025",
+      "amount": 6.88,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-10-14",
+      "lastBuyDate": "2025-10-13",
+      "period": "2кв 2025",
+      "amount": 4.73,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-29",
+      "lastBuyDate": "2025-06-26",
+      "period": "1кв 2025",
+      "amount": 4.58,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-28",
+      "lastBuyDate": "2025-06-26",
+      "period": "4кв 2024",
+      "amount": 9.13,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-01-14",
+      "lastBuyDate": "2025-01-13",
+      "period": "3кв 2024",
+      "amount": 10.51,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-06",
+      "lastBuyDate": "2024-10-03",
+      "period": "2кв 2024",
+      "amount": 12.02,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-09",
+      "lastBuyDate": "2024-06-06",
+      "period": "1кв 2024",
+      "amount": 4.58,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

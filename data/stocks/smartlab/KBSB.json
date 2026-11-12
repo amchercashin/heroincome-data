@@ -1,0 +1,63 @@
+{
+  "ticker": "KBSB",
+  "page": "https://smart-lab.ru/q/KBSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-25",
+      "lastBuyDate": "2026-06-24",
+      "period": "2025 год",
+      "amount": 62.28505202,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-30",
+      "lastBuyDate": "2025-06-27",
+      "period": "4кв 2024",
+      "amount": 50.36531643,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-06",
+      "lastBuyDate": "2024-10-03",
+      "period": "2кв 2024",
+      "amount": 20.14612657,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-01",
+      "lastBuyDate": "2023-05-30",
+      "period": "2022 год",
+      "amount": 15.39,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-14",
+      "lastBuyDate": "2022-07-12",
+      "period": "2021 год",
+      "amount": 18.19,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-16",
+      "lastBuyDate": "2018-07-12",
+      "period": "2018 год",
+      "amount": 4.1432,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-30",
+      "lastBuyDate": "2017-10-26",
+      "period": "2кв 2017",
+      "amount": 4.2675,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

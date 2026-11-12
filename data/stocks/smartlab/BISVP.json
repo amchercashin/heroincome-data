@@ -1,0 +1,95 @@
+{
+  "ticker": "BISVP",
+  "page": "https://smart-lab.ru/q/BISV/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "lastBuyDate": "2026-07-16",
+      "period": "2025 год",
+      "amount": 0.361,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-01-13",
+      "lastBuyDate": "2026-01-12",
+      "period": "3кв 2025",
+      "amount": 0.713,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-12",
+      "lastBuyDate": "2024-07-11",
+      "period": "2023 год",
+      "amount": 0.67,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-14",
+      "lastBuyDate": "2023-07-12",
+      "period": "2022 год",
+      "amount": 0.033,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-01-13",
+      "lastBuyDate": "2023-01-11",
+      "period": "3кв 2022",
+      "amount": 0.509,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-01-13",
+      "lastBuyDate": "2022-01-11",
+      "period": "3кв 2021",
+      "amount": 1.017,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-15",
+      "lastBuyDate": "2021-07-13",
+      "period": "2020 год",
+      "amount": 0.264,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-09",
+      "lastBuyDate": "2020-10-07",
+      "period": "2019 год",
+      "amount": 0.782,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "lastBuyDate": "2019-07-08",
+      "period": "2018 год",
+      "amount": 0.629,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-10",
+      "lastBuyDate": "2018-07-06",
+      "period": "2017 год",
+      "amount": 0.365,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-11",
+      "lastBuyDate": "2017-07-07",
+      "period": "2016 год",
+      "amount": 0.337,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

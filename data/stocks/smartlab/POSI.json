@@ -1,0 +1,79 @@
+{
+  "ticker": "POSI",
+  "page": "https://smart-lab.ru/q/POSI/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-05-17",
+      "lastBuyDate": "2026-05-14",
+      "period": "1кв 2026",
+      "amount": 28.08,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-24",
+      "lastBuyDate": "2024-05-23",
+      "period": "2023 год",
+      "amount": 47.33,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-24",
+      "lastBuyDate": "2024-05-23",
+      "period": "1кв 2024",
+      "amount": 4.56,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-04-20",
+      "lastBuyDate": "2024-04-18",
+      "period": "4кв 2023",
+      "amount": 47.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-03",
+      "lastBuyDate": "2023-11-30",
+      "period": "3кв 2023",
+      "amount": 15.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-22",
+      "lastBuyDate": "2023-05-18",
+      "period": "2022 н/расп",
+      "amount": 18.94,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-04-16",
+      "lastBuyDate": "2023-04-12",
+      "period": "2022 год",
+      "amount": 37.87,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-11-14",
+      "lastBuyDate": "2022-11-10",
+      "period": "2021 н/расп",
+      "amount": 5.16,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-05-08",
+      "lastBuyDate": "2022-05-04",
+      "period": "2021 год",
+      "amount": 14.4,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

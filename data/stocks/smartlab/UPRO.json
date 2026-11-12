@@ -1,0 +1,95 @@
+{
+  "ticker": "UPRO",
+  "page": "https://smart-lab.ru/q/UPRO/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-12-17",
+      "lastBuyDate": "2021-12-15",
+      "period": "3кв 2021",
+      "amount": 0.19033,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-22",
+      "lastBuyDate": "2021-06-18",
+      "period": "4кв 2020",
+      "amount": 0.1269,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-12-20",
+      "lastBuyDate": "2020-12-16",
+      "period": "3кв 2020",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-22",
+      "lastBuyDate": "2020-06-18",
+      "period": "4кв 2019",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-15",
+      "lastBuyDate": "2019-12-11",
+      "period": "3кв 2019",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-25",
+      "lastBuyDate": "2019-06-21",
+      "period": "4кв 2018",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-18",
+      "lastBuyDate": "2018-12-14",
+      "period": "3кв 2018",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-03",
+      "lastBuyDate": "2018-06-29",
+      "period": "4кв 2017",
+      "amount": 0.111,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-18",
+      "lastBuyDate": "2017-12-14",
+      "period": "3кв 2017",
+      "amount": 0.11102527598,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-04",
+      "lastBuyDate": "2017-06-30",
+      "period": "2016 год",
+      "amount": 0.093676292284,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-04",
+      "lastBuyDate": "2017-06-30",
+      "period": "1кв 2017",
+      "amount": 0.0173489836955,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "X5",
+  "page": "https://smart-lab.ru/q/X5/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-11",
+      "lastBuyDate": "2026-12-10",
+      "period": "3кв 2026",
+      "amount": 204.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-07-07",
+      "lastBuyDate": "2026-07-06",
+      "period": "4кв 2025",
+      "amount": 245.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-01-06",
+      "lastBuyDate": "2026-01-05",
+      "period": "3кв 2025",
+      "amount": 368.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-09",
+      "lastBuyDate": "2025-07-08",
+      "period": "2024 год",
+      "amount": 648.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-17",
+      "lastBuyDate": "2021-12-16",
+      "period": "3кв 2021",
+      "amount": 73.65,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    },
+    {
+      "recordDate": "2021-05-28",
+      "lastBuyDate": "2021-05-26",
+      "period": "2020 год",
+      "amount": 110.49,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    },
+    {
+      "recordDate": "2020-12-18",
+      "lastBuyDate": "2020-12-16",
+      "period": "3кв 2020",
+      "amount": 73.645,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    },
+    {
+      "recordDate": "2020-05-29",
+      "lastBuyDate": "2020-05-27",
+      "period": "2019 год",
+      "amount": 110.47,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    },
+    {
+      "recordDate": "2019-05-23",
+      "lastBuyDate": "2019-05-21",
+      "period": "2018 год",
+      "amount": 92.06,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    },
+    {
+      "recordDate": "2018-05-25",
+      "lastBuyDate": "2018-05-23",
+      "period": "2017 год",
+      "amount": 79.5,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "FIVE"
+    }
+  ]
+}

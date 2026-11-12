@@ -1,0 +1,15 @@
+{
+  "ticker": "KLVZ",
+  "page": "https://smart-lab.ru/q/KLVZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-07-02",
+      "lastBuyDate": "2025-07-01",
+      "period": "2024 год",
+      "amount": 0.05,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

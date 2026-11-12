@@ -1,0 +1,87 @@
+{
+  "ticker": "MISB",
+  "page": "https://smart-lab.ru/q/MISB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-18",
+      "lastBuyDate": "2026-06-17",
+      "period": "2025 год",
+      "amount": 1.98415279,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-04",
+      "lastBuyDate": "2025-07-03",
+      "period": "4кв 2024",
+      "amount": 3.28301887,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-01",
+      "lastBuyDate": "2024-09-30",
+      "period": "2кв 2024",
+      "amount": 1.5849056604,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-22",
+      "lastBuyDate": "2023-05-18",
+      "period": "2022 год",
+      "amount": 0.48849334,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-13",
+      "lastBuyDate": "2022-07-11",
+      "period": "2021 год",
+      "amount": 1.92445,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-13",
+      "lastBuyDate": "2022-07-11",
+      "period": "1кв 2022",
+      "amount": 0.6038,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-11",
+      "lastBuyDate": "2020-08-09",
+      "period": "2019 год",
+      "amount": 0.7547459,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-10",
+      "lastBuyDate": "2019-06-06",
+      "period": "2018 год",
+      "amount": 0.7547,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-19",
+      "lastBuyDate": "2018-06-15",
+      "period": "2017 год",
+      "amount": 0.911642,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-11-17",
+      "lastBuyDate": "2017-11-15",
+      "period": "2016 н/расп",
+      "amount": 0.993871,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

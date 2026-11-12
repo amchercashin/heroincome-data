@@ -1,0 +1,79 @@
+{
+  "ticker": "STSBP",
+  "page": "https://smart-lab.ru/q/STSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-07-06",
+      "lastBuyDate": "2025-07-03",
+      "period": "4кв 2024",
+      "amount": 0.4703035,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-06",
+      "lastBuyDate": "2024-07-04",
+      "period": "2023 год",
+      "amount": 0.3121725,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-05",
+      "lastBuyDate": "2023-07-03",
+      "period": "2022 год",
+      "amount": 0.1695389,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-04",
+      "lastBuyDate": "2022-06-30",
+      "period": "2021 год",
+      "amount": 0.08461,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-05",
+      "lastBuyDate": "2021-07-01",
+      "period": "2020 год",
+      "amount": 0.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-24",
+      "lastBuyDate": "2020-08-20",
+      "period": "2019 год",
+      "amount": 0.028747,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-02",
+      "lastBuyDate": "2019-06-28",
+      "period": "2018 год",
+      "amount": 0.024845,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-29",
+      "lastBuyDate": "2018-06-27",
+      "period": "2017 год",
+      "amount": 0.024348679,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-03",
+      "lastBuyDate": "2017-06-29",
+      "period": "2016 год",
+      "amount": 0.02289275721,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

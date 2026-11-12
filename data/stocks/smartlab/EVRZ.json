@@ -1,0 +1,25 @@
+{
+  "ticker": "EVRZ",
+  "page": "https://smart-lab.ru/q/EVRZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-03-06",
+      "lastBuyDate": "2020-03-04",
+      "period": "4кв 2019",
+      "amount": 24.49,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "EVR"
+    },
+    {
+      "recordDate": "2019-08-16",
+      "lastBuyDate": "2019-08-14",
+      "period": "2кв 2019",
+      "amount": 22.75,
+      "currency": "RUB",
+      "status": "paid",
+      "listedAs": "EVR"
+    }
+  ]
+}

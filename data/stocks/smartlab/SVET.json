@@ -1,0 +1,47 @@
+{
+  "ticker": "SVET",
+  "page": "https://smart-lab.ru/q/SVET/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-01",
+      "lastBuyDate": "2026-05-29",
+      "period": "2025 год",
+      "amount": 0.0448,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-10-14",
+      "lastBuyDate": "2025-10-13",
+      "period": "2024 год",
+      "amount": 0.1,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "2023 год",
+      "amount": 0.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "lastBuyDate": "2023-07-07",
+      "period": "2022 год",
+      "amount": 0.4707,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-28",
+      "lastBuyDate": "2021-06-24",
+      "period": "2020 год",
+      "amount": 0.84,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

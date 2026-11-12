@@ -1,0 +1,71 @@
+{
+  "ticker": "VRSBP",
+  "page": "https://smart-lab.ru/q/VRSB/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-18",
+      "lastBuyDate": "2026-06-17",
+      "period": "2025 год",
+      "amount": 17.98926325,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-28",
+      "lastBuyDate": "2025-06-26",
+      "period": "4кв 2024",
+      "amount": 6.94558516,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-01",
+      "lastBuyDate": "2024-09-30",
+      "period": "2кв 2024",
+      "amount": 7.88056778,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-22",
+      "lastBuyDate": "2023-05-18",
+      "period": "2022 год",
+      "amount": 4.6749,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-14",
+      "lastBuyDate": "2022-07-12",
+      "period": "2021 год",
+      "amount": 14.69,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-18",
+      "lastBuyDate": "2020-08-16",
+      "period": "2019 год",
+      "amount": 1.73642658,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-10",
+      "lastBuyDate": "2019-06-06",
+      "period": "2018 год",
+      "amount": 1.3356894,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2017-11-14",
+      "lastBuyDate": "2017-11-10",
+      "period": "2016 н/расп",
+      "amount": 1.28677,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "DIAS",
+  "page": "https://smart-lab.ru/q/DIAS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-22",
+      "lastBuyDate": "2026-12-21",
+      "period": "2кв 2026",
+      "amount": 16.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-09-21",
+      "lastBuyDate": "2026-09-18",
+      "period": "1кв 2026",
+      "amount": 16.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-03-23",
+      "lastBuyDate": "2026-03-20",
+      "period": "3кв 2025",
+      "amount": 102.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-22",
+      "lastBuyDate": "2025-12-19",
+      "period": "2кв 2025",
+      "amount": 18.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-08",
+      "lastBuyDate": "2025-07-07",
+      "period": "4кв 2024",
+      "amount": 80.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-03-21",
+      "lastBuyDate": "2025-03-20",
+      "period": "3кв 2024",
+      "amount": 53.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-01-08",
+      "lastBuyDate": "2025-01-06",
+      "period": "2кв 2024",
+      "amount": 45.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-22",
+      "lastBuyDate": "2024-09-19",
+      "period": "1кв 2024",
+      "amount": 45.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "4кв 2023",
+      "amount": 28.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-03-21",
+      "lastBuyDate": "2024-03-20",
+      "period": "3кв 2023",
+      "amount": 75.68,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

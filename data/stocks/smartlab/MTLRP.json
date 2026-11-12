@@ -1,0 +1,47 @@
+{
+  "ticker": "MTLRP",
+  "page": "https://smart-lab.ru/q/MTLR/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-07-13",
+      "lastBuyDate": "2021-07-09",
+      "period": "2020 год",
+      "amount": 1.17,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-17",
+      "lastBuyDate": "2020-07-15",
+      "period": "2019 год",
+      "amount": 3.48,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-18",
+      "lastBuyDate": "2019-07-16",
+      "period": "2018 год",
+      "amount": 18.21,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-18",
+      "lastBuyDate": "2018-07-16",
+      "period": "2017 год",
+      "amount": 16.66,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-11",
+      "lastBuyDate": "2017-07-07",
+      "period": "2016 год",
+      "amount": 10.28,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

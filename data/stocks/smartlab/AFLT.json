@@ -1,0 +1,47 @@
+{
+  "ticker": "AFLT",
+  "page": "https://smart-lab.ru/q/AFLT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-17",
+      "lastBuyDate": "2026-07-16",
+      "period": "2025 год",
+      "amount": 5.29,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-18",
+      "lastBuyDate": "2025-07-17",
+      "period": "2024 год",
+      "amount": 5.27,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-05",
+      "lastBuyDate": "2019-07-03",
+      "period": "2018 год",
+      "amount": 2.6877,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-06",
+      "lastBuyDate": "2018-07-04",
+      "period": "2017 год",
+      "amount": 12.8053,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-14",
+      "lastBuyDate": "2017-07-12",
+      "period": "2016 год",
+      "amount": 17.4795,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

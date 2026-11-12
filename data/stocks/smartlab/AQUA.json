@@ -1,0 +1,159 @@
+{
+  "ticker": "AQUA",
+  "page": "https://smart-lab.ru/q/AQUA/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-15",
+      "lastBuyDate": "2026-12-14",
+      "period": "3кв 2026",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-10-04",
+      "lastBuyDate": "2026-10-02",
+      "period": "2кв 2026",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-07-07",
+      "lastBuyDate": "2026-07-06",
+      "period": "2025 год",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "lastBuyDate": "2025-07-04",
+      "period": "4кв 2024",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-02",
+      "lastBuyDate": "2024-11-29",
+      "period": "3кв 2024",
+      "amount": 20.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-06",
+      "lastBuyDate": "2024-10-03",
+      "period": "2кв 2024",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "lastBuyDate": "2024-07-05",
+      "period": "4кв 2023",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "lastBuyDate": "2024-07-05",
+      "period": "1кв 2024",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-09",
+      "lastBuyDate": "2023-12-07",
+      "period": "3кв 2023",
+      "amount": 19.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-09-22",
+      "lastBuyDate": "2023-09-21",
+      "period": "2кв 2023",
+      "amount": 16.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "lastBuyDate": "2023-07-07",
+      "period": "1кв 2023",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-18",
+      "lastBuyDate": "2022-12-14",
+      "period": "3кв 2022",
+      "amount": 15.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-09-11",
+      "lastBuyDate": "2022-09-07",
+      "period": "2кв 2022",
+      "amount": 15.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "1кв 2022",
+      "amount": 8.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-20",
+      "lastBuyDate": "2021-12-16",
+      "period": "3кв 2021",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-21",
+      "lastBuyDate": "2021-09-17",
+      "period": "2кв 2021",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-11",
+      "lastBuyDate": "2021-07-07",
+      "period": "4кв 2020",
+      "amount": 5.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-11",
+      "lastBuyDate": "2021-07-07",
+      "period": "1кв 2021",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-09-11",
+      "lastBuyDate": "2020-09-09",
+      "period": "1кв 2020",
+      "amount": 5.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "SELG",
+  "page": "https://smart-lab.ru/q/SELG/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-10-11",
+      "lastBuyDate": "2024-10-10",
+      "period": "2кв 2024",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-15",
+      "lastBuyDate": "2024-06-13",
+      "period": "2023 год",
+      "amount": 2.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-03",
+      "lastBuyDate": "2023-11-30",
+      "period": "3кв 2023",
+      "amount": 2.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-06-21",
+      "lastBuyDate": "2022-06-17",
+      "period": "2021 год",
+      "amount": 4.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-25",
+      "lastBuyDate": "2021-06-23",
+      "period": "2020 год",
+      "amount": 1.95,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-11-30",
+      "lastBuyDate": "2020-11-26",
+      "period": "3кв 2020",
+      "amount": 2.55,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-26",
+      "lastBuyDate": "2020-06-24",
+      "period": "4кв 2019",
+      "amount": 1.42,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-24",
+      "lastBuyDate": "2019-12-20",
+      "period": "3кв 2019",
+      "amount": 0.78,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

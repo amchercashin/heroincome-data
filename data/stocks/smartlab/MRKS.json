@@ -1,0 +1,31 @@
+{
+  "ticker": "MRKS",
+  "page": "https://smart-lab.ru/q/MRKS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2020-01-14",
+      "lastBuyDate": "2020-01-10",
+      "period": "3кв 2019",
+      "amount": 0.002917,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-24",
+      "lastBuyDate": "2019-06-20",
+      "period": "2018 год",
+      "amount": 0.00102,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-19",
+      "lastBuyDate": "2018-06-15",
+      "period": "2017 год",
+      "amount": 0.0037,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

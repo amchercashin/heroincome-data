@@ -1,0 +1,79 @@
+{
+  "ticker": "KRKNP",
+  "page": "https://smart-lab.ru/q/KRKN/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-08",
+      "lastBuyDate": "2026-07-07",
+      "period": "2025 год",
+      "amount": 309.63,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-08",
+      "lastBuyDate": "2025-07-09",
+      "period": "2024 год",
+      "amount": 447.54,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-08",
+      "lastBuyDate": "2024-07-05",
+      "period": "2023 год",
+      "amount": 240.67,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-12",
+      "lastBuyDate": "2023-07-10",
+      "period": "2022 год",
+      "amount": 391.54,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-07",
+      "lastBuyDate": "2021-07-05",
+      "period": "2020 год",
+      "amount": 1132.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-09",
+      "lastBuyDate": "2020-06-05",
+      "period": "2019 год",
+      "amount": 1766.52,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-09",
+      "lastBuyDate": "2019-07-05",
+      "period": "2018 год",
+      "amount": 1490.13,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-11",
+      "lastBuyDate": "2018-07-09",
+      "period": "2017 год",
+      "amount": 1035.34,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-13",
+      "lastBuyDate": "2017-07-11",
+      "period": "2016 год",
+      "amount": 1051.46,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

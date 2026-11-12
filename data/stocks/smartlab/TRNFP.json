@@ -1,0 +1,87 @@
+{
+  "ticker": "TRNFP",
+  "page": "https://smart-lab.ru/q/TRNFP/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-20",
+      "lastBuyDate": "2026-07-17",
+      "period": "2025 год",
+      "amount": 204.17,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-17",
+      "lastBuyDate": "2025-07-16",
+      "period": "2024 год",
+      "amount": 198.25,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-18",
+      "lastBuyDate": "2024-07-17",
+      "period": "2023 год",
+      "amount": 177.2,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-20",
+      "lastBuyDate": "2023-07-18",
+      "period": "2022 год",
+      "amount": 166.7,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-20",
+      "lastBuyDate": "2022-07-18",
+      "period": "2021 год",
+      "amount": 105.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-20",
+      "lastBuyDate": "2021-07-16",
+      "period": "2020 год",
+      "amount": 92.24,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-20",
+      "lastBuyDate": "2020-10-16",
+      "period": "2019 год",
+      "amount": 116.12,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-20",
+      "lastBuyDate": "2019-07-17",
+      "period": "2018 год",
+      "amount": 107.06,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-10",
+      "lastBuyDate": "2018-07-06",
+      "period": "2017 год",
+      "amount": 75.78,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-19",
+      "lastBuyDate": "2017-09-15",
+      "period": "2кв 2017",
+      "amount": 38.75,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

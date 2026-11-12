@@ -1,0 +1,15 @@
+{
+  "ticker": "GTRK",
+  "page": "https://smart-lab.ru/q/GTRK/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2019-06-28",
+      "lastBuyDate": "2019-06-26",
+      "period": "1кв 2019",
+      "amount": 1.72,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

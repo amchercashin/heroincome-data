@@ -1,0 +1,143 @@
+{
+  "ticker": "PLZL",
+  "page": "https://smart-lab.ru/q/PLZL/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "lastBuyDate": "2026-07-10",
+      "period": "1кв 2026",
+      "amount": 29.05,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-05-18",
+      "lastBuyDate": "2026-05-15",
+      "period": "4кв 2025",
+      "amount": 56.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-12-22",
+      "lastBuyDate": "2025-12-19",
+      "period": "3кв 2025",
+      "amount": 36.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-10-13",
+      "lastBuyDate": "2025-10-10",
+      "period": "2кв 2025",
+      "amount": 70.85,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-04-25",
+      "lastBuyDate": "2025-04-24",
+      "period": "2024 год",
+      "amount": 73.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-13",
+      "lastBuyDate": "2024-12-12",
+      "period": "3кв 2024",
+      "amount": 127.8,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-16",
+      "lastBuyDate": "2023-06-14",
+      "period": "2022 год",
+      "amount": 42.87,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2021-10-11",
+      "lastBuyDate": "2021-10-07",
+      "period": "2кв 2021",
+      "amount": 26.75,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-07",
+      "lastBuyDate": "2021-06-03",
+      "period": "4кв 2020",
+      "amount": 38.72,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-20",
+      "lastBuyDate": "2020-10-16",
+      "period": "2кв 2020",
+      "amount": 24.02,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-28",
+      "lastBuyDate": "2020-08-26",
+      "period": "4кв 2019",
+      "amount": 24.48,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-10-10",
+      "lastBuyDate": "2019-10-08",
+      "period": "2кв 2019",
+      "amount": 16.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-16",
+      "lastBuyDate": "2019-05-14",
+      "period": "4кв 2018",
+      "amount": 14.36,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-10-18",
+      "lastBuyDate": "2018-10-16",
+      "period": "2кв 2018",
+      "amount": 13.11,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-06-10",
+      "lastBuyDate": "2018-06-06",
+      "period": "2017 год",
+      "amount": 14.71,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-25",
+      "lastBuyDate": "2017-09-21",
+      "period": "2кв 2017",
+      "amount": 10.43,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-17",
+      "lastBuyDate": "2017-07-13",
+      "period": "2016 год",
+      "amount": 15.24,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

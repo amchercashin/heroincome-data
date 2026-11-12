@@ -1,0 +1,15 @@
+{
+  "ticker": "PRMD",
+  "page": "https://smart-lab.ru/q/PRMD/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-20",
+      "lastBuyDate": "2026-06-18",
+      "period": "1кв 2026",
+      "amount": 8.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

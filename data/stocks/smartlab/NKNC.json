@@ -1,0 +1,79 @@
+{
+  "ticker": "NKNC",
+  "page": "https://smart-lab.ru/q/NKNC/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-30",
+      "lastBuyDate": "2026-06-29",
+      "period": "2025 год",
+      "amount": 0.83,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-01",
+      "lastBuyDate": "2025-06-30",
+      "period": "2024 год",
+      "amount": 2.93,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "2023 год",
+      "amount": 2.94,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-11",
+      "lastBuyDate": "2023-07-07",
+      "period": "2022 год",
+      "amount": 1.49,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-11",
+      "lastBuyDate": "2022-07-07",
+      "period": "2021 год",
+      "amount": 0.744,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-09-20",
+      "lastBuyDate": "2021-09-16",
+      "period": "2кв 2021",
+      "amount": 9.538,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-04-27",
+      "lastBuyDate": "2021-04-23",
+      "period": "4кв 2020",
+      "amount": 0.73,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-10",
+      "lastBuyDate": "2020-07-08",
+      "period": "2019 год",
+      "amount": 9.07,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-04-22",
+      "lastBuyDate": "2019-04-18",
+      "period": "2018 год",
+      "amount": 19.94,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "DZRDP",
+  "page": "https://smart-lab.ru/q/DZRD/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-13",
+      "lastBuyDate": "2026-07-10",
+      "period": "2025 год",
+      "amount": 61.64,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-01-15",
+      "lastBuyDate": "2024-01-12",
+      "period": "3кв 2023",
+      "amount": 110.36,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-10-20",
+      "lastBuyDate": "2023-10-19",
+      "period": "2кв 2023",
+      "amount": 321.73,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-15",
+      "lastBuyDate": "2023-06-13",
+      "period": "2022 год",
+      "amount": 115.07,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2022-07-06",
+      "lastBuyDate": "2022-07-04",
+      "period": "2021 год",
+      "amount": 141.7,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2021-06-08",
+      "lastBuyDate": "2021-06-04",
+      "period": "2020 год",
+      "amount": 133.64,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2020-09-28",
+      "lastBuyDate": "2020-09-24",
+      "period": "2019 год",
+      "amount": 88.72,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2019-06-25",
+      "lastBuyDate": "2019-06-21",
+      "period": "2018 год",
+      "amount": 294.81,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2018-07-01",
+      "lastBuyDate": "2018-06-27",
+      "period": "2017 год",
+      "amount": 516.41,
+      "currency": "RUB",
+      "status": "canceled"
+    },
+    {
+      "recordDate": "2017-06-25",
+      "lastBuyDate": "2017-06-21",
+      "period": "2016 год",
+      "amount": 302.48,
+      "currency": "RUB",
+      "status": "canceled"
+    }
+  ]
+}

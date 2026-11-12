@@ -1,0 +1,31 @@
+{
+  "ticker": "RGSS",
+  "page": "https://smart-lab.ru/q/RGSS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-06-15",
+      "lastBuyDate": "2026-06-12",
+      "period": "2025 год",
+      "amount": 0.00408577,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-03-18",
+      "lastBuyDate": "2024-03-15",
+      "period": "2022 год",
+      "amount": 0.00410062,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-01-12",
+      "lastBuyDate": "2021-01-08",
+      "period": "2020 н/расп",
+      "amount": 0.025,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

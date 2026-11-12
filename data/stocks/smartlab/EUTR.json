@@ -1,0 +1,79 @@
+{
+  "ticker": "EUTR",
+  "page": "https://smart-lab.ru/q/EUTR/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-01-14",
+      "lastBuyDate": "2026-01-13",
+      "period": "3кв 2025",
+      "amount": 9.17,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-10-20",
+      "lastBuyDate": "2025-10-17",
+      "period": "2кв 2025",
+      "amount": 8.18,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-17",
+      "lastBuyDate": "2025-07-16",
+      "period": "4кв 2024",
+      "amount": 14.19,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-17",
+      "lastBuyDate": "2025-07-16",
+      "period": "1кв 2025",
+      "amount": 3.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-01-15",
+      "lastBuyDate": "2025-01-14",
+      "period": "3кв 2024",
+      "amount": 6.48,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-10-19",
+      "lastBuyDate": "2024-10-17",
+      "period": "2кв 2024",
+      "amount": 4.32,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "2023 год",
+      "amount": 16.72,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-09",
+      "lastBuyDate": "2024-07-08",
+      "period": "1кв 2024",
+      "amount": 2.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-10",
+      "lastBuyDate": "2023-12-07",
+      "period": "3кв 2023",
+      "amount": 8.88,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

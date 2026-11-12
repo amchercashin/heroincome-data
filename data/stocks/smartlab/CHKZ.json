@@ -1,0 +1,79 @@
+{
+  "ticker": "CHKZ",
+  "page": "https://smart-lab.ru/q/CHKZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-06",
+      "lastBuyDate": "2026-07-03",
+      "period": "2025 год",
+      "amount": 394.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-07-07",
+      "lastBuyDate": "2025-07-04",
+      "period": "2024 год",
+      "amount": 720.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-27",
+      "lastBuyDate": "2024-05-24",
+      "period": "2023 год",
+      "amount": 437.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "lastBuyDate": "2023-07-06",
+      "period": "2022 год",
+      "amount": 185.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-03-21",
+      "lastBuyDate": "2022-03-17",
+      "period": "2010 н/расп",
+      "amount": 150.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-20",
+      "lastBuyDate": "2021-12-16",
+      "period": "2020 н/расп",
+      "amount": 150.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-12-14",
+      "lastBuyDate": "2020-12-10",
+      "period": "2019 год",
+      "amount": 190.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-11-18",
+      "lastBuyDate": "2019-11-14",
+      "period": "3кв 2019",
+      "amount": 125.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-19",
+      "lastBuyDate": "2017-06-15",
+      "period": "2016 год",
+      "amount": 150.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

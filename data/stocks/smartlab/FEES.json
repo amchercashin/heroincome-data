@@ -1,0 +1,63 @@
+{
+  "ticker": "FEES",
+  "page": "https://smart-lab.ru/q/FEES/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2021-07-16",
+      "lastBuyDate": "2021-07-14",
+      "period": "2020 год",
+      "amount": 0.0161,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-05-29",
+      "lastBuyDate": "2020-05-27",
+      "period": "2019 год",
+      "amount": 0.009494338212,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-13",
+      "lastBuyDate": "2020-01-09",
+      "period": "3кв 2019",
+      "amount": 0.00880960765,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-16",
+      "lastBuyDate": "2019-07-12",
+      "period": "2018 год",
+      "amount": 0.0160429,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-18",
+      "lastBuyDate": "2018-07-16",
+      "period": "2017 год",
+      "amount": 0.014815,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-19",
+      "lastBuyDate": "2017-07-17",
+      "period": "2016 год",
+      "amount": 0.0142663525,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-19",
+      "lastBuyDate": "2017-07-17",
+      "period": "1кв 2017",
+      "amount": 0.001116473,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

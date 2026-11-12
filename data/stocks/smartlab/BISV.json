@@ -1,0 +1,71 @@
+{
+  "ticker": "BISV",
+  "page": "https://smart-lab.ru/q/BISV/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-01-13",
+      "lastBuyDate": "2026-01-12",
+      "period": "3кв 2025",
+      "amount": 1.06869,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-14",
+      "lastBuyDate": "2023-07-12",
+      "period": "2022 год",
+      "amount": 0.0838,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-01-13",
+      "lastBuyDate": "2023-01-11",
+      "period": "3кв 2022",
+      "amount": 0.2967,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-01-13",
+      "lastBuyDate": "2022-01-11",
+      "period": "3кв 2021",
+      "amount": 2.6029,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-15",
+      "lastBuyDate": "2021-07-13",
+      "period": "2020 год",
+      "amount": 0.332,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-09",
+      "lastBuyDate": "2020-10-07",
+      "period": "2019 год",
+      "amount": 0.854,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-10",
+      "lastBuyDate": "2019-07-08",
+      "period": "2018 год",
+      "amount": 0.792,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-11",
+      "lastBuyDate": "2017-07-07",
+      "period": "2016 год",
+      "amount": 0.427,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

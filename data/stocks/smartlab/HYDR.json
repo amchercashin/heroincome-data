@@ -1,0 +1,63 @@
+{
+  "ticker": "HYDR",
+  "page": "https://smart-lab.ru/q/HYDR/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2023-07-11",
+      "lastBuyDate": "2023-07-07",
+      "period": "2022 год",
+      "amount": 0.050254795,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-10",
+      "lastBuyDate": "2022-07-06",
+      "period": "2021 год",
+      "amount": 0.05304937,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-10",
+      "lastBuyDate": "2021-07-07",
+      "period": "2020 год",
+      "amount": 0.053,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-10-10",
+      "lastBuyDate": "2020-10-07",
+      "period": "2019 год",
+      "amount": 0.0357,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-09",
+      "lastBuyDate": "2019-07-05",
+      "period": "2018 год",
+      "amount": 0.0367388,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-06",
+      "lastBuyDate": "2018-07-04",
+      "period": "2017 год",
+      "amount": 0.0263335,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-10",
+      "lastBuyDate": "2017-07-06",
+      "period": "2016 год",
+      "amount": 0.0466245,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

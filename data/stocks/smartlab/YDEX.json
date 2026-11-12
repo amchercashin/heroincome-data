@@ -1,0 +1,47 @@
+{
+  "ticker": "YDEX",
+  "page": "https://smart-lab.ru/q/YDEX/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-09-21",
+      "lastBuyDate": "2026-09-18",
+      "period": "2кв 2026",
+      "amount": 110.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-04-27",
+      "lastBuyDate": "2026-04-24",
+      "period": "4кв 2025",
+      "amount": 110.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-09-29",
+      "lastBuyDate": "2025-09-26",
+      "period": "2кв 2025",
+      "amount": 80.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-04-28",
+      "lastBuyDate": "2025-04-25",
+      "period": "2024 год",
+      "amount": 80.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-20",
+      "lastBuyDate": "2024-09-19",
+      "period": "2кв 2024",
+      "amount": 80.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

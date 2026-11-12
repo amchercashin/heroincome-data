@@ -1,0 +1,31 @@
+{
+  "ticker": "USBN",
+  "page": "https://smart-lab.ru/q/USBN/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-11",
+      "lastBuyDate": "2026-12-10",
+      "period": "3кв 2026",
+      "amount": 0.027767389,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-07-06",
+      "lastBuyDate": "2026-07-03",
+      "period": "2025 год",
+      "amount": 0.01999252,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-04",
+      "lastBuyDate": "2024-06-03",
+      "period": "2023 год",
+      "amount": 0.027378645,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

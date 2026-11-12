@@ -1,0 +1,47 @@
+{
+  "ticker": "TGKN",
+  "page": "https://smart-lab.ru/q/TGKN/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-05-26",
+      "lastBuyDate": "2025-05-23",
+      "period": "4кв 2024",
+      "amount": 0.000688642404727,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-09-17",
+      "lastBuyDate": "2024-09-16",
+      "period": "2кв 2024",
+      "amount": 0.000456,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-04",
+      "lastBuyDate": "2024-06-03",
+      "period": "2023 год",
+      "amount": 0.0012887114,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-08-14",
+      "lastBuyDate": "2023-08-11",
+      "period": "2кв 2023",
+      "amount": 0.0004418437,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-16",
+      "lastBuyDate": "2023-06-14",
+      "period": "2022 год",
+      "amount": 0.00049448386167,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

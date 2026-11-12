@@ -1,0 +1,39 @@
+{
+  "ticker": "LEAS",
+  "page": "https://smart-lab.ru/q/LEAS/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-12-14",
+      "lastBuyDate": "2025-12-11",
+      "period": "3кв 2025",
+      "amount": 58.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-07",
+      "lastBuyDate": "2025-06-05",
+      "period": "4кв 2024",
+      "amount": 29.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-15",
+      "lastBuyDate": "2024-12-12",
+      "period": "3кв 2024",
+      "amount": 50.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-06-11",
+      "lastBuyDate": "2024-06-10",
+      "period": "2023 год",
+      "amount": 25.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ticker": "DELI",
+  "page": "https://smart-lab.ru/q/DELI/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-10-07",
+      "lastBuyDate": "2024-10-04",
+      "period": "2кв 2024",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

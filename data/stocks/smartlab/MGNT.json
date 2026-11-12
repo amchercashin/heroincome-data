@@ -1,0 +1,175 @@
+{
+  "ticker": "MGNT",
+  "page": "https://smart-lab.ru/q/MGNT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2024-07-15",
+      "lastBuyDate": "2024-07-12",
+      "period": "2023 год",
+      "amount": 412.13,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-01-11",
+      "lastBuyDate": "2024-01-10",
+      "period": "2022 год",
+      "amount": 412.13,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-31",
+      "lastBuyDate": "2021-12-28",
+      "period": "3кв 2021",
+      "amount": 294.37,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-25",
+      "lastBuyDate": "2021-06-23",
+      "period": "4кв 2020",
+      "amount": 245.31,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-01-08",
+      "lastBuyDate": "2021-01-05",
+      "period": "3кв 2020",
+      "amount": 245.31,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-06-19",
+      "lastBuyDate": "2020-06-17",
+      "period": "4кв 2019",
+      "amount": 157.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-01-10",
+      "lastBuyDate": "2020-01-08",
+      "period": "3кв 2019",
+      "amount": 147.19,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-14",
+      "lastBuyDate": "2019-06-11",
+      "period": "4кв 2018",
+      "amount": 166.78,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-21",
+      "lastBuyDate": "2018-12-19",
+      "period": "3кв 2018",
+      "amount": 137.38,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-06",
+      "lastBuyDate": "2018-07-04",
+      "period": "2017 год",
+      "amount": 135.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-09-15",
+      "lastBuyDate": "2017-09-13",
+      "period": "2кв 2017",
+      "amount": 115.51,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-06-23",
+      "lastBuyDate": "2017-06-21",
+      "period": "2016 год",
+      "amount": 67.41,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-12-23",
+      "lastBuyDate": "2016-12-23",
+      "period": "3кв 2016",
+      "amount": 126.12,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-09-23",
+      "lastBuyDate": "2016-09-23",
+      "period": "2кв 2016",
+      "amount": 84.6,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-06-17",
+      "lastBuyDate": "2016-06-17",
+      "period": "2015 год",
+      "amount": 42.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2016-01-08",
+      "lastBuyDate": "2016-01-08",
+      "period": "3кв 2015",
+      "amount": 179.77,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-10-09",
+      "lastBuyDate": "2015-10-09",
+      "period": "2кв 2015",
+      "amount": 88.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2015-06-19",
+      "lastBuyDate": "2015-06-19",
+      "period": "2014 год",
+      "amount": 132.57,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-12-30",
+      "lastBuyDate": "2014-12-30",
+      "period": "3кв 2014",
+      "amount": 152.07,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-10-10",
+      "lastBuyDate": "2014-10-10",
+      "period": "2кв 2014",
+      "amount": 78.3,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2014-06-30",
+      "lastBuyDate": "2014-06-30",
+      "period": "2013 год",
+      "amount": 89.15,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

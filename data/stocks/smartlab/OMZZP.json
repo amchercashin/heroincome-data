@@ -1,0 +1,31 @@
+{
+  "ticker": "OMZZP",
+  "page": "https://smart-lab.ru/q/OMZZ/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-07-10",
+      "lastBuyDate": "2026-07-09",
+      "period": "2025 год",
+      "amount": 0.012,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-15",
+      "lastBuyDate": "2024-07-12",
+      "period": "2023 год",
+      "amount": 0.012,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-12",
+      "lastBuyDate": "2023-07-10",
+      "period": "2022 год",
+      "amount": 0.012,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

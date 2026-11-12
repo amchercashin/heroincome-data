@@ -1,0 +1,39 @@
+{
+  "ticker": "BTBR",
+  "page": "https://smart-lab.ru/q/BTBR/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-21",
+      "lastBuyDate": "2026-12-18",
+      "period": "2025 год",
+      "amount": 5.59,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-12-21",
+      "lastBuyDate": "2026-12-18",
+      "period": "3кв 2026",
+      "amount": 4.21,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-10-11",
+      "lastBuyDate": "2026-10-08",
+      "period": "2кв 2026",
+      "amount": 4.61,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-07-11",
+      "lastBuyDate": "2026-07-09",
+      "period": "1кв 2026",
+      "amount": 5.19,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

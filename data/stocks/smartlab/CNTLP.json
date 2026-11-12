@@ -1,0 +1,71 @@
+{
+  "ticker": "CNTLP",
+  "page": "https://smart-lab.ru/q/CNTL/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2025-07-11",
+      "lastBuyDate": "2025-07-10",
+      "period": "2024 год",
+      "amount": 0.224,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-07-01",
+      "lastBuyDate": "2024-06-28",
+      "period": "2023 год",
+      "amount": 0.189,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-07-10",
+      "lastBuyDate": "2023-07-06",
+      "period": "2022 год",
+      "amount": 0.034,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-07-04",
+      "lastBuyDate": "2022-06-30",
+      "period": "2021 год",
+      "amount": 1.524,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-06-18",
+      "lastBuyDate": "2021-06-16",
+      "period": "2020 год",
+      "amount": 0.25,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-08-10",
+      "lastBuyDate": "2020-08-06",
+      "period": "2019 год",
+      "amount": 11.83,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-06-19",
+      "lastBuyDate": "2019-06-17",
+      "period": "2018 год",
+      "amount": 7.41,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-07",
+      "lastBuyDate": "2017-07-05",
+      "period": "2016 год",
+      "amount": 0.0164246,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

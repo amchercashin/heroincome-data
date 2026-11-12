@@ -1,0 +1,159 @@
+{
+  "ticker": "KAZTP",
+  "page": "https://smart-lab.ru/q/KAZT/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-01",
+      "lastBuyDate": "2026-11-30",
+      "period": "2026 н/расп",
+      "amount": 20.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2025-09-23",
+      "lastBuyDate": "2025-09-22",
+      "period": "2кв 2025",
+      "amount": 4.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-05-26",
+      "lastBuyDate": "2025-05-23",
+      "period": "2024 год",
+      "amount": 2.5,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-03",
+      "lastBuyDate": "2024-12-02",
+      "period": "3кв 2024",
+      "amount": 7.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-27",
+      "lastBuyDate": "2024-05-24",
+      "period": "2023 год",
+      "amount": 15.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-12",
+      "lastBuyDate": "2023-12-11",
+      "period": "3кв 2023",
+      "amount": 14.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-05-22",
+      "lastBuyDate": "2023-05-18",
+      "period": "4кв 2022",
+      "amount": 35.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-10-03",
+      "lastBuyDate": "2022-09-29",
+      "period": "2кв 2022",
+      "amount": 15.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-05-23",
+      "lastBuyDate": "2022-05-19",
+      "period": "4кв 2021",
+      "amount": 17.4,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-22",
+      "lastBuyDate": "2021-12-20",
+      "period": "3кв 2021",
+      "amount": 10.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-05-11",
+      "lastBuyDate": "2021-05-07",
+      "period": "2020 год",
+      "amount": 6.85,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-29",
+      "lastBuyDate": "2019-12-25",
+      "period": "3кв 2019",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-09-23",
+      "lastBuyDate": "2019-09-19",
+      "period": "2кв 2019",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-05-07",
+      "lastBuyDate": "2019-05-03",
+      "period": "4кв 2018",
+      "amount": 5.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-23",
+      "lastBuyDate": "2018-12-19",
+      "period": "3кв 2018",
+      "amount": 2.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-05-10",
+      "lastBuyDate": "2018-05-07",
+      "period": "4кв 2017",
+      "amount": 2.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-01-08",
+      "lastBuyDate": "2018-01-03",
+      "period": "3кв 2017",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-10-08",
+      "lastBuyDate": "2017-10-04",
+      "period": "2кв 2017",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-05-10",
+      "lastBuyDate": "2017-05-04",
+      "period": "4кв 2016",
+      "amount": 1.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}

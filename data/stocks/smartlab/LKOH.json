@@ -1,0 +1,167 @@
+{
+  "ticker": "LKOH",
+  "page": "https://smart-lab.ru/q/LKOH/dividend/",
+  "scrapedAt": "2026-11-12T08:08:42Z",
+  "payments": [
+    {
+      "recordDate": "2026-12-09",
+      "lastBuyDate": "2026-12-08",
+      "period": "3кв 2026",
+      "amount": 535.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
+    {
+      "recordDate": "2026-05-04",
+      "lastBuyDate": "2026-04-30",
+      "period": "4кв 2025",
+      "amount": 278.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2026-01-12",
+      "lastBuyDate": "2026-01-09",
+      "period": "3кв 2025",
+      "amount": 397.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2025-06-03",
+      "lastBuyDate": "2025-06-02",
+      "period": "4кв 2024",
+      "amount": 541.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-12-17",
+      "lastBuyDate": "2024-12-16",
+      "period": "3кв 2024",
+      "amount": 514.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2024-05-07",
+      "lastBuyDate": "2024-05-06",
+      "period": "2023 год",
+      "amount": 498.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-12-17",
+      "lastBuyDate": "2023-12-14",
+      "period": "3кв 2023",
+      "amount": 447.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2023-06-05",
+      "lastBuyDate": "2023-06-01",
+      "period": "4кв 2022",
+      "amount": 438.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-21",
+      "lastBuyDate": "2022-12-19",
+      "period": "2021 н/расп",
+      "amount": 537.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2022-12-21",
+      "lastBuyDate": "2022-12-19",
+      "period": "3кв 2022",
+      "amount": 256.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-12-21",
+      "lastBuyDate": "2021-12-17",
+      "period": "3кв 2021",
+      "amount": 340.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2021-07-05",
+      "lastBuyDate": "2021-07-01",
+      "period": "4кв 2020",
+      "amount": 213.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-12-18",
+      "lastBuyDate": "2020-12-16",
+      "period": "3кв 2020",
+      "amount": 46.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2020-07-10",
+      "lastBuyDate": "2020-07-08",
+      "period": "4кв 2019",
+      "amount": 350.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-12-20",
+      "lastBuyDate": "2019-12-18",
+      "period": "3кв 2019",
+      "amount": 192.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2019-07-09",
+      "lastBuyDate": "2019-07-05",
+      "period": "4кв 2018",
+      "amount": 155.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-12-21",
+      "lastBuyDate": "2018-12-19",
+      "period": "3кв 2018",
+      "amount": 95.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2018-07-11",
+      "lastBuyDate": "2018-07-09",
+      "period": "4кв 2017",
+      "amount": 130.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-12-22",
+      "lastBuyDate": "2017-12-20",
+      "period": "3кв 2017",
+      "amount": 85.0,
+      "currency": "RUB",
+      "status": "paid"
+    },
+    {
+      "recordDate": "2017-07-10",
+      "lastBuyDate": "2017-07-06",
+      "period": "4кв 2016",
+      "amount": 120.0,
+      "currency": "RUB",
+      "status": "paid"
+    }
+  ]
+}
