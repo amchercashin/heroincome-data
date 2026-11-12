@@ -28,4 +28,5 @@ jobs:
         run: cd scripts && python -m stocks.scrape
 
       - name: Commit updated data (if changed)
-        run: .github/scripts/commit-data.sh data/stocks/ "chore: update stock dividends $(date -u +%Y-%m-%d)"
+        run: |
+          .github/scripts/commit-data.sh data/stocks/ "chore: update stock dividends $(date -u +%Y-%m-%d)"
