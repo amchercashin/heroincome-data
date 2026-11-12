@@ -38,8 +38,10 @@ smartlab.ru was removed (unused by the app, blocked from GitHub Actions IPs).
 
 ## CI
 
-- **Stocks**: 1st & 15th of month, 09:00 UTC (`update-dividends.yml`)
-- **Funds**: 5th of month, 09:00 UTC (`update-funds.yml`)
+- **Stocks**: every Monday 05:17 UTC (`update-dividends.yml`)
+- **Funds**: every Monday 05:47 UTC (`update-funds.yml`)
+- Both commit through `.github/scripts/commit-data.sh <dir> <message>`: it commits only when something besides `scrapedAt` / `updatedAt` changed (every run rewrites those), and does `git pull --rebase` before pushing because the two workflows may push close together. Keep any new scraper's workflow on the same script.
+- Consumer: the Рантье app (github.com/amchercashin/rantie) reads `data/` from raw.githubusercontent.com on every sync; since autumn 2026 MOEX ISS gives no free dividends, so this repo is its only source of stock dividends and Parus distributions.
 
 ## Gotchas
 

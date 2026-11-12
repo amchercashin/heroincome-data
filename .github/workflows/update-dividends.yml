@@ -2,7 +2,8 @@ name: Update Stock Dividends
 
 on:
   schedule:
-    - cron: '0 9 1,15 * *'
+    # every Monday 05:17 UTC (08:17 MSK); GitHub may start it later under load
+    - cron: '17 5 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -27,13 +28,4 @@ jobs:
         run: cd scripts && python -m stocks.scrape
 
       - name: Commit updated data (if changed)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/stocks/
-          if git diff --staged --quiet; then
-            echo "No data changes — skipping commit"
-          else
-            git commit -m "chore: update stock dividends $(date -u +%Y-%m-%d)"
-            git push
-          fi
+        run: .github/scripts/commit-data.sh data/stocks/ "chore: update stock dividends $(date -u +%Y-%m-%d)"
