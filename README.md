@@ -1,14 +1,38 @@
 # heroincome-data
 
-Raw dividend and fund distribution data for the [heroincome](https://github.com/amchercashin/heroincome) app.
+Raw dividend and fund distribution data for the [Рантье](https://github.com/amchercashin/rantie) app (formerly heroincome).
 Pure data: no merging or prioritization — consuming apps decide how to use it.
+
+## How the data flows
+
+```
+GitHub Actions, every Monday                     Рантье (in the user's browser)
+────────────────────────────                     ──────────────────────────────
+dohod.ru ─────────► data/stocks/dohod/ ─┐
+                                        ├─ raw.githubusercontent.com ─► read on every sync
+parus.properties ─► data/funds/ ────────┘
+
+MOEX ISS ──────────────────── read by the app directly ───────────────► prices, bond coupons,
+                                                                        exchange rates
+```
+
+- A browser cannot scrape other sites (CORS, HTML), so the scrapers run here on a schedule and
+  publish plain JSON that the app fetches as static files.
+- Since autumn 2026 MOEX ISS serves dividends to paying subscribers only, so these files are the
+  app's only source of stock dividends (dohod.ru) and fund distributions (Parus). The app prefers
+  them per security (dohod.ru for stocks, Parus for funds) and keeps one source per security.
+- A run commits only when the data changed. Every run rewrites `scrapedAt` / `updatedAt`; a run
+  where nothing else changed commits nothing, so `scrapedAt` is when the file was last written
+  with new data, and the Actions log shows every check.
 
 ## Sources and schedule
 
+Scheduled runs can start later than the cron time when GitHub Actions is busy; both workflows can also be run by hand (`gh workflow run update-dividends.yml` / `update-funds.yml`).
+
 | Source | What | Updated (GitHub Actions) |
 |---|---|---|
-| [dohod.ru](https://www.dohod.ru/ik/analytics/dividend/) | Dividend history and forecasts, ~120 Russian stocks | 1st and 15th of each month |
-| [parus.properties](https://parus.properties/funds/) | Monthly distributions of every Parus closed-end real estate fund with payouts (the fund list is read from the site; Parus Google Sheets are a fallback for the funds known before) | 5th of each month |
+| [dohod.ru](https://www.dohod.ru/ik/analytics/dividend/) | Dividend history and forecasts, ~120 Russian stocks | Every Monday, 05:17 UTC |
+| [parus.properties](https://parus.properties/funds/) | Monthly distributions of every Parus closed-end real estate fund with payouts (the fund list is read from the site; Parus Google Sheets are a fallback for the funds known before) | Every Monday, 05:47 UTC |
 
 ## Data format
 

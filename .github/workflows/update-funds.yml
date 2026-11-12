@@ -2,7 +2,8 @@ name: Update Fund Distributions
 
 on:
   schedule:
-    - cron: '0 9 5 * *'
+    # every Monday 05:47 UTC (08:47 MSK); GitHub may start it later under load
+    - cron: '47 5 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -27,13 +28,4 @@ jobs:
         run: cd scripts && python -m funds.scrape
 
       - name: Commit updated data (if changed)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/funds/
-          if git diff --staged --quiet; then
-            echo "No data changes — skipping commit"
-          else
-            git commit -m "chore: update fund distributions $(date -u +%Y-%m-%d)"
-            git push
-          fi
+        run: .github/scripts/commit-data.sh data/funds/ "chore: update fund distributions $(date -u +%Y-%m-%d)"
