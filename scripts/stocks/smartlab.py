@@ -115,8 +115,16 @@ def _upcoming_status(calendar: Calendar, ticker: str, record: str, amount: float
     return "expected"
 
 
+def _same_company_other_class(a: str, b: str) -> bool:
+    """Common and preferred share of one issuer: BISV / BISVP, SELG / SELGP."""
+    return a == b + "P" or b == a + "P"
+
+
 def parse_dividend_page(
-    html: str, calendar: Calendar, current_tickers: list[str] | None = None
+    html: str,
+    calendar: Calendar,
+    current_tickers: list[str] | None = None,
+    listed_tickers: set[str] | None = None,
 ) -> dict[str, list[dict]]:
     """Rows of a /q/{CODE}/dividend/ page by ticker, newest first as on the page.
 
@@ -127,8 +135,11 @@ def parse_dividend_page(
     A renamed company keeps its old rows under the old ticker (ABIO's page lists ISKJ). When the
     page has one current ticker, such rows go to it with `listedAs` = the ticker on the page;
     with several (common + preferred) it is unknown whose they are, so they keep their own.
+    Never folded: the other share class of the same issuer (BISV rows on the page of BISVP —
+    /q/shares/ may list only one class) and a ticker that is itself listed (`listed_tickers`).
     """
     current = set(current_tickers or [])
+    listed = listed_tickers or set()
     soup = BeautifulSoup(html, "html.parser")
     all_tables = soup.select("table.dividends")
     # Every share page has at least the yearly summary table; none at all means another page
@@ -174,8 +185,10 @@ def parse_dividend_page(
                 status = "paid"
 
             owner, listed_as = ticker, None
-            if len(current) == 1 and ticker not in current:
-                owner, listed_as = next(iter(current)), ticker
+            if len(current) == 1 and ticker not in current and ticker not in listed:
+                only = next(iter(current))
+                if not _same_company_other_class(ticker, only):
+                    owner, listed_as = only, ticker
             payments = by_ticker.setdefault(owner, [])
             if upcoming and any(p["recordDate"] == record and p["amount"] == amount for p in payments):
                 continue

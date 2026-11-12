@@ -42,6 +42,7 @@ def scrape(
         raise ScrapeAborted("shares list unavailable")
     pages = parse_share_pages(shares)
     codes = list(pages)
+    listed = {ticker for tickers in pages.values() for ticker in tickers}
     if not codes:
         raise ScrapeAborted("no shares found on the shares list — layout changed?")
 
@@ -72,7 +73,7 @@ def scrape(
             continue
         failures_in_row = 0
         try:
-            rows = parse_dividend_page(html, calendar, pages[code])
+            rows = parse_dividend_page(html, calendar, pages[code], listed)
         except ValueError as exc:
             print(f"  [{i}/{len(codes)}] {code}: parse error — {exc}")
             continue

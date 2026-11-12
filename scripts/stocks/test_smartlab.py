@@ -116,6 +116,22 @@ def test_old_ticker_rows_keep_their_ticker_when_the_page_has_several():
     assert "listedAs" not in rows["ISKJ"][0]
 
 
+def test_the_other_share_class_is_never_folded():
+    # /q/shares/ lists only BISVP for the BISV page, but the page also has common BISV rows,
+    # with a different amount on the same date — folding them would count both as BISVP.
+    rows = parse_dividend_page(fixture("smartlab_bisv.html"), {}, current_tickers=["BISVP"])
+    assert sorted(rows) == ["BISV", "BISVP"]
+    assert [p["amount"] for p in rows["BISV"]] == [1.06869]
+    assert all("listedAs" not in p for p in rows["BISV"] + rows["BISVP"])
+
+
+def test_a_listed_ticker_is_never_folded():
+    rows = parse_dividend_page(
+        fixture("smartlab_abio.html"), {}, current_tickers=["ABIO"], listed_tickers={"ABIO", "ISKJ"}
+    )
+    assert sorted(rows) == ["ABIO", "ISKJ"]
+
+
 def test_share_that_never_paid_has_no_rows():
     # Only the yearly summary table: «компания ДВМП дивиденды не выплачивала».
     assert parse_dividend_page(fixture("smartlab_fesh.html"), {}) == {}

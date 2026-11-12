@@ -92,7 +92,7 @@ A second, independent source for the same shares (and more): the app can compare
 
 - Newest first. Several payments can share one record date (two dividends paid together) — they are separate rows.
 - A preferred share sits on the page of the common one (`SBERP` → `page` …/q/SBER/dividend/).
-- A renamed company: smart-lab lists its old rows under the old ticker. When the page has one current ticker, those rows go to its file with `"listedAs": "<old ticker>"` (ABIO's ISKJ rows are in `ABIO.json`, ELFV's ENRU rows in `ELFV.json`); on a page with several current tickers (common + preferred) they keep their own file.
+- A renamed company: smart-lab lists its old rows under the old ticker. When the page has one current ticker, those rows go to its file with `"listedAs": "<old ticker>"` (ABIO's ISKJ rows are in `ABIO.json`, ELFV's ENRU rows in `ELFV.json`); on a page with several current tickers (common + preferred) they keep their own file. The other share class of the same company is never folded: the BISV page holds common BISV rows while smart-lab lists only BISVP as traded — they stay in `BISV.json`.
 - `lastBuyDate` is smart-lab's «дата T-1»; `currency` is taken from the sign after the amount (`₽` → RUB).
 - Part of smart-lab's dividend data is added by its users and moderated.
 
