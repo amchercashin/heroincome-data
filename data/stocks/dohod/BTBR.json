@@ -1,6 +1,6 @@
 {
   "ticker": "BTBR",
-  "scrapedAt": "2026-11-01T15:55:33Z",
+  "scrapedAt": "2026-11-12T07:16:12Z",
   "payments": [
     {
       "recordDate": "2027-10-11",
@@ -19,14 +19,14 @@
     {
       "recordDate": "2027-03-06",
       "declaredDate": null,
-      "amount": 4.6,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },
     {
-      "recordDate": "2026-12-25",
+      "recordDate": "2026-12-21",
       "declaredDate": null,
-      "amount": 4.6,
+      "amount": 9.8,
       "year": null,
       "isForecast": true
     },

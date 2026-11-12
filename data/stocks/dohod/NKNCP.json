@@ -1,11 +1,11 @@
 {
   "ticker": "NKNCP",
-  "scrapedAt": "2026-11-01T15:57:32Z",
+  "scrapedAt": "2026-11-12T07:18:13Z",
   "payments": [
     {
       "recordDate": "2027-06-30",
       "declaredDate": null,
-      "amount": 1.94,
+      "amount": 1.2,
       "year": null,
       "isForecast": true
     },

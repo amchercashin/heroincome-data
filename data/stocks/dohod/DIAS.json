@@ -1,6 +1,6 @@
 {
   "ticker": "DIAS",
-  "scrapedAt": "2026-11-01T15:55:47Z",
+  "scrapedAt": "2026-11-12T07:16:27Z",
   "payments": [
     {
       "recordDate": "2027-09-21",
@@ -26,7 +26,7 @@
     {
       "recordDate": "2026-12-22",
       "declaredDate": null,
-      "amount": 18.0,
+      "amount": 16.0,
       "year": null,
       "isForecast": true
     },

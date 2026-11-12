@@ -1,6 +1,6 @@
 {
   "ticker": "AQUA",
-  "scrapedAt": "2026-11-01T15:55:16Z",
+  "scrapedAt": "2026-11-12T07:15:54Z",
   "payments": [
     {
       "recordDate": "2027-10-04",
@@ -24,9 +24,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2026-12-18",
+      "recordDate": "2026-12-15",
       "declaredDate": null,
-      "amount": 20.0,
+      "amount": 10.0,
       "year": null,
       "isForecast": true
     },

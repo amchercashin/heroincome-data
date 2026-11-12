@@ -1,11 +1,11 @@
 {
   "ticker": "SBER",
-  "scrapedAt": "2026-11-01T15:58:07Z",
+  "scrapedAt": "2026-11-12T07:18:52Z",
   "payments": [
     {
       "recordDate": "2027-07-20",
       "declaredDate": null,
-      "amount": 44.53,
+      "amount": 44.68,
       "year": null,
       "isForecast": true
     },

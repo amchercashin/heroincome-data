@@ -1,6 +1,6 @@
 {
   "ticker": "AVAN",
-  "scrapedAt": "2026-11-01T15:55:20Z",
+  "scrapedAt": "2026-11-12T07:15:58Z",
   "payments": [
     {
       "recordDate": "2027-04-28",
@@ -19,7 +19,7 @@
     {
       "recordDate": "2026-12-07",
       "declaredDate": null,
-      "amount": 25.57,
+      "amount": 0.0,
       "year": null,
       "isForecast": true
     },

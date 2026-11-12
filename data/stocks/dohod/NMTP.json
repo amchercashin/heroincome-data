@@ -1,11 +1,11 @@
 {
   "ticker": "NMTP",
-  "scrapedAt": "2026-11-01T15:57:36Z",
+  "scrapedAt": "2026-11-12T07:18:17Z",
   "payments": [
     {
       "recordDate": "2027-07-13",
       "declaredDate": null,
-      "amount": 0.8558,
+      "amount": 0.8515,
       "year": null,
       "isForecast": true
     },
