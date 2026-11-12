@@ -1,0 +1,34 @@
+name: Update smart-lab Dividends
+
+on:
+  schedule:
+    # every Monday 06:17 UTC (09:17 MSK), after dohod.ru and Parus; GitHub may start it later under load
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ~220 pages with a 1.5 s pause: about 6 minutes. Exits non-zero (and commits nothing)
+      # when smart-lab stops answering or its layout changes.
+      - name: Run scraper
+        run: cd scripts && python -m stocks.scrape_smartlab
+
+      - name: Commit updated data (if changed)
+        run: |
+          .github/scripts/commit-data.sh data/stocks/smartlab/ "chore: update smart-lab dividends $(date -u +%Y-%m-%d)"
