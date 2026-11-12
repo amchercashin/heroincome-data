@@ -9,9 +9,8 @@ Pure data: no merging or prioritization — consuming apps decide how to use it.
 GitHub Actions, every Monday                     Рантье (in the user's browser)
 ────────────────────────────                     ──────────────────────────────
 dohod.ru ─────────► data/stocks/dohod/ ────┐
-                                           ├─ raw.githubusercontent.com ─► read on every sync
+smart-lab.ru ─────► data/stocks/smartlab/ ─┼─ raw.githubusercontent.com ─► read on every sync
 parus.properties ─► data/funds/ ───────────┘
-smart-lab.ru ─────► data/stocks/smartlab/     (not read by the app yet)
 
 MOEX ISS ──────────────────── read by the app directly ───────────────► prices, bond coupons,
                                                                         exchange rates
@@ -20,8 +19,10 @@ MOEX ISS ──────────────────── read by th
 - A browser cannot scrape other sites (CORS, HTML), so the scrapers run here on a schedule and
   publish plain JSON that the app fetches as static files.
 - Since autumn 2026 MOEX ISS serves dividends to paying subscribers only, so these files are the
-  app's only source of stock dividends (dohod.ru) and fund distributions (Parus). The app prefers
-  them per security (dohod.ru for stocks, Parus for funds) and keeps one source per security.
+  app's only source of stock dividends (dohod.ru, smart-lab) and fund distributions (Parus). The
+  app keeps one source per security: dohod.ru for a stock it lists, smart-lab for the others,
+  Parus for funds. Under dohod.ru, smart-lab only refines upcoming dividends — a board
+  recommendation is labelled «рекомендовано», a cancelled dividend leaves the forecast.
 - A run commits only when the data changed. Every run rewrites `scrapedAt` / `updatedAt`; a run
   where nothing else changed commits nothing, so `scrapedAt` is when the file was last written
   with new data, and the Actions log shows every check.

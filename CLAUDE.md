@@ -36,7 +36,7 @@ scripts/
     scrape.py      # entry point — site first, sheets for what the site missed, MOEX secid → aliases
 data/
   stocks/dohod/    # raw dohod.ru data per ticker
-  stocks/smartlab/ # raw smart-lab.ru data per ticker (not read by the app yet)
+  stocks/smartlab/ # raw smart-lab.ru data per ticker
   funds/distributions/  # raw Parus fund data per fund, file name = ISIN
 ```
 
@@ -52,7 +52,7 @@ collection and redistribution without written permission.
 - **Funds**: every Monday 05:47 UTC (`update-funds.yml`)
 - **smart-lab**: every Monday 06:17 UTC (`update-smartlab.yml`); the run fails (and commits nothing) when the shares list or the calendar is unavailable, 8 pages in a row fail, or no page parses — a failed scheduled run emails the repo owner
 - Both commit through `.github/scripts/commit-data.sh <dir> <message>`: it commits only when something besides `scrapedAt` / `updatedAt` changed (every run rewrites those), and does `git pull --rebase` before pushing because the two workflows may push close together. Keep any new scraper's workflow on the same script.
-- Consumer: the Рантье app (github.com/amchercashin/rantie) reads `data/` from raw.githubusercontent.com on every sync; since autumn 2026 MOEX ISS gives no free dividends, so this repo is its only source of stock dividends and Parus distributions.
+- Consumer: the Рантье app (github.com/amchercashin/rantie) reads `data/` from raw.githubusercontent.com on every sync; since autumn 2026 MOEX ISS gives no free dividends, so this repo is its only source of stock dividends and Parus distributions. The app takes a stock from dohod.ru when it lists it, otherwise from smart-lab; under dohod.ru it reads smart-lab only for upcoming dividends (`recommended` → «рекомендовано», `canceled` → no payment expected). It relies on: per-ticker files named by the current ticker, `status` values, several rows per record date, `currency` (non-RUB rows are skipped).
 
 ## Gotchas
 
