@@ -1,8 +1,16 @@
 {
   "ticker": "GEMA",
   "page": "https://smart-lab.ru/q/GEMA/dividend/",
-  "scrapedAt": "2026-11-12T08:08:42Z",
+  "scrapedAt": "2026-11-16T15:57:06Z",
   "payments": [
+    {
+      "recordDate": "2026-12-29",
+      "lastBuyDate": "2026-12-28",
+      "period": "3кв 2026",
+      "amount": 2.33,
+      "currency": "RUB",
+      "status": "recommended"
+    },
     {
       "recordDate": "2026-09-28",
       "lastBuyDate": "2026-09-25",
