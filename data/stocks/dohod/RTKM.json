@@ -1,11 +1,11 @@
 {
   "ticker": "RTKM",
-  "scrapedAt": "2026-11-12T07:18:46Z",
+  "scrapedAt": "2026-11-16T13:48:26Z",
   "payments": [
     {
       "recordDate": "2027-07-20",
       "declaredDate": null,
-      "amount": 3.59,
+      "amount": 2.62,
       "year": null,
       "isForecast": true
     },

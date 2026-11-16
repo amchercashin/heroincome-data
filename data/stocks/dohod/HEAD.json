@@ -1,18 +1,18 @@
 {
   "ticker": "HEAD",
-  "scrapedAt": "2026-11-12T07:16:53Z",
+  "scrapedAt": "2026-11-16T13:46:33Z",
   "payments": [
     {
       "recordDate": "2027-09-28",
       "declaredDate": null,
-      "amount": 212.0,
+      "amount": 202.0,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2027-05-12",
       "declaredDate": null,
-      "amount": 150.91,
+      "amount": 142.5,
       "year": null,
       "isForecast": true
     },

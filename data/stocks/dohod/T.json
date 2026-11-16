@@ -1,18 +1,18 @@
 {
   "ticker": "T",
-  "scrapedAt": "2026-11-12T07:19:15Z",
+  "scrapedAt": "2026-11-16T13:48:56Z",
   "payments": [
     {
       "recordDate": "2027-10-12",
       "declaredDate": null,
-      "amount": 6.44,
+      "amount": 5.7,
       "year": null,
       "isForecast": true
     },
     {
       "recordDate": "2027-08-10",
       "declaredDate": null,
-      "amount": 6.33,
+      "amount": 5.3,
       "year": null,
       "isForecast": true
     },
