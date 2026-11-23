@@ -1,11 +1,11 @@
 {
   "ticker": "OZON",
-  "scrapedAt": "2026-11-16T13:48:05Z",
+  "scrapedAt": "2026-11-23T16:09:45Z",
   "payments": [
     {
-      "recordDate": "2027-05-26",
+      "recordDate": "2027-01-12",
       "declaredDate": null,
-      "amount": 64.0,
+      "amount": 120.0,
       "year": null,
       "isForecast": true
     },

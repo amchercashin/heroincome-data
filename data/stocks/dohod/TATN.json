@@ -1,6 +1,6 @@
 {
   "ticker": "TATN",
-  "scrapedAt": "2026-11-16T13:48:58Z",
+  "scrapedAt": "2026-11-23T16:10:40Z",
   "payments": [
     {
       "recordDate": "2027-10-13",
@@ -17,9 +17,9 @@
       "isForecast": true
     },
     {
-      "recordDate": "2027-01-11",
+      "recordDate": "2027-01-10",
       "declaredDate": null,
-      "amount": 19.99,
+      "amount": 31.44,
       "year": null,
       "isForecast": true
     },
