@@ -1,8 +1,16 @@
 {
   "ticker": "MTSS",
   "page": "https://smart-lab.ru/q/MTSS/dividend/",
-  "scrapedAt": "2026-11-16T15:57:06Z",
+  "scrapedAt": "2026-11-23T18:20:16Z",
   "payments": [
+    {
+      "recordDate": "2027-01-18",
+      "lastBuyDate": "2027-01-15",
+      "period": "3кв 2026",
+      "amount": 7.0,
+      "currency": "RUB",
+      "status": "recommended"
+    },
     {
       "recordDate": "2026-07-09",
       "lastBuyDate": "2026-07-08",

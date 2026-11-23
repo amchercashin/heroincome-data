@@ -1,8 +1,16 @@
 {
   "ticker": "TATN",
   "page": "https://smart-lab.ru/q/TATN/dividend/",
-  "scrapedAt": "2026-11-16T15:57:06Z",
+  "scrapedAt": "2026-11-23T18:20:16Z",
   "payments": [
+    {
+      "recordDate": "2026-12-25",
+      "lastBuyDate": "2026-12-24",
+      "period": "3кв 2026",
+      "amount": 31.44,
+      "currency": "RUB",
+      "status": "recommended"
+    },
     {
       "recordDate": "2026-10-13",
       "lastBuyDate": "2026-10-12",
